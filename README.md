@@ -1,5 +1,7 @@
 # Striking Distance: Mapping U.S. Aircraft Carrier Deployments, 2012-2018
 
+![media/ScreenShot2018-01-08.png](media/ScreenShot2018-01-08.png)
+
 ## Literature Review
 
 Elleman, Bruce A., and Sarah C. M. Paine. Naval Blockades and Seapower: Strategies and Counter-Strategies, 1805-2005. New York, NY: Routledge, 2005. ```(annotation goes here)```
