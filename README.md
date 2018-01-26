@@ -87,14 +87,16 @@
 | CVN 77 USS *George H.W. Bush* - Norfolk, VA | |
 | CVN 78 USS *Gerald R. Ford* - Norfolk, VA | |
 
-## Carrier Types
+## Key Carrier Technologies
 
-* CATOBAR (Catapult Assisted Take-Off But Arrested Recovery) -- U.S. and France
-* STOBAR (Short Take-Off But Arrested Recovery) -- Russia, China, and India
+* Catapult Assisted Take-Off But Arrested Recovery (CATOBAR) -- U.S. and France
+  * Electromagnetic Aircraft Launch System (EMALS) -- U.S. and China
+* Short Take-Off But Arrested Recovery (STOBAR) -- Russia, China, and India
+* Short Take-Off and Vertical Landing (STOVL) -- UK, Italy, Spain, and Thailand
 
 ## Current Carrier Powers
 
-```States whose navies currently field STOBAR/CATOBAR carriers; excludes helicopter carriers/amphibious assault ships```
+```States whose navies currently field CATOBAR/EMALS/STOBAR/STOVL carriers; excludes helicopter carriers/amphibious assault ships```
 
 | State | Carriers in Service | Carriers in Reserve | Carriers Under Construction |
 | ---: | :---: | :---: |:--- |
@@ -106,11 +108,11 @@
 | Spain | 1 | 0 | 0 |
 | Thailand | 1 | 0 | 0 |
 | UK | 1 | 0 | 1 |
-| US | 11 | 0 | 2 |
+| U.S. | 11 | 0 | 2 |
 
 ## Future Carrier Powers
 
-```States whose navies have STOBAR/CATOBAR carriers currently on order and under construction```
+```States currently lacking carriers whose navies have CATOBAR/EMALS/STOBAR/STOVL carriers currently on order and under construction```
 
 | State | Carriers in Service | Carriers Under Construction |
 | ---: | :---: | :--- |
@@ -118,7 +120,7 @@
 
 ## Past Carrier Powers
 
-```States whose navies have decomissioned all STOBAR/CATOBAR carriers, with no replacement vessels under construction```
+```States currently lacking carriers whose navies have decomissioned all CATOBAR/EMALS/STOBAR/STOVL carriers, with no replacement vessels under construction```
 
 | State | Decommissioned Carriers | Carriers Under Construction |
 | ---: | :---: | :--- |
@@ -129,7 +131,7 @@
 
 ## Potential Carrier Powers
 
-```States whose navies have planned STOBAR/CATOBAR carriers, but cancelled construction for any reason```
+```States currently lacking carriers whose navies have planned CATOBAR/EMALS/STOBAR/STOVL carriers in the past, but cancelled construction for any reason```
 
 | State | Planned Carriers (Never Completed) | Carriers Under Construction |
 | ---: | :---: | :--- |
