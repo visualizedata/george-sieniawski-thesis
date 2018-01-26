@@ -14,7 +14,7 @@
 * beyond NATO, which blocs matter most in terms of carrier data?
 * to what extent are RCOH outages perceptible in the carrier deployment cycle?
 * were there any significant incidents during the relevant reporting period? (e.g. MH-370 and ARA San Juan)
-* to what extent does carrier coverage correlate with undersea communication cables?
+* to what extent does carrier coverage correlate with [undersea communication cables](https://www.submarinecablemap.com/)?
 * to what extent does carrier coverage correlate with Russia/NATO tensions?
 * to what extent does carrier coverage correlate with tensions on the Korean peninsula?
 * to what extent does carrier coverage correlate with Iranian tensions?
