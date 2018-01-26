@@ -16,6 +16,15 @@
 | CVN 75 *USS Harry S. Truman* | Norfolk, VA | 3/25/2011 | Undergoing an 11M Docking Planned Incremental Availability (DPIA) maintenance period in Newport News, VA |
 | CVN 77 *USS George H.W. Bush* | Norfolk, VA | 5/15/2012 | Returned to home port |
 
+| PACIFIC CARRIERS | HOME PORT | AS OF | NOTES:
+| ---: | :---: | :---: | :--- |
+| CVN 68 *USS Nimitz* | Everett, WA | 5/15/2012 | Underway in the Pacific Ocean conducting Carrier Qualifications (CQ) |
+| CVN 70 *USS Carl Vinson* | San Diego, CA | 5/15/2012 | Scheduled port visit to Pearl Harbor, HI |
+| CVN 72 *USS Abraham Lincoln* | Everett, WA | 5/15/2012 | Conducting maritime security operations/support missions in the U.S. Fifth Fleet Area of Responsibility (AOR) |
+| CVN 73 *USS George Washington* | Yokosuka, Japan | 5/15/2012 | In home port |
+| CVN 74 *USS John C. Stennis* | Kitsap-Bremerton, WA | 5/15/2012 | In home port |
+| CVN 76 *USS Ronald Reagan* | San Diego, CA | 1/20/2012 | Undergoing an 11M Docking Planned Incremental Availability (DPIA) maintenance period in Kitsap-Bremerton, WA |
+
 ### ```157 week period``` from November 21, 2013 to November 24, 2016
 
 ### ```57+ week period``` from December 22, 2016 to Present
