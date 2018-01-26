@@ -103,6 +103,8 @@
 * Short Take-Off But Arrested Recovery (STOBAR) -- Russia, China, and India
 * Short Take-Off and Vertical Landing (STOVL) -- UK, Italy, Spain, and Thailand
 
+## Maritime States Capable of Carrier-Based Power Projection
+
 ### Current Carrier Powers
 
 ```States whose navies currently field CATOBAR/EMALS/STOBAR/STOVL carriers; excludes helicopter carriers/amphibious assault ships```
