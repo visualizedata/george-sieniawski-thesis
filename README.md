@@ -885,7 +885,7 @@ Source: Burgess, Malcolm William. *Warships To-day* London: Oxford University Pr
 * https://www.youtube.com/watch?v=px_J0khskz8
 * https://www.youtube.com/watch?v=KBr5YzNCDoY
 
-## Literature Review
+## Bibliography
 
 Alford, Jonathan. *Sea Power and Influence: Old Issues and New Challenges.* London: International Institute for Strategic Studies, 1980.
 
