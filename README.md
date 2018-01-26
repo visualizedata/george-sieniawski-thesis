@@ -863,6 +863,9 @@ Brodie, Bernard. *Sea Power in the Machine Age.* Princeton, NJ: Princeton Univer
 
 Brzezinski, Zbigniew. *The Grand Chessboard: American Primacy and Its Geostrategic Imperatives.* New York: Basic Books, 1997.
 
+De Blij, Harm J. Why Geography Matters: Three Challenges Facing America: Climate Change, the Rise Of China, and Global Terrorism. Oxford: Oxford University Press, 2005.
+
+
 Dutton, Peter, Robert S. Ross and Øystein Tunsjø, eds. *Twenty-first Century Seapower: Cooperation and Conflict at Sea.* Abingdon: Routledge, 2013.
 
 Elleman, Bruce A., and Sarah C. M. Paine. *Naval Blockades and Seapower: Strategies and Counter-Strategies, 1805-2005.* London: Routledge, 2006.
@@ -878,6 +881,8 @@ Haskew, Michael E. *Aircraft Carriers: The Illustrated History of the World's Mo
 Horowitz, Michael C. *The Diffusion of Military Power: Causes and Consequences for International Politics.* Princeton, NJ: Princeton University Press, 2010.
 
 Howe, Jonathan T. *Multicrises: Sea Power and Global Politics in the Missile Age.* Cambridge, MA: MIT Press, 1971.
+
+Kadmon, Naftali. *Toponymy: the Lore, Laws and Language of Geographic Names.* New York: Vantage Press, 2000.
 
 Koburger, Jr. Charles W. *Narrow Seas, Small Navies, and Fat Merchantmen.* New York: Praeger, 1990.
 
