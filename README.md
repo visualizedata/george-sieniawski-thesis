@@ -164,15 +164,38 @@
 
 * **01: MAKE PUBLIC STATEMENT** -- source: [GDELT/CAMEO Cookbook](http://data.gdeltproject.org/documentation/CAMEO.Manual.1.1b3.pdf)
   * 010: Make statement, not specified below
+    * ```All public statements expressed verbally or in action not otherwise specified```
+    * example: U.S. military chief General Colin Powell **said** on Wednesday . . .
   * 011: Decline comment
+    * ```Explicitly decline or refuse to comment on a situation```
+    * example: NATO on Monday **declined to comment** on an estimate . . .
   * 012: Make pessimistic comment
+    * ```Express pessimism, negative outlook```
+    * example 1: Former West Germany Chancellor Willy Brandt **said** in a radio interview broadcast today **he was skeptical** over Moscow’s will . . .
+    * example 2: Israeli Prime Minister Ehud Barak **said** Friday **he was very pessimistic** about the chances of resuming peace talks . . .
   * 013: Make optimistic comment
+    * ```Express optimism, assurance, confidence```
+    * example 1: Turkish President Turgut Ozal **said** on Wednesday **he was confident** that the United States would . . .
+    * example 2: The European Community **said** on Thursday **it hoped** the lifting of martial law . . .
   * 014: Consider policy option
+    * ```Review, reflect upon, or study policy option```
+    * example 1: Europe’s leading security forum is **exploring the possibility** of international patrols . . .
+    * example 2: Malaysia is **considering** giving money to 20,000 Vietnamese boat people . . .
   * 015: Acknowledge or claim responsibility
+    * ```Non-apologetically claim responsibility, admit an error or wrongdoing, or retract a statement without expression of remorse```
+    * example: A Damascus-based Palestinian guerrilla group **claimed responsibility** on Saturday for . . .
   * 016: Deny responsibility
+    * ```Discard or deny accusations or charges```
+    * example 1: The government of Liberia **denied** on Thursday **charges** by Ivory Coast that . . .
+    * example 2: South Korea on Friday **rejected** as “totally baseless” **accusations** by Amnesty International that . . .
   * 017: Engage in symbolic act
+    * ```Engage in symbolic activities such as holding vigils, attending funerals, and laying wreath```
   * 018: Make empathetic comment
+    * ```Express empathy, condolences, sympathy, understanding```
+    * example: Secretary-General Boutros Boutros-Ghali on Saturday **expressed condolences** . . .
   * 019: Express accord
+    * ```Express common understanding, agreement, or accord```
+    * example: President Reagan and Egyptian President Hosni Mubarak **agreed** today **there was an urgent need for progress** . . .
 
 * **02: APPEAL** -- source: [GDELT/CAMEO Cookbook](http://data.gdeltproject.org/documentation/CAMEO.Manual.1.1b3.pdf)
   * 020: Make an appeal or request, not specified below
