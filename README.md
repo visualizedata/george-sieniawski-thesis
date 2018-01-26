@@ -907,4 +907,4 @@ Stavridis, James. *Sea Power: The History and Geopolitics of the World's Oceans.
 
 Till, Geoffrey. *Seapower: A Guide For the Twenty-First Century.* Hoboken, NJ: Taylor & Francis, 2009.
 
-Yardley, Roland F. *Increasing Aircraft Carrier Forward Presence : Changing the Length of the Maintenance Cycle.*  Santa Monica, CA: RAND Corporation, 2006.
+Yardley, Roland F. *Increasing Aircraft Carrier Forward Presence: Changing the Length of the Maintenance Cycle.*  Santa Monica, CA: RAND Corporation, 2006.
