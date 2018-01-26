@@ -153,7 +153,7 @@
 
 ## Event Coding from the Conflict and Mediation Event Observations (CAMEO) Framework
 
-**01: MAKE PUBLIC STATEMENT** -- source ![http://data.gdeltproject.org/documentation/CAMEO.Manual.1.1b3.pdf](GDELT/CAMEO Cookbook)
+**01: MAKE PUBLIC STATEMENT** -- source: [GDELT/CAMEO Cookbook](http://data.gdeltproject.org/documentation/CAMEO.Manual.1.1b3.pdf)
   010: Make statement, not specified below
   011: Decline comment
   012: Make pessimistic comment
