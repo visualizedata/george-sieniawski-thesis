@@ -170,8 +170,8 @@
 * Enmei Tu, Guanghao Zhang, Lily Rachmawati, Eshan Rajabally, and Guang-Bin Huang -- Exploiting AIS Data for Intelligent Maritime Navigation: A Comprehensive Survey (2016)
 
 ## Diplomatic Tension/Military Escalation Data 
-* Global Database of Events, Language, and Tone (GDELT)
-* Integrated Conflict Early Warning System (ICEWS)
+* [Global Database of Events, Language, and Tone (GDELT)](https://www.gdeltproject.org/)
+* Lockheed Martin [Integrated Conflict Early Warning System (ICEWS)](https://www.lockheedmartin.com/us/products/W-ICEWS.html)
 
 ## Event Coding from the Conflict and Mediation Event Observations (CAMEO) Framework
 
@@ -882,6 +882,8 @@ Koburger, Jr. Charles W. *Narrow Seas, Small Navies, and Fat Merchantmen.* New Y
 Lambeth, Benjamin S. *American Carrier Air Power at the Dawn of a New Century.* Santa Monica, CA: RAND Corporation, 2006.
 
 Lambeth, Benjamin S. *Combat Pair: The Evolution of Air Force-Navy Integration in Strike Warfare.* Santa Monica, CA: RAND Corporation, 2006.
+
+[Leetaru, Kalev H. and Philip A. Schrodt. *GDELT: Global Data on Events, Language, and Tone, 1979-2012.*  Paper presented at the International Studies Association Annual Convention, San Francisco, CA: April 3, 2013.](http://data.gdeltproject.org/documentation/ISA.2013.GDELT.pdf)
 
 Lord, Carnes. *Rebalancing the Force: Basing and Forward Presence in the Asia-Pacific.* Annapolis, MD: Naval Institute Press, 2014.
 
