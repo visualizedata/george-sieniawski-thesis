@@ -10,10 +10,10 @@ Friedman, Norman. *Seapower as Strategy: Navies and National Interests.* Annapol
 
 Haskew, Michael E. *Aircraft Carriers: The Illustrated History of the World's Most Important Warships.* Minneapolis, MN: Zenith Press, 2016. ```(annotation goes here)```
 
-McBride, William M. *Technological change and the United States Navy, 1865-1945.* Baltimore: Johns Hopkins University Press, 2000. ```(annotation goes here)```
+McBride, William M. *Technological change and the United States Navy, 1865-1945.* Baltimore, MD: Johns Hopkins University Press, 2000. ```(annotation goes here)```
 
 Slater, David, and Peter James Taylor. *The American Century: Consensus and Coercion in the Projection of American Power.* Oxford: Blackwell, 1999. ```(annotation goes here)```
 
-Stavridis, James. *Sea Power: The History and Geopolitics of the World's Oceans.* Penguin Group USA, 2017. ```(annotation goes here)```
+Stavridis, James. *Sea Power: The History and Geopolitics of the World's Oceans.* New York: Penguin Press, 2017. ```(annotation goes here)```
 
-Till, Geoffrey. *Seapower: A Guide For the Twenty-First Century.* Hoboken: Taylor & Francis, 2009. ```(annotation goes here)```
+Till, Geoffrey. *Seapower: A Guide For the Twenty-First Century.* Hoboken, NJ: Taylor & Francis, 2009. ```(annotation goes here)```
