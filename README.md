@@ -4,6 +4,12 @@
 
 ![media/ScreenShot2018-01-11.png](media/ScreenShot2018-01-11.png)
 
+## Time Series Breakdown
+
+| 1 | 2 | 3 |
+|---:|:---:|:---|
+| May 23, 2012 - Nov. 14, 2013 | Nov. 21, 2013 - Nov. 24, 2016 | Dec. 22, 2016 - Present |
+
 ## Carrier Data
 
 ### Sample AIS data for the ```77 week period``` from May 23, 2012 to November 14, 2013
@@ -488,6 +494,321 @@
   * 204: Use weapons of mass destruction, not specified below
     * 2041: Use chemical, biological, or radiological weapons
     * 2042: Detonate nuclear weapons
+    
+## Main Actors in APAC/MENA/Eurasia, 2012-2018
+
+* U.S.
+* China
+* Taiwan
+* North Korea
+* Japan
+* Philippines
+* Malaysia
+* Indonesia
+* Australia
+* Timor
+* Sweden
+* Denmark
+* Germany
+* NATO
+* Russia
+* Ukraine
+* Turkey
+* Syria
+* Egypt
+* Lebanon
+* Iran
+* Saudi Arabia
+* Yemen
+* Oman
+* Djibouti
+* Somalia
+
+## Major Maritime Chokepoints, Pinch Points, and Hotspots
+
+### U.S. 3rd Fleet AOR
+* Bering Strait -- 65°53'37.68" N, 168°23'43.44" W
+  * Bering Strait East
+  * Bering Strait West
+* Isanotski Strait -- 54°49'46" N, 163°22'50" W
+* Chatham Strait/Menzies Strait -- 56°57'54" N, 134°37'32" W
+* Clarence Strait -- 26°57'58" N, 55°44'22" E
+* Shelikof Strait -- 57°52'54" N, 154°25'31" W
+* Icy Strait -- 58°16'41" N, 135°38'48" W
+* Etolin Strait -- 60°20'0" N, 165°25'0" W
+* Unimak Pass -- 54°20'1" N, 164°55'14" W
+* Akutan Pass -- 54°03'4" N, 166°06'40" W
+* Unalga Pass -- 53°57'4" N, 166°12'18" W
+* Strait of Baltiysk -- 54°38'28" N, 19°52'42" E
+* Strait of Georgia -- 49°21'24.84" N, 123°52'22.08" W
+* Strait of Juan de Fuca -- 48°15'28.52" N, 123°21'37.97" W
+* Boundary Pass -- 48°42'28.13" N, 123°11'6.49" W
+* Haro Strait -- 48°34'0.9" N, 123°14'3.96" W
+* Rosario Strait -- 48°43'37.42" N, 122°46'32.71" W
+* Hecate Strait -- 53°10'47.5" N, 130°49'43.02" W
+* Dixon Entrance -- 54°24'47.16" N, 131°57'31.68" W
+* Honguedo Strait/Gaspe Passage -- 10°00'0.00" N, 61°30'0.00" W
+* Jacques Cartier Passage -- 49°58'0" N, 62°46'60" W
+* Cabot Strait -- 47°03'32.38" N, 60°31'42.27" W
+* Hudson Strait -- 61°47'7.62" N, 70°16'58.42" W
+
+### U.S. 4th Fleet AOR
+* Beagle Channel -- 54°53'23.64" S, 67°50'5.64" W
+* Drake Passage -- 59°54'51.12" S, 62°23'2.04" W
+* Strait of Magellan/Estrecho de Magallanes -- 53°35'19.68" S, 70°45'34.92" W
+* Strait of Florida -- 23°23'15" N, 82°23'18.96" W
+  * Strait of Florida East
+  * Strait of Florida West
+* Mona Passage -- 18°30'0" N, 67°45'0" W
+* Yucatán Strait -- 21°34'25.19" N, 85°54'16.19" W
+* Martinique Passage -- 15°10'0.0001" N, 61°15 0" W
+* Columbus Channel/Boca de la Serpiente -- 10°00'0.00" N, 61°30'0.00" W
+* Bocas del Dragón -- 10°45'N, 61°46'W
+* Jamaica Channel/Jamaica Passage -- 18°08'7.48" N, 75°17'41.28" W
+* Gulf of Darién -- 9°25'41.88" N, 77°3'39.96" W
+* Panama Canal -- 9°7'2.28" N, 79°43'7.68" W
+
+### U.S. 5th Fleet AOR
+* Suez Canal -- 30°27'18" N, 32°21'0" E
+* Strait of Tiran -- 28°01'7.98" N, 34°28'30.98" E
+* Bab-el-Mandeb -- 12°29'49.2" N, 43°33'38.52" E
+* Bab Iskender -- 12°40'2.39" N, 43°26'29.39" E
+* Dact-el-Mayun -- 12°33'16.4304" N, 43°20'47.6088" E
+* Gulf of Aden -- 12°31'59.16" N, 47°55'20.64" E
+* Strait of Hormuz -- 26°35'40.2" N, 56°28'19.2" E
+* Clarence Strait -- 26°57'58" N, 55°44'22" E
+
+### U.S. 6th Fleet AOR
+* Irbe Strait -- 57°49'41.6" N, 22°08'16.03" E
+* Skagerrak -- 58°21'8.28" N, 9°55'53.4" E
+* Kattegat -- 56°57'7.2" N, 11°18'1.44" E
+* Kiel Canal (inland) -- 53°52'59.99" N, 9°07'60.00" E
+* Strait of Aaland/Ålands hav/Ahvenanrauma -- 60°01'30.68" N, 19°23'17.76" E
+* Øresund -- 55°46'0.84" N, 12°43'51.96" E
+* Storebælt -- 55°23'55.32" N, 10°58'24.24" E
+* Lillebælt -- 55°23'7.8" N, 9°43'19.2" E
+* Fram Strait -- 57°43'32.41"N, 10°34'1.42"E
+* GIUP Gap -- 62°28'41.052" N, 5°34'51.798" W
+* Dover Strait -- 51°2'42.36" N, 1°27'7.56" E
+* Gulf of Guinea -- 3°44'7.8" N, 3°44'36.6" E
+* Zanzibar Channel -- 5°24'20.01" N, 100°21'13.44" E
+* Mozambique Channel -- 18°36'57.42" S, 41°16'51.09" E
+* Cape Agulhas -- 34°49'51.96" S, 20°0'47.16" E
+* Cape of Good Hope -- 34°21'24.48" S, 18°28'26.4" E
+* Strait of Gibraltar -- 35°56'10.0032" N, 5°39'33.5952" W
+* Strait of Otranto -- 40°13'5.88" N, 18°55'19.2" E
+* Strait of Sicily -- 37°19'59.988" N, 11°19'59.988" E
+* Corfu Channel -- 39°46'12" N, 19°58'12" E
+* Malta Channel -- 36°21'56.16" N, 14°34'42.96" E
+* Dardanelles/Çanakkale/Hellespont -- 40°2'53.52" N, 26°18'4.68" E
+* Sea of Marmara -- 40°43'21" N, 28°13'28.92" E
+* Bosporous/Boğaziçi/Boğazı -- 41°13'16.68" N, 29°7'44.4" E
+* Kerch Strait -- 45°14'29.04" N, 36°31'46.56" E
+
+### U.S. 7th Fleet AOR
+* Spangberg Channel/Shikotan Channel
+* Polonskogo Channel/Taraku Channel
+* Vojeikov Channel/Shibotsu Channel
+* Yuri Channel
+* Duncan Passage -- 11°01'60" N, 92°34'60" E
+* Nine Degree Channel -- 9°00'00" N, 73°00'00" E
+* Palk Strait -- 8°30'32.15" N 79°11'59.98" E 
+* Ten Degree Channel -- 10°00'00" N, 92°30'00" E
+* Dumai Strait -- 1°41'59.4312" N, 101°28'14.7252" E
+* Timor Gap -- 9°32'28.1976" S, 126°36'23.202" E
+* Serasan Passage/Selat Serasan -- 2°19'59.988" N, 109°0'0" E
+* Coco Islands Channel -- 13°39'28.56" N, 94°14'34.77" E
+* Miyako Strait/Kerama Gap -- 25°25'29.9352" N, 126°36'42.9768" E
+* La Pérouse Strait/Sōya Strait -- 45°43'11.99" N, 142°01'21.60" E
+* Strait of Tatary/Provliv Tatarskiy -- 47°57'36.58" N, 140°35'19.99" E
+* Tsugaru Strait -- 41°37'56.64" N, 140°41'27.6" E
+* Osumi Strait/Osumi Kaikyo/Van Diemen Strait -- 30°55'23.2968" N, 130°55'46.434" E
+* Bungo Channel -- 32°54'32.40" N, 132°15'0.00" E
+* Hōyo Strait -- 33°17'60.00" N, 131°58'1.20" E
+* Kanmon Strait/Strait of Shimonoseki -- 33°56'29.39" N, 130°56'28.79" E
+* Kii Channel -- 34°4'38.64" N, 134°53'16.8" E
+* Kitan Strait/Tomogashima Channel -- 34°16'51.6" N, 135°0'1.2996" E
+* Myeongnyang Strait/Uldolmok Strait -- 34°34'15.0" N, 126°18'22.4" E
+* Vitiaz Strait -- 5°45'51.83" S, 147°22'20.12"E
+* Pitt Strait -- 0°53'37"S, 130°45'30"E
+* Berhala Strait/Selat Berhala -- 0°52'0.13" S, 104°25'14.63" E
+* Pandan Strait -- 1°13'51.9" N, 103°42'33.8"E
+* Bangka Strait/Selat Bangka -- 2°34'47.03" S, 105°46'58.93" E
+* Strait of Durian -- 00°42'00" N, 103°42'00" E
+* Qiongzhou Strait -- 20°09' N, 110°16'E 
+* Alor Strait -- 8°19'60.00" S, 123°47'59.99" E
+* Badung Strait -- 8°38'18.3523" S, 115°21'45.8788" E
+* Madura Strait -- 7°11'47.5" S, 112°41'47.5"E
+* Sumba Strait/Selat Sumba -- 9°5'0"S, 120°0'0"E
+* Akashi Strait -- 34°37'3" N, 135°1'18.12" E
+* Naruto Strait -- 34°11'50.28" N, 134°35'45.96" E
+* Nemuro Strait/Notsuke Strait/Kunashirsky Strait -- 44°1'59.16" N, 145°27'34.56" E
+* Ondo-no-seto -- 34°12'10.8" N, 34°12'10.8" E
+* Taiwan Strait/Formosa Strait/Taiwan Haixia -- 24°39'29.16" N, 119°41'52.44" E
+* East Korea Strait/Tsushima Strait -- 34°35'57.84" N, 129°47'48.12" E
+* Strait of Malacca -- 4°39'45.36" N, 99°32'42.36" E
+* Strait of Penang -- 5°24'20.01" N, 100°21'13.44" E
+* Mentawai Strait -- 5°24'20.01" N, 100°21'13.44" E
+* Bali Strait/Selat Bali -- 5°24'20.01" N, 100°21'13.44" E
+* Singapore Strait -- 1°15'2.826" N, 104°0'26.046" E
+* Lombok Strait/Selat Lombok -- 8°39'3.5244" N, 116°19'29.7984" E
+* Alas Strait/Selat Alas -- 14°23'43.0832" N, 120°57'38.4401" E
+* Makassar Strait -- 2°13'1.0848" S, 117°54'38.7612" E
+* Lifamatola Passage -- 5°47'2.634" S, 115°43'47.928" E
+* Karimata Strait/Selat Karimata -- 2°19'27.12" N, 108°51'41.04" E
+* Sibutu Passage -- 4°49'59.88" N, 119°34'59.88" E
+* Mindoro Strait -- 12°11'10.32" N, 120°42'43.2" E
+* Ombai Strait/Selat Ombai -- 8°42'24.12" N, 124°38'53.88" E
+* Wetar Strait -- 8°10'5.02" S, 126°10'1.2" E
+* Cook Strait -- 41°20'27.6" S, 174°18'43.56" E
+* Luzon Strait -- 20°6'18" N, 121°56'50.28" E
+  * Babuyan Channel
+  * Balintang Channel
+  * Bashi Channel
+* Mindoro Strait -- 12°11'10.32" N, 120°42'43.2" E
+* Balabac Strait -- 7°38'3.9696" N, 117°0'55.3716" E
+* Bashi Channel -- 21°39'3.5935" N, 121°2'0.636" E
+* Torres Strait -- 9°52'49.0001" S, 142°35'26.0002" E
+* Bougainville Strait -- 6°24'0" S, 156°5'60" E
+* Indispensable Strait -- 8°55'27.12" S, 160°31'35.4" E
+* Manning Strait -- 7°22'43.716" S, 157°54'3.6036" E
+* Bass Strait -- 39°18'55.08" S, 145°50'48.48" E
+* Foveaux Strait -- 46°35'21.6" S, 168°03'46.41" E
+* Gaspar Strait/Selat Gaspar of Selat Kelasa -- 2°52'57.6984" S, 107°13'35.6268" E
+
+## Homeports, Garrisons, Forward Bases, and Drydocks Capable of Handling CVNs or LHBs
+
+### Pacific Carrier Bases
+
+* Naval Station Everett -- Everett, WA -- 47°59'33.54" N, 122°13'5.79" W
+  ![media/Naval Station Everett](media/NavalStationEverett.jpg)
+* Naval Base Kitsap -- Kitsap/Bremerton, WA -- 47°43'14" N, 122°42'47" W
+  ![media/Naval Base Kitsap](media/NavalBaseKitsap.jpg)
+  * Puget Sound Naval Shipyard and Intermediate Maintenance Facility -- 47°33'30.6" N, 122°38'39.12" W
+  * General Dynamics NASSCO Bremerton -- 47°33'34.8296" N, 122°38'10.1206" W
+* Naval Base San Diego -- San Diego, CA -- 32°40'55.83" N, 117°7'46.02" W
+  ![media/Naval Base San Diego](media/NavalBaseSanDiego.jpg)
+  * General Dynamics NASSCO San Diego -- 32°40'26.7816" N, 117°7'56.2152" W
+* Naval Station Pearl Harbor -- Pearl Harbor, HI -- 21°20'57.372" N, 157°56'38.292" W
+  ![media/Naval Station Pearl Harbor](media/NavalStationPearlHarbor.jpg)
+  * BAE Systems Hawaii Shipyards -- 21°20'49.2" N, 157°57'57.24" W
+* Naval Support Facility Diego Garcia -- Diego Garcia (BIOT) -- 7°18'48" S, 72°24'40" E
+  ![media/Naval Support Facility Diego Garcia](media/NavalSupportFacilityDiegoGarcia.jpg)
+* Naval Base Guam -- Guam -- 13°26'24" N, 144°39'9" E
+  ![media/Naval Base Guam](media/NavalBaseGuam.jpg)
+* U.S. Fleet Activities Sasebo -- Sasebo, Japan -- 33°10'47.6951" N, 129°42'54.3964" E
+  ![media/U.S. Fleet Activities Sasebo](media/USFleetActivitiesSasebo.JPG)
+* U.S. Fleet Activities Yokosuka -- Yokosuka, Japan -- 35°17'26.52" N, 139°40'9.48" E
+  ![media/U.S. Fleet Activities Yokosuka](media/USFleetActivitiesYokosuka.jpg)
+* U.S. Fleet Activities Chinhae -- Busan, South Korea -- 35°08'53.13" N, 128°38'1.56" E
+  ![media/CarrierChinhae.jpg](media/CarrierChinhae.jpg)
+
+* Changi Naval Base (CNB) -- Singapore -- 1°19'3.72" N, 104°0'58.68" E
+  ![media/CarrierChangi.jpg](media/CarrierChangi.jpg)
+
+* Victoria Harbour -- Hong Kong, HKSAR -- 22°17'26.31" N, 114°09'46.45" E
+  ![media/CarrierVictoria.jpg](media/CarrierVictoria.jpg)
+
+* Port of Laem Chabang -- Chonburi, Thailand -- 13°6'14.76" N, 100°54'56.88" E
+  ![media/CarrierLaemChabang.jpg](media/CarrierLaemChabang.jpg)
+
+* Port Klang -- Selangor, Malaysia -- 3°0'0" N, 101°24'0" E
+  ![media/CarrierPortKlang.jpg](media/CarrierPortKlang.jpg)
+
+* HMAS Kuttabul/Fleet Base East/Woolloomooloo -- Sydney, New South Wales, Australia -- 33°51'50" S, 151°13'31" E
+  ![media/CarrierSydney.jpg](media/CarrierSydney.jpg)
+
+* HMAS Moreton -- Brisbane, Queensland, Australia -- 27°27'00" S, 153°03'30" E
+  ![media/CarrierBrisbane.jpg](media/CarrierBrisbane.jpg)
+
+* Fremantle Harbour -- Perth, Western Australia -- 32°3'0" S, 115°44'0" E
+  ![media/CarrierFremantle.jpg](media/CarrierFremantle.jpg)
+
+### Atlantic Carrier Bases
+
+* Naval Station Norfolk -- Norfolk, VA -- 36°56'42" N, 76°18'47" W
+  ![media/Naval Station Norfolk](media/NavalStationNorfolk.jpg)
+  * Norfolk Naval Shipyard -- 36°49'0.1416" N, 76°18'19.9512" W
+  * Huntington Ingalls Industries Newport News -- 36°59'10.3" N, 76°26'34.3" W
+  * General Dynamics NASSCO Norfolk -- 36°51'06.6" N, 76°18'41.0" W
+
+* Naval Station Mayport -- Mayport, FL -- 30°23'28.68" N, 81°25'25.32" W
+  ![media/Naval Station Mayport](media/NavalStationMayport.jpeg)
+  * General Dynamics NASSCO Mayport -- 30°23'52.3" N, 81°24'04.6" W
+
+* Her Majesty's Naval Base, Portsmouth (HMNB Portsmouth) -- Hampshire, UK -- 50°48'1.9116" N, 1°6'34.0772" W
+  ![media/CarrierPortsmouth.jpg](media/CarrierPortsmouth.jpg)
+
+* Lisbon Naval Base/Base Naval de Lisboa -- Alfeite, Portugal -- 38°40'3.2628" N, 9°8'48.4285" W
+  ![media/CarrierLisbon.jpg](media/CarrierLisbon.jpg)
+  
+### Mediterranean Ports
+* Naval Station Rota -- Cádiz, Spain -- 36°37'15" N, 6°19'54" W
+  ![media/BaseRota.jpg](media/BaseRota.jpg)
+
+* Naval Support Activity Naples -- Campania, Italy -- 40°48'31.59" N, 14°17'3.4296" E
+  ![media/CarrierNaples.jpg](media/CarrierNaples.jpg)
+
+* Naval Air Station Sigonella -- Sicily, Italy -- 37°24'06" N, 014°55'20" E
+  ![media/BaseSigonella.jpg](media/BaseSigonella.jpg)
+
+* Naval Support Activity Souda Bay -- Crete, Greece -- 35°14'24.4212" N, 24°48'33.3688" E
+  ![media/CarrierSoudaBay.jpg](media/CarrierSoudaBay.jpg)
+
+* Naval Base of Cartagena -- Murcia, Spain -- 37°34'22.48" N, 0°59'39.05" W
+  ![CarrierCartagena.JPG](CarrierCartagena.JPG)
+
+* Port of Tarragona -- Catalunya, Spain -- 41°05'36.26" N, 1°13'18.32" E
+  ![media/CarrierTarragona.jpg](media/CarrierTarragona.jpg)
+
+* Port of Palma de Majorca -- Islas Baleares, Spain -- 39°33'31.5" N, 2°38'20.41" E
+  ![media/CarrierPalmaDeMallorca.jpg](media/CarrierPalmaDeMallorca.jpg)
+
+* Port de Cannes -- Provence-Alpes-Côte d'Azur, France -- 43°32'50.88" N, 7°01'14.58" E
+  ![media/CarrierCannes.jpg](media/CarrierCannes.jpg)
+
+* Marseille-Fos Port -- Fos-sur-Mer, France -- 43°12'11.16" N, 5°12'3.6″ E
+  ![media/CarrierMarseille.jpg](media/CarrierMarseille.jpg)
+
+* Port of Limassol -- Lemesos, Cyprus -- 34°36'2.85" N, 33°02'56.96" E
+  ![media/CarrierLimassol.jpg](media/CarrierLimassol.jpg)
+
+* Port of Valletta -- Reġjun Xlokk, Malta -- 35°54'15.97" N, 14°31'17.11" E
+  ![media/CarrierValletta.jpg](media/CarrierValletta.jpg)
+  
+* Port of Koper -- Koper, Slovenia -- 45°33' N, 13°44' E
+  ![media/CarrierKoper.jpg](media/CarrierKoper.jpg)
+
+* Port of Split -- Dalmatia, Croatia -- 43°30'18.28" N, 16°26'31.76" E
+  ![media/CarrierSplit.jpg](media/CarrierSplit.jpg)
+
+* Port of Corfu -- Κέρκυρα, Greece -- 39°37'33.53" N, 19°56'0.37" E
+  ![media/USNavyCorfu.JPG](media/USNavyCorfu.JPG)
+
+* Port of Rhodes -- Δωδεκάνησα, Grecce -- 36°26'47.34" N, 2°º12'9.11" E
+  ![media/CarrierRhodes.jpg](media/CarrierRhodes.jpg)
+
+### Persian Gulf/Arabian Sea Ports
+* Mohammed Al-Ahmad Kuwait Naval Base -- 28°51'43.56" N, 48°16'36.12" E
+  ![media/PortAshShuaybahKuwait.jpg](media/PortAshShuaybahKuwait.jpg)
+
+* Naval Support Activity Bahrain -- Manama, Bahrain -- 26°12'35" N, 50°36'35" E
+  ![media/CarrierBahrain.jpg](media/CarrierBahrain.jpg)
+
+* Port of Jebel Ali -- Dubai, UAE -- 25°0'40.536" N, 55°3'40.176" E
+  ![media/CarrierJebelAli.jpg](media/CarrierJebelAli.jpg)
+
+* Port of Salalah/Port Raysut -- Dhofar, Oman -- 16°56'53" N, 54°0'32" E
+  ![media/USNavySalalah.jpg](media/USNavySalalah.jpg)
+
+* Port of Duqm -- Al Wusta, Oman -- 19°39'42" N, 57°42'17" E
+  ![media/CarrierDuqm.jpg](media/CarrierDuqm.jpg)
+
+## Historical Vessel Silhouettes
+
+![https://upload.wikimedia.org/wikipedia/commons/7/71/Aircraft_carrier_silhouettes_%28Warships_To-day%2C_1936%29.jpg](https://upload.wikimedia.org/wikipedia/commons/7/71/Aircraft_carrier_silhouettes_%28Warships_To-day%2C_1936%29.jpg)
+
+Source: Burgess, Malcolm William. *Warships To-day* London: Oxford University Press, 1936. ```Fig. 5 on p. 42```
 
 ## Literature Review
 
