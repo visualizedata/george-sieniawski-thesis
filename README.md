@@ -2,6 +2,36 @@
 
 ![media/ScreenShot2018-01-08.png](media/ScreenShot2018-01-08.png)
 
+## Key Research Questions
+* to what extent is homeporting/idleness the default state of the carrier fleet?
+* which activities predominate? homeporting vs. antipiracy vs. routine SLOC patrol vs. power projection vs. humanitarian aid vs. other OCO?
+* from a national security/FONOPs perspective, how might we define the most important ISLs/SLOCs?
+* does carrier coverage correlate with the most important ISLs/SLOCs?
+* from an economic security perspective, how might we define the most important cargoes?
+* does carrier coverage correlate with the most important cargoes?
+* does carrier coverage correlate with any particular CAMEO codes?
+  * if so, who were the key GDELT audiences in ASEAN region during the relevant reporting period?
+* beyond NATO, which blocs matter most in terms of carrier data?
+* to what extent are RCOH outages perceptible in the carrier deployment cycle?
+* were there any significant incidents during the relevant reporting period? (e.g. MH-370 and ARA San Juan)
+* to what extent does carrier coverage correlate with undersea communication cables?
+* to what extent does carrier coverage correlate with Russia/NATO tensions?
+* to what extent does carrier coverage correlate with tensions on the Korean peninsula?
+* to what extent does carrier coverage correlate with Iranian tensions?
+* to what extent does carrier coverage correlate with Spratly Islands/China tensions?
+* to what extent does carrier coverage correlate with Taiwan/China tension?
+* to what extent does carrier coverage correlate with Brent and/or WTI?
+* to what extent is the "Pivot to the Pacific" perceptible in the carrier data?
+* from an energy security perspective, to what extent did domestic shale output reduce U.S. imports from Saudi Arabia?
+* from an energy security perspective, to what extent did domestic shale output drive Saudi Arabia to export to China?
+* to what extent did carrier coverage change during the North American shale gale?
+* to what extent did these trends reverse/abate/diminish/attenuate when oil prices crashed in mid-2014?
+* to what extent is diminished Suez traffic perceptible in the merchant marine/AIS data?
+* to what extent is the Hyundai and Maersk slowdown perceptible in the merchant marine/AIS data?
+* does carrier coverage correlate with Gulf of Aden piracy?
+* does carrier coverage correlate with Straits of Malacca piracy?
+* to what extent is the shift from Obama to Trump perceptible in the carrier data?
+
 ## Time Series Breakdown/Dimensional Analysis on 5,820 Week-by-Week Vessel Reports
 
 | 1 | 2 | 3 |
