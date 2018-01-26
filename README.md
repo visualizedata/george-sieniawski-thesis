@@ -293,201 +293,201 @@
   * 094: Investigate war crimes
 
 * **10: DEMAND** -- source: [GDELT/CAMEO Cookbook](http://data.gdeltproject.org/documentation/CAMEO.Manual.1.1b3.pdf)
-  100: Demand, not specified below
-  101: Demand material cooperation, not specified below
-    1011: Demand economic cooperation
-    1012: Demand military cooperation
-    1013: Demand judicial cooperation
-    1014: Demand intelligence cooperation
-  102: Demand diplomatic cooperation (such as policy support)
-  103: Demand material aid, not specified below
-    1031: Demand economic aid
-    1032: Demand military aid
-    1033: Demand humanitarian aid
-    1034: Demand military protection or peacekeeping
-  104: Demand political reform, not specified below
-    1041: Demand change in leadership
-    1042: Demand policy change
-    1043: Demand rights
-    1044: Demand change in institutions, regime
-  105: Demand that target yields, not specified below
-    1051: Demand easing of administrative sanctions
-    1052: Demand easing of political dissent
-    1053: Demand release of persons or property
-    1054: Demand easing of economic sanctions, boycott, or embargo
-    1055: Demand that target allows international involvement (non-mediation)
-    1056: Demand de-escalation of military engagement
-  106: Demand meeting, negotiation
-  107: Demand settling of dispute
-  108: Demand mediation
+  * 100: Demand, not specified below
+  * 101: Demand material cooperation, not specified below
+    * 1011: Demand economic cooperation
+    * 1012: Demand military cooperation
+    * 1013: Demand judicial cooperation
+    * 1014: Demand intelligence cooperation
+  * 102: Demand diplomatic cooperation (such as policy support)
+  * 103: Demand material aid, not specified below
+    * 1031: Demand economic aid
+    * 1032: Demand military aid
+    * 1033: Demand humanitarian aid
+    * 1034: Demand military protection or peacekeeping
+  * 104: Demand political reform, not specified below
+    * 1041: Demand change in leadership
+    * 1042: Demand policy change
+    * 1043: Demand rights
+    * 1044: Demand change in institutions, regime
+  * 105: Demand that target yields, not specified below
+    * 1051: Demand easing of administrative sanctions
+    * 1052: Demand easing of political dissent
+    * 1053: Demand release of persons or property
+    * 1054: Demand easing of economic sanctions, boycott, or embargo
+    * 1055: Demand that target allows international involvement (non-mediation)
+    * 1056: Demand de-escalation of military engagement
+  * 106: Demand meeting, negotiation
+  * 107: Demand settling of dispute
+  * 108: Demand mediation
 
 * **11: DISAPPROVE** -- source: [GDELT/CAMEO Cookbook](http://data.gdeltproject.org/documentation/CAMEO.Manual.1.1b3.pdf)
-  110: Disapprove, not specified below
-  111: Criticize or denounce
-  112: Accuse, not specified below
-    1121: Accuse of crime, corruption
-    1122: Accuse of human rights abuses
-    1123: Accuse of aggression
-    1124: Accuse of war crimes
-    1125: Accuse of espionage, treason
-  113: Rally opposition against
-  114: Complain officially
-  115: Bring lawsuit against
-  116: Find guilty or liable (legally)
+  * 110: Disapprove, not specified below
+  * 111: Criticize or denounce
+  * 112: Accuse, not specified below
+    * 1121: Accuse of crime, corruption
+    * 1122: Accuse of human rights abuses
+    * 1123: Accuse of aggression
+    * 1124: Accuse of war crimes
+    * 1125: Accuse of espionage, treason
+  * 113: Rally opposition against
+  * 114: Complain officially
+  * 115: Bring lawsuit against
+  * 116: Find guilty or liable (legally)
 
 * **12: REJECT** -- source: [GDELT/CAMEO Cookbook](http://data.gdeltproject.org/documentation/CAMEO.Manual.1.1b3.pdf)
-  120: Reject, not specified below
-  121: Reject material cooperation
-    1211: Reject economic cooperation
-    1212: Reject military cooperation
-  122: Reject request or demand for material aid, not specified below
-    1221: Reject request for economic aid
-    1222: Reject request for military aid
-    1223: Reject request for humanitarian aid
-    1224: Reject request for military protection or peacekeeping
-  123: Reject request or demand for political reform, not specified below
-    1231: Reject request for change in leadership
-    1232: Reject request for policy change
-    1233: Reject request for rights
-    1234: Reject request for change in institutions, regime
-  124: Refuse to yield, not specified below
-    1241: Refuse to ease administrative sanctions
-    1242: Refuse to ease popular dissent
-    1243: Refuse to release persons or property
-    1244: Refuse to ease economic sanctions, boycott, or embargo
-    1245: Refuse to allow international involvement (non mediation)
-    1246: Refuse to de-escalate military engagement
-  125: Reject proposal to meet, discuss, or negotiate
-  126: Reject mediation
-  127: Reject plan, agreement to settle dispute
-  128: Defy norms, law
-  129: Veto
+  * 120: Reject, not specified below
+  * 121: Reject material cooperation
+    * 1211: Reject economic cooperation
+    * 1212: Reject military cooperation
+  * 122: Reject request or demand for material aid, not specified below
+    * 1221: Reject request for economic aid
+    * 1222: Reject request for military aid
+    * 1223: Reject request for humanitarian aid
+    * 1224: Reject request for military protection or peacekeeping
+  * 123: Reject request or demand for political reform, not specified below
+    * 1231: Reject request for change in leadership
+    * 1232: Reject request for policy change
+    * 1233: Reject request for rights
+    * 1234: Reject request for change in institutions, regime
+  * 124: Refuse to yield, not specified below
+    * 1241: Refuse to ease administrative sanctions
+    * 1242: Refuse to ease popular dissent
+    * 1243: Refuse to release persons or property
+    * 1244: Refuse to ease economic sanctions, boycott, or embargo
+    * 1245: Refuse to allow international involvement (non mediation)
+    * 1246: Refuse to de-escalate military engagement
+  * 125: Reject proposal to meet, discuss, or negotiate
+  * 126: Reject mediation
+  * 127: Reject plan, agreement to settle dispute
+  * 128: Defy norms, law
+  * 129: Veto
 
 * **13: THREATEN** -- source: [GDELT/CAMEO Cookbook](http://data.gdeltproject.org/documentation/CAMEO.Manual.1.1b3.pdf)
-  130: Threaten, not specified below
-  131: Threaten non-force, not specified below
-    1311: Threaten to reduce or stop aid
-    1312: Threaten with sanctions, boycott, embargo
-    1313: Threaten to reduce or break relations
-  132: Threaten with administrative sanctions, not specified below
-    1321: Threaten with restrictions on political freedoms
-    1322: Threaten to ban political parties or politicians
-    1323: Threaten to impose curfew
-    1324: Threaten to impose state of emergency or martial law
-  133: Threaten with political dissent, protest
-  134: Threaten to halt negotiations
-  135: Threaten to halt mediation
-  136: Threaten to halt international involvement (non-mediation)
-  137: Threaten with repression
-  138: Threaten with military force, not specified below
-    1381: Threaten blockade
-    1382: Threaten occupation
-    1383: Threaten unconventional violence
-    1384: Threaten conventional attack
-    1385: Threaten attack with WMD
-  139: Give ultimatum
+  * 130: Threaten, not specified below
+  * 131: Threaten non-force, not specified below
+    * 1311: Threaten to reduce or stop aid
+    * 1312: Threaten with sanctions, boycott, embargo
+    * 1313: Threaten to reduce or break relations
+  * 132: Threaten with administrative sanctions, not specified below
+    * 1321: Threaten with restrictions on political freedoms
+    * 1322: Threaten to ban political parties or politicians
+    * 1323: Threaten to impose curfew
+    * 1324: Threaten to impose state of emergency or martial law
+  * 133: Threaten with political dissent, protest
+  * 134: Threaten to halt negotiations
+  * 135: Threaten to halt mediation
+  * 136: Threaten to halt international involvement (non-mediation)
+  * 137: Threaten with repression
+  * 138: Threaten with military force, not specified below
+    * 1381: Threaten blockade
+    * 1382: Threaten occupation
+    * 1383: Threaten unconventional violence
+    * 1384: Threaten conventional attack
+    * 1385: Threaten attack with WMD
+  * 139: Give ultimatum
 
 * **14: PROTEST** -- source: [GDELT/CAMEO Cookbook](http://data.gdeltproject.org/documentation/CAMEO.Manual.1.1b3.pdf)
-  140: Engage in political dissent, not specified below
-  141: Demonstrate or rally, not specified below
-    1411: Demonstrate for leadership change
-    1412: Demonstrate for policy change
-    1413: Demonstrate for rights
-    1414: Demonstrate for change in institutions, regime
-  142: Conduct hunger strike, not specified below
-    1421: Conduct hunger strike for leadership change
-    1422: Conduct hunger strike for policy change
-    1423: Conduct hunger strike for rights
-    1424: Conduct hunger strike for change in institutions, regime
-  143: Conduct strike or boycott, not specified below
-    1431: Conduct strike or boycott for leadership change
-    1432: Conduct strike or boycott for policy change
-    1433: Conduct strike or boycott for rights
-    1434: Conduct strike or boycott for change in institutions, regime
-  144: Obstruct passage, block, not specified below
-    1441: Obstruct passage to demand leadership change
-    1442: Obstruct passage to demand policy change
-    1443: Obstruct passage to demand rights
-    1444: Obstruct passage to demand change in institutions, regime
-  145: Protest violently, riot, not specified below
-    1451: Engage in violent protest for leadership change
-    1452: Engage in violent protest for policy change
-    1453: Engage in violent protest for rights
-    1454: Engage in violent protest for change in institutions, regime
+  * 140: Engage in political dissent, not specified below
+  * 141: Demonstrate or rally, not specified below
+    * 1411: Demonstrate for leadership change
+    * 1412: Demonstrate for policy change
+    * 1413: Demonstrate for rights
+    * 1414: Demonstrate for change in institutions, regime
+  * 142: Conduct hunger strike, not specified below
+    * 1421: Conduct hunger strike for leadership change
+    * 1422: Conduct hunger strike for policy change
+    * 1423: Conduct hunger strike for rights
+    * 1424: Conduct hunger strike for change in institutions, regime
+  * 143: Conduct strike or boycott, not specified below
+    * 1431: Conduct strike or boycott for leadership change
+    * 1432: Conduct strike or boycott for policy change
+    * 1433: Conduct strike or boycott for rights
+    * 1434: Conduct strike or boycott for change in institutions, regime
+  * 144: Obstruct passage, block, not specified below
+    * 1441: Obstruct passage to demand leadership change
+    * 1442: Obstruct passage to demand policy change
+    * 1443: Obstruct passage to demand rights
+    * 1444: Obstruct passage to demand change in institutions, regime
+  * 145: Protest violently, riot, not specified below
+    * 1451: Engage in violent protest for leadership change
+    * 1452: Engage in violent protest for policy change
+    * 1453: Engage in violent protest for rights
+    * 1454: Engage in violent protest for change in institutions, regime
 
 * **15: EXHIBIT FORCE POSTURE** -- source: [GDELT/CAMEO Cookbook](http://data.gdeltproject.org/documentation/CAMEO.Manual.1.1b3.pdf)
-  150: Demonstrate military or police power, not specified below
-  151: Increase police alert status
-  152: Increase military alert status
-  153: Mobilize or increase police power
-  154: Mobilize or increase armed forces
-  155: Mobilize or increase cyber-forces
+  * 150: Demonstrate military or police power, not specified below
+  * 151: Increase police alert status
+  * 152: Increase military alert status
+  * 153: Mobilize or increase police power
+  * 154: Mobilize or increase armed forces
+  * 155: Mobilize or increase cyber-forces
 
 * **16: REDUCE RELATIONS** -- source: [GDELT/CAMEO Cookbook](http://data.gdeltproject.org/documentation/CAMEO.Manual.1.1b3.pdf)
-  160: Reduce relations, not specified below
-  161: Reduce or break diplomatic relations
-  162: Reduce or stop material aid, not specified below
-    1621: Reduce or stop economic assistance
-    1622: Reduce or stop military assistance
-    1623: Reduce or stop humanitarian assistance
-  163: Impose embargo, boycott, or sanctions
-  164: Halt negotiations
-  165: Halt mediation
-  166: Expel or withdraw, not specified below
-    1661: Expel or withdraw peacekeepers
-    1662: Expel or withdraw inspectors, observers
-    1663: Expel or withdraw aid agencies
+  * 160: Reduce relations, not specified below
+  * 161: Reduce or break diplomatic relations
+  * 162: Reduce or stop material aid, not specified below
+    * 1621: Reduce or stop economic assistance
+    * 1622: Reduce or stop military assistance
+    * 1623: Reduce or stop humanitarian assistance
+  * 163: Impose embargo, boycott, or sanctions
+  * 164: Halt negotiations
+  * 165: Halt mediation
+  * 166: Expel or withdraw, not specified below
+    * 1661: Expel or withdraw peacekeepers
+    * 1662: Expel or withdraw inspectors, observers
+    * 1663: Expel or withdraw aid agencies
 
 * **17: COERCE** -- source: [GDELT/CAMEO Cookbook](http://data.gdeltproject.org/documentation/CAMEO.Manual.1.1b3.pdf)
-  170: Coerce, not specified below
-  171: Seize or damage property, not specified below
-    1711: Confiscate property
-    1712: Destroy property
-  172: Impose administrative sanctions, not specified below
-    1721: Impose restrictions on political freedoms
-    1722: Ban political parties or politicians
-    1723: Impose curfew
-    1724: Impose state of emergency or martial law
-  173: Arrest, detain, or charge with legal action
-  174: Expel or deport individuals
-  175: Use tactics of violent repression
-  176: Attack cybernetically
+  * 170: Coerce, not specified below
+  * 171: Seize or damage property, not specified below
+    * 1711: Confiscate property
+    * 1712: Destroy property
+  * 172: Impose administrative sanctions, not specified below
+    * 1721: Impose restrictions on political freedoms
+    * 1722: Ban political parties or politicians
+    * 1723: Impose curfew
+    * 1724: Impose state of emergency or martial law
+  * 173: Arrest, detain, or charge with legal action
+  * 174: Expel or deport individuals
+  * 175: Use tactics of violent repression
+  * 176: Attack cybernetically
 
 * **18: ASSAULT** -- source: [GDELT/CAMEO Cookbook](http://data.gdeltproject.org/documentation/CAMEO.Manual.1.1b3.pdf)
-  180: Use unconventional violence, not specified below
-  181: Abduct, hijack, or take hostage
-  182: Physically assault, not specified below
-    1821: Sexually assault
-    1822: Torture
-    1823: Kill by physical assault
-  183: Conduct suicide, car, or other non-military bombing, not specified below
-    1831: Carry out suicide bombing
-    1832: Carry out vehicular bombing
-    1833: Carry out roadside bombing
-    1834: Carry out location bombing
-  184: Use as human shield
-  185: Attempt to assassinate
-  186: Assassinate
+  * 180: Use unconventional violence, not specified below
+  * 181: Abduct, hijack, or take hostage
+  * 182: Physically assault, not specified below
+    * 1821: Sexually assault
+    * 1822: Torture
+    * 1823: Kill by physical assault
+  * 183: Conduct suicide, car, or other non-military bombing, not specified below
+    * 1831: Carry out suicide bombing
+    * 1832: Carry out vehicular bombing
+    * 1833: Carry out roadside bombing
+    * 1834: Carry out location bombing
+  * 184: Use as human shield
+  * 185: Attempt to assassinate
+  * 186: Assassinate
 
 * **19: FIGHT** -- source: [GDELT/CAMEO Cookbook](http://data.gdeltproject.org/documentation/CAMEO.Manual.1.1b3.pdf)
-  190: Use conventional military force, not specified below
-  191: Impose blockade, restrict movement
-  192: Occupy territory
-  193: Fight with small arms and light weapons
-  194: Fight with artillery and tanks
-  195: Employ aerial weapons, not specified below
-    1951: Employ precision-guided aerial munitions
-    1952: Employ remotely piloted aerial munitions
-  196: Violate ceasefire
+  * 190: Use conventional military force, not specified below
+  * 191: Impose blockade, restrict movement
+  * 192: Occupy territory
+  * 193: Fight with small arms and light weapons
+  * 194: Fight with artillery and tanks
+  * 195: Employ aerial weapons, not specified below
+    * 1951: Employ precision-guided aerial munitions
+    * 1952: Employ remotely piloted aerial munitions
+  * 196: Violate ceasefire
 
 **20: USE UNCONVENTIONAL MASS VIOLENCE** -- source: [GDELT/CAMEO Cookbook](http://data.gdeltproject.org/documentation/CAMEO.Manual.1.1b3.pdf)
-  200: Use unconventional mass violence, not specified below
-  201: Engage in mass expulsion
-  202: Engage in mass killings
-  203: Engage in ethnic cleansing
-  204: Use weapons of mass destruction, not specified below
-    2041: Use chemical, biological, or radiological weapons
-    2042: Detonate nuclear weapons
+  * 200: Use unconventional mass violence, not specified below
+  * 201: Engage in mass expulsion
+  * 202: Engage in mass killings
+  * 203: Engage in ethnic cleansing
+  * 204: Use weapons of mass destruction, not specified below
+    * 2041: Use chemical, biological, or radiological weapons
+    * 2042: Detonate nuclear weapons
 
 ## Literature Review
 
