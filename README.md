@@ -3,7 +3,7 @@
 ![media/ScreenShot2018-01-08.png](media/ScreenShot2018-01-08.png)
 
 ## Key Research Questions
-* to what extent is homeporting/standby the default state of the U.S. carrier fleet?
+* to what extent is homeporting/standby/ready status the default state of the U.S. carrier fleet? to what extent is actual deployment the exception?
 * to what extent are RCOH outages perceptible in the U.S. carrier deployment cycle?
 * when U.S. carriers move, which activities predominate? antipiracy vs. routine SLOC patrol vs. power projection vs. humanitarian aid vs. [OCO](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/budget/fy2018/oco.pdf)?
 * from a national security/[FONOPs](https://thediplomat.com/tag/fonops/) perspective, how might we define the most important ISLs/SLOCs for U.S. importers?
