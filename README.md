@@ -207,8 +207,6 @@
   * 030: Express intent to cooperate, not specified below
   * 031: Express intent to engage in material cooperation, not specified below
     * 0311: Express intent to cooperate economically
-      * test
-        * test2
     * 0312: Express intent to cooperate militarily
     * 0313: Express intent to cooperate on judicial matters
     * 0314: Express intent to cooperate on intelligence
