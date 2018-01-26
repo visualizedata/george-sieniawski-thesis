@@ -2,8 +2,6 @@
 
 ![media/ScreenShot2018-01-08.png](media/ScreenShot2018-01-08.png)
 
-![media/ScreenShot2018-01-11.png](media/ScreenShot2018-01-11.png)
-
 ## Time Series Breakdown/Dimensional Analysis on 5,820 Week-by-Week Vessel Reports
 
 | 1 | 2 | 3 |
@@ -500,7 +498,7 @@
     * 2041: Use chemical, biological, or radiological weapons
     * 2042: Detonate nuclear weapons
     
-## Main Actors in APAC/MENA/Eurasia, 2012-2018
+## Significant Actors in APAC/MENA/Eurasia, 2012-2018
 
 * U.S.
 * China
