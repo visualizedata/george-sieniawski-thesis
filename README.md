@@ -154,145 +154,145 @@
 ## Event Coding from the Conflict and Mediation Event Observations (CAMEO) Framework
 
 * **01: MAKE PUBLIC STATEMENT** -- source: [GDELT/CAMEO Cookbook](http://data.gdeltproject.org/documentation/CAMEO.Manual.1.1b3.pdf)
-  010: Make statement, not specified below
-  011: Decline comment
-  012: Make pessimistic comment
-  013: Make optimistic comment
-  014: Consider policy option
-  015: Acknowledge or claim responsibility
-  016: Deny responsibility
-  017: Engage in symbolic act
-  018: Make empathetic comment
-  019: Express accord
+  * 010: Make statement, not specified below
+  * 011: Decline comment
+  * 012: Make pessimistic comment
+  * 013: Make optimistic comment
+  * 014: Consider policy option
+  * 015: Acknowledge or claim responsibility
+  * 016: Deny responsibility
+  * 017: Engage in symbolic act
+  * 018: Make empathetic comment
+  * 019: Express accord
 
-**02: APPEAL**
-  020: Make an appeal or request, not specified below
-  021: Appeal for material cooperation, not specified below
-    0211: Appeal for economic cooperation
-    0212: Appeal for military cooperation
-    0213: Appeal for judicial cooperation
-    0214: Appeal for intelligence
-  022: Appeal for diplomatic cooperation (such as policy support)
-  023: Appeal for aid, not specified below
-    0231: Appeal for economic aid
-    0232: Appeal for military aid
-    0233: Appeal for humanitarian aid
-    0234: Appeal for military protection or peacekeeping
-  024: Appeal for political reform, not specified below
-    0241: Appeal for change in leadership
-    0242: Appeal for policy change
-    0243: Appeal for rights
-    0244: Appeal for change in institutions, regime
-  025: Appeal to yield, not specified below
-    0251: Appeal for easing of administrative sanctions
-    0252: Appeal for easing of political dissent
-    0253: Appeal for release of persons or property
-    0254: Appeal for easing of economic sanctions, boycott, or embargo
-    0255: Appeal for target to allow international involvement (non-mediation)
-    0256: Appeal for de-escalation of military engagement
-  026: Appeal to others to meet or negotiate
-  027: Appeal to others to settle dispute
-  028: Appeal to engage in or accept mediation
+* **02: APPEAL** -- source: [GDELT/CAMEO Cookbook](http://data.gdeltproject.org/documentation/CAMEO.Manual.1.1b3.pdf)
+  * 020: Make an appeal or request, not specified below
+  * 021: Appeal for material cooperation, not specified below
+    * 0211: Appeal for economic cooperation
+    * 0212: Appeal for military cooperation
+    * 0213: Appeal for judicial cooperation
+    * 0214: Appeal for intelligence
+  * 022: Appeal for diplomatic cooperation (such as policy support)
+  * 023: Appeal for aid, not specified below
+    * 0231: Appeal for economic aid
+    * 0232: Appeal for military aid
+    * 0233: Appeal for humanitarian aid
+    * 0234: Appeal for military protection or peacekeeping
+  * 024: Appeal for political reform, not specified below
+    * 0241: Appeal for change in leadership
+    * 0242: Appeal for policy change
+    * 0243: Appeal for rights
+    * 0244: Appeal for change in institutions, regime
+  * 025: Appeal to yield, not specified below
+    * 0251: Appeal for easing of administrative sanctions
+    * 0252: Appeal for easing of political dissent
+    * 0253: Appeal for release of persons or property
+    * 0254: Appeal for easing of economic sanctions, boycott, or embargo
+    * 0255: Appeal for target to allow international involvement (non-mediation)
+    * 0256: Appeal for de-escalation of military engagement
+  * 026: Appeal to others to meet or negotiate
+  * 027: Appeal to others to settle dispute
+  * 028: Appeal to engage in or accept mediation
 
-**03: EXPRESS INTENT TO COOPERATE**
-  030: Express intent to cooperate, not specified below
-  031: Express intent to engage in material cooperation, not specified below
-    0311: Express intent to cooperate economically
-    0312: Express intent to cooperate militarily
-    0313: Express intent to cooperate on judicial matters
-    0314: Express intent to cooperate on intelligence
-  032: Express intent to engage in diplomatic cooperation (such as policy support)
-  033: Express intent to provide material aid, not specified below
-    0331: Express intent to provide economic aid
-    0332: Express intent to provide military aid
-    0333: Express intent to provide humanitarian aid
-    0334: Express intent to provide military protection or peacekeeping
-  034: Express intent to institute political reform, not specified below
-    0341: Express intent to change leadership
-    0342: Express intent to change policy
-    0343: Express intent to provide rights
-    0344: Express intent to change institutions, regime
-  035: Express intent to yield, not specified below
-    0351: Express intent to ease administrative sanctions
-    0352: Express intent to ease popular dissent
-    0353: Express intent to release persons or property
-    0354: Express intent to ease economic sanctions, boycott, or embargo
-    0355: Express intent to allow international involvement (non-mediation)
-    0356: Express intent to de-escalate military engagement
-  036: Express intent to meet or negotiate
-  037: Express intent to settle dispute
-  038: Express intent to accept mediation
-  039: Express intent to mediate
+* **03: EXPRESS INTENT TO COOPERATE** -- source: [GDELT/CAMEO Cookbook](http://data.gdeltproject.org/documentation/CAMEO.Manual.1.1b3.pdf)
+  * 030: Express intent to cooperate, not specified below
+  * 031: Express intent to engage in material cooperation, not specified below
+    * 0311: Express intent to cooperate economically
+    * 0312: Express intent to cooperate militarily
+    * 0313: Express intent to cooperate on judicial matters
+    * 0314: Express intent to cooperate on intelligence
+  * 032: Express intent to engage in diplomatic cooperation (such as policy support)
+  * 033: Express intent to provide material aid, not specified below
+    * 0331: Express intent to provide economic aid
+    * 0332: Express intent to provide military aid
+    * 0333: Express intent to provide humanitarian aid
+    * 0334: Express intent to provide military protection or peacekeeping
+  * 034: Express intent to institute political reform, not specified below
+    * 0341: Express intent to change leadership
+    * 0342: Express intent to change policy
+    * 0343: Express intent to provide rights
+    * 0344: Express intent to change institutions, regime
+  * 035: Express intent to yield, not specified below
+    * 0351: Express intent to ease administrative sanctions
+    * 0352: Express intent to ease popular dissent
+    * 0353: Express intent to release persons or property
+    * 0354: Express intent to ease economic sanctions, boycott, or embargo
+    * 0355: Express intent to allow international involvement (non-mediation)
+    * 0356: Express intent to de-escalate military engagement
+  * 036: Express intent to meet or negotiate
+  * 037: Express intent to settle dispute
+  * 038: Express intent to accept mediation
+  * 039: Express intent to mediate
 
-**04: CONSULT**
-  040: Consult, not specified below
-  041: Discuss by telephone
-  042: Make a visit
-  043: Host a visit
-  044: Meet at a ”third” location
-  045: Mediate
-  046: Engage in negotiation
+* **04: CONSULT** -- source: [GDELT/CAMEO Cookbook](http://data.gdeltproject.org/documentation/CAMEO.Manual.1.1b3.pdf)
+  * 040: Consult, not specified below
+  * 041: Discuss by telephone
+  * 042: Make a visit
+  * 043: Host a visit
+  * 044: Meet at a ”third” location
+  * 045: Mediate
+  * 046: Engage in negotiation
 
-**05: ENGAGE IN DIPLOMATIC COOPERATION**
-  050: Engage in diplomatic cooperation, not specified below
-  051: Praise or endorse
-  052: Defend verbally
-  053: Rally support on behalf of
-  054: Grant diplomatic recognition
-  055: Apologize
-  056: Forgive
-  057: Sign formal agreement
+* **05: ENGAGE IN DIPLOMATIC COOPERATION** -- source: [GDELT/CAMEO Cookbook](http://data.gdeltproject.org/documentation/CAMEO.Manual.1.1b3.pdf)
+  * 050: Engage in diplomatic cooperation, not specified below
+  * 051: Praise or endorse
+  * 052: Defend verbally
+  * 053: Rally support on behalf of
+  * 054: Grant diplomatic recognition
+  * 055: Apologize
+  * 056: Forgive
+  * 057: Sign formal agreement
 
-**06: ENGAGE IN MATERIAL COOPERATION**
-  060: Engage in material cooperation, not specified below
-  061: Cooperate economically
-  062: Cooperate militarily
-  063: Engage in judicial cooperation
-  064: Share intelligence or information
+* **06: ENGAGE IN MATERIAL COOPERATION** -- source: [GDELT/CAMEO Cookbook](http://data.gdeltproject.org/documentation/CAMEO.Manual.1.1b3.pdf)
+  * 060: Engage in material cooperation, not specified below
+  * 061: Cooperate economically
+  * 062: Cooperate militarily
+  * 063: Engage in judicial cooperation
+  * 064: Share intelligence or information
 
-**07: PROVIDE AID**
-  070: Provide aid, not specified below
-  071: Provide economic aid
-  072: Provide military aid
-  073: Provide humanitarian aid
-  074: Provide military protection or peacekeeping
-  075: Grant asylum
+* **07: PROVIDE AID** -- source: [GDELT/CAMEO Cookbook](http://data.gdeltproject.org/documentation/CAMEO.Manual.1.1b3.pdf)
+  * 070: Provide aid, not specified below
+  * 071: Provide economic aid
+  * 072: Provide military aid
+  * 073: Provide humanitarian aid
+  * 074: Provide military protection or peacekeeping
+  * 075: Grant asylum
 
-**08: YIELD**
-  080: Yield, not specified below
-  081: Ease administrative sanctions, not specified below
-    0811: Ease restrictions on political freedoms
-    0812: Ease ban on political parties or politicians
-    0813: Ease curfew
-    0814: Ease state of emergency or martial law
-  082: Ease political dissent
-  083: Accede to requests or demands for political reform, not specified below
-    0831: Accede to demands for change in leadership
-    0832: Accede to demands for change in policy
-    0833: Accede to demands for rights
-    0834: Accede to demands for change in institutions, regime
-  084: Return, release, not specified below
-    0841: Return, release person(s)
-    0842: Return, release property
-  085: Ease economic sanctions, boycott, embargo
-  086: Allow international involvement, not specified below
-    0861: Receive deployment of peacekeepers
-    0862: Receive inspectors
-    0863: Allow humanitarian access
-  087: De-escalate military engagement
-    0871: Declare truce, ceasefire
-    0872: Ease military blockade
-    0873: Demobilize armed forces
-    0874: Retreat or surrender militarily
+* **08: YIELD** -- source: [GDELT/CAMEO Cookbook](http://data.gdeltproject.org/documentation/CAMEO.Manual.1.1b3.pdf)
+  * 080: Yield, not specified below
+  * 081: Ease administrative sanctions, not specified below
+    * 0811: Ease restrictions on political freedoms
+    * 0812: Ease ban on political parties or politicians
+    * 0813: Ease curfew
+    * 0814: Ease state of emergency or martial law
+  * 082: Ease political dissent
+  * 083: Accede to requests or demands for political reform, not specified below
+    * 0831: Accede to demands for change in leadership
+    * 0832: Accede to demands for change in policy
+    * 0833: Accede to demands for rights
+    * 0834: Accede to demands for change in institutions, regime
+  * 084: Return, release, not specified below
+    * 0841: Return, release person(s)
+    * 0842: Return, release property
+  * 085: Ease economic sanctions, boycott, embargo
+  * 086: Allow international involvement, not specified below
+    * 0861: Receive deployment of peacekeepers
+    * 0862: Receive inspectors
+    * 0863: Allow humanitarian access
+  * 087: De-escalate military engagement
+    * 0871: Declare truce, ceasefire
+    * 0872: Ease military blockade
+    * 0873: Demobilize armed forces
+    * 0874: Retreat or surrender militarily
 
-**09: INVESTIGATE**
-  090: Investigate, not specified below
-  091: Investigate crime, corruption
-  092: Investigate human rights abuses
-  093: Investigate military action
-  094: Investigate war crimes
+* **09: INVESTIGATE** -- source: [GDELT/CAMEO Cookbook](http://data.gdeltproject.org/documentation/CAMEO.Manual.1.1b3.pdf)
+  * 090: Investigate, not specified below
+  * 091: Investigate crime, corruption
+  * 092: Investigate human rights abuses
+  * 093: Investigate military action
+  * 094: Investigate war crimes
 
-**10: DEMAND**
+* **10: DEMAND** -- source: [GDELT/CAMEO Cookbook](http://data.gdeltproject.org/documentation/CAMEO.Manual.1.1b3.pdf)
   100: Demand, not specified below
   101: Demand material cooperation, not specified below
     1011: Demand economic cooperation
@@ -321,7 +321,7 @@
   107: Demand settling of dispute
   108: Demand mediation
 
-**11: DISAPPROVE**
+* **11: DISAPPROVE** -- source: [GDELT/CAMEO Cookbook](http://data.gdeltproject.org/documentation/CAMEO.Manual.1.1b3.pdf)
   110: Disapprove, not specified below
   111: Criticize or denounce
   112: Accuse, not specified below
@@ -335,7 +335,7 @@
   115: Bring lawsuit against
   116: Find guilty or liable (legally)
 
-**12: REJECT**
+* **12: REJECT** -- source: [GDELT/CAMEO Cookbook](http://data.gdeltproject.org/documentation/CAMEO.Manual.1.1b3.pdf)
   120: Reject, not specified below
   121: Reject material cooperation
     1211: Reject economic cooperation
@@ -363,7 +363,7 @@
   128: Defy norms, law
   129: Veto
 
-**13: THREATEN**
+* **13: THREATEN** -- source: [GDELT/CAMEO Cookbook](http://data.gdeltproject.org/documentation/CAMEO.Manual.1.1b3.pdf)
   130: Threaten, not specified below
   131: Threaten non-force, not specified below
     1311: Threaten to reduce or stop aid
@@ -387,7 +387,7 @@
     1385: Threaten attack with WMD
   139: Give ultimatum
 
-**14: PROTEST**
+* **14: PROTEST** -- source: [GDELT/CAMEO Cookbook](http://data.gdeltproject.org/documentation/CAMEO.Manual.1.1b3.pdf)
   140: Engage in political dissent, not specified below
   141: Demonstrate or rally, not specified below
     1411: Demonstrate for leadership change
@@ -415,7 +415,7 @@
     1453: Engage in violent protest for rights
     1454: Engage in violent protest for change in institutions, regime
 
-**15: EXHIBIT FORCE POSTURE**
+* **15: EXHIBIT FORCE POSTURE** -- source: [GDELT/CAMEO Cookbook](http://data.gdeltproject.org/documentation/CAMEO.Manual.1.1b3.pdf)
   150: Demonstrate military or police power, not specified below
   151: Increase police alert status
   152: Increase military alert status
@@ -423,7 +423,7 @@
   154: Mobilize or increase armed forces
   155: Mobilize or increase cyber-forces
 
-**16: REDUCE RELATIONS**
+* **16: REDUCE RELATIONS** -- source: [GDELT/CAMEO Cookbook](http://data.gdeltproject.org/documentation/CAMEO.Manual.1.1b3.pdf)
   160: Reduce relations, not specified below
   161: Reduce or break diplomatic relations
   162: Reduce or stop material aid, not specified below
@@ -438,7 +438,7 @@
     1662: Expel or withdraw inspectors, observers
     1663: Expel or withdraw aid agencies
 
-**17: COERCE**
+* **17: COERCE** -- source: [GDELT/CAMEO Cookbook](http://data.gdeltproject.org/documentation/CAMEO.Manual.1.1b3.pdf)
   170: Coerce, not specified below
   171: Seize or damage property, not specified below
     1711: Confiscate property
@@ -453,7 +453,7 @@
   175: Use tactics of violent repression
   176: Attack cybernetically
 
-**18: ASSAULT**
+* **18: ASSAULT** -- source: [GDELT/CAMEO Cookbook](http://data.gdeltproject.org/documentation/CAMEO.Manual.1.1b3.pdf)
   180: Use unconventional violence, not specified below
   181: Abduct, hijack, or take hostage
   182: Physically assault, not specified below
@@ -469,7 +469,7 @@
   185: Attempt to assassinate
   186: Assassinate
 
-**19: FIGHT**
+* **19: FIGHT** -- source: [GDELT/CAMEO Cookbook](http://data.gdeltproject.org/documentation/CAMEO.Manual.1.1b3.pdf)
   190: Use conventional military force, not specified below
   191: Impose blockade, restrict movement
   192: Occupy territory
@@ -480,7 +480,7 @@
     1952: Employ remotely piloted aerial munitions
   196: Violate ceasefire
 
-**20: USE UNCONVENTIONAL MASS VIOLENCE**
+**20: USE UNCONVENTIONAL MASS VIOLENCE** -- source: [GDELT/CAMEO Cookbook](http://data.gdeltproject.org/documentation/CAMEO.Manual.1.1b3.pdf)
   200: Use unconventional mass violence, not specified below
   201: Engage in mass expulsion
   202: Engage in mass killings
