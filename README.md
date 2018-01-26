@@ -6,11 +6,11 @@
 
 ## Carrier Data
 
-### May 23, 2012 - November 14, 2013      ```77 weeks```
+### ```77 week period``` from May 23, 2012 to November 14, 2013
 
-### November 21, 2013 - November 24, 2016      ```157 weeks```
+### ```157 week period``` from November 21, 2013 to November 24, 2016
 
-### December 22, 2016 - Present      ```57+ weeks```
+### ```57+ week period``` from December 22, 2016 to Present
 
 ## Literature Review
 
