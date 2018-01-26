@@ -891,11 +891,13 @@ McBride, William M. *Technological Change and the United States Navy, 1865-1945.
 
 Modelski, George. *Seapower in Global Politics: 1494-1993.* Seattle, WA: University of Washington Press, 1988.
 
-O'Brien, Sean. "Crisis Early Warning and Decision Support: Contemporary Approaches and Thoughts on Future Research," *International Studies Review* 12, no. 1 (2010): 87-104.
+[O'Brien, Sean. "Crisis Early Warning and Decision Support: Contemporary Approaches and Thoughts on Future Research," *International Studies Review* 12, no. 1 (2010): 87-104.](http://onlinelibrary.wiley.com/doi/10.1111/j.1468-2486.2009.00914.x/abstract)
 
 Rowlands, Kevin. *21st Century Gorshkov: The Challenge of Seapower in the Modern Era.* Annapolis, MD: Naval Institute Press, 2017.
 
 Samuels, Marwyn. *Contest for the South China Sea.* Abingdon: Taylor and Francis, 2013.
+
+[Schrodt, Philip A. "Automated Production of High-Volume, Near-Real-Time Political Event Data," *Paper presented at the “New Methodologies and Their Applications in Comparative Politics and International Relations” workshop at Princeton University,* Princeton, NJ: February 4, 2011.](http://www.princeton.edu/~pcglobal/conferences/methods/papers/schrodt.pdf)
 
 Slater, David, and Peter James Taylor. *The American Century: Consensus and Coercion in the Projection of American Power.* Oxford: Blackwell, 1999.
 
