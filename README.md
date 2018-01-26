@@ -24,13 +24,13 @@
 * to what extent is the ["Pivot to the Pacific"](https://fas.org/sgp/crs/natsec/R42448.pdf) perceptible in the carrier data?
 * from an energy security perspective, to what extent did domestic shale output reduce U.S. imports from Saudi Arabia?
 * from an energy security perspective, to what extent did domestic shale output drive Saudi Arabia to export to China?
-* to what extent did carrier coverage change during the North American shale gale?
-* to what extent did these trends reverse/abate/diminish/attenuate when oil prices crashed in mid-2014?
+* to what extent did carrier coverage change during [the North American shale gale](https://www.eia.gov/oil_gas/rpd/shale_gas.pdf)?
+* to what extent did these trends reverse/abate/diminish/attenuate when [oil prices crashed between 3Q14 and 1Q16](https://assets.weforum.org/editor/UtodTcM1KySmpnL0vPEHyeeRZVZxq8Ogguo96BNrTQw.png)?
 * to what extent is diminished Suez traffic perceptible in the merchant marine/AIS data?
 * to what extent is the Hyundai, Hanjin, and Maersk slowdown perceptible in the merchant marine/AIS data?
 * to what extent is the slow steaming phenomenon perceptible in the merchant marine/AIS data?
-* to what extent does carrier coverage correlate with Gulf of Aden piracy?
-* to what extent does carrier coverage correlate with Straits of Malacca piracy?
+* to what extent does carrier coverage correlate with [Gulf of Aden piracy](https://www.icc-ccs.org/piracy-reporting-centre/live-piracy-map)?
+* to what extent does carrier coverage correlate with [Straits of Malacca piracy](https://www.icc-ccs.org/piracy-reporting-centre/live-piracy-map)?
 * to what extent is the shift from Obama to Trump perceptible in the carrier data?
 
 ## Time Series Breakdown/Dimensional Analysis on 5,820 Week-by-Week Vessel Reports
