@@ -4,11 +4,16 @@
 
 ![media/ScreenShot2018-01-11.png](media/ScreenShot2018-01-11.png)
 
-## Time Series Breakdown
+## Time Series Breakdown on 5,820 Week-by-Week Vessel Reports
 
 | 1 | 2 | 3 |
 |---:|:---:|:---|
 | May 23, 2012 - Nov. 14, 2013 | Nov. 21, 2013 - Nov. 24, 2016 | Dec. 22, 2016 - Present |
+|---:|:---:|:---|
+| 77 | 157 | 57 |
+| ×20 | ×20 | ×20 |
+|---:|:---:|:---|
+| 1,540 | 3,140 | 1,140 |
 
 ## Carrier Data
 
