@@ -129,6 +129,7 @@
 
 * Catapult Assisted Take-Off But Arrested Recovery (CATOBAR) -- U.S. and France
   * Electromagnetic Aircraft Launch System (EMALS) -- U.S. and China
+    * cf. [The Hill](http://thehill.com/policy/defense/333040-trump-wants-goddamned-steam-catapults-on-new-aircraft-carriers)
 * Short Take-Off But Arrested Recovery (STOBAR) -- Russia, China, and India
 * Short Take-Off and Vertical Landing (STOVL) -- UK, Italy, Spain, and Thailand
 
