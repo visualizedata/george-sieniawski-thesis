@@ -948,4 +948,6 @@ Stavridis, James. *Sea Power: The History and Geopolitics of the World's Oceans.
 
 Till, Geoffrey. *Seapower: A Guide For the Twenty-First Century.* Hoboken, NJ: Taylor & Francis, 2009.
 
+[Wagner-Pacifici, Robin, John W. Mohr, Ronald L. Breiger, Petko Bogdanov. "Graphing the Grammar of Motives in National Security Strategies: Cultural Interpretation, Automated Text Analysis, and the Drama of Global Politics," *Poetics* 41, n. 6, December 2013.](https://www.sciencedirect.com/science/article/pii/S0304422X1300065X)
+
 Yardley, Roland F. *Increasing Aircraft Carrier Forward Presence: Changing the Length of the Maintenance Cycle.*  Santa Monica, CA: RAND Corporation, 2006.
