@@ -8,6 +8,14 @@
 
 ### ```77 week period``` from May 23, 2012 to November 14, 2013
 
+| ATLANTIC CARRIERS | HOME PORT | AS OF | NOTES:
+| ---: | :---: | :---: | :--- |
+| CVN 65 *USS Enterprise* | Norfolk, VA | 5/15/2012 | Conducting maritime security operations/support missions in the U.S. Fifth Fleet Area of Responsibility (AOR) |
+| CVN 69 *USS Dwight D. Eisenhower* | Norfolk, VA | 5/15/2012 | Underway in the Atlantic Ocean conducting a Composite Training Unit Exercise |
+| CVN 71 *USS Theodore Roosevelt* | Norfolk, VA | 9/29/2009 | Undergoing a 3Y Refueling and Complex Overhaul (RCOH) in Newport News, VA until 4Q12 |
+| CVN 75 *USS Harry S. Truman* | Norfolk, VA | 3/25/2011 | Undergoing an 11M Docking Planned Incremental Availability (DPIA) maintenance period in Newport News, VA |
+| CVN 77 *USS George H.W. Bush* | Norfolk, VA | 5/15/2012 | Returned to home port |
+
 ### ```157 week period``` from November 21, 2013 to November 24, 2016
 
 ### ```57+ week period``` from December 22, 2016 to Present
