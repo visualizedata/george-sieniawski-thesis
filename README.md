@@ -795,7 +795,7 @@
   ![media/CarrierSoudaBay.jpg](media/CarrierSoudaBay.jpg)
 
 * Naval Base of Cartagena -- Murcia, Spain -- 37°34'22.48" N, 0°59'39.05" W
-  ![CarrierCartagena.JPG](CarrierCartagena.JPG)
+  ![media/CarrierCartagena.JPG](media/CarrierCartagena.JPG)
 
 * Port of Tarragona -- Catalunya, Spain -- 41°05'36.26" N, 1°13'18.32" E
   ![media/CarrierTarragona.jpg](media/CarrierTarragona.jpg)
