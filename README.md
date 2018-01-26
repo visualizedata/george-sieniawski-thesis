@@ -69,6 +69,11 @@
 
 ### ```57+ week period``` from December 22, 2016 to Present
 
+| CARRIER STRIKE GROUPS (CSGs) AT SEA | AMPHIBIOUS READ GROUPS (ARGs)/MARINE EXPEDITIONARY UNITS (MEU) AT SEA |
+| ---: | :--- |
+| CVN 71 USS *Theodore Roosevelt* - San Diego, CA - Supporting maritime security operations/conducting theater security cooperation efforts in the U.S. Fifth Fleet Area of Responsibility (AOR) | LHA 6 USS *America* - San Diego, CA - Underway in the U.S. Fifth Fleet Area of Responsibility (AOR) |
+| | LHD 1 USS *Wasp* - Norfolk, VA - Underway in the Pacific Ocean while transiting to Sasebo, Japan, to conduct a turnover with the LHD 6 USS *Bonhomme Richard* |
+
 ## Literature Review
 
 Elleman, Bruce A., and Sarah C. M. Paine. *Naval Blockades and Seapower: Strategies and Counter-Strategies, 1805-2005.* London: Routledge, 2006. ```(annotation goes here)```
