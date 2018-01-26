@@ -27,7 +27,7 @@
 * to what extent did carrier coverage change during the North American shale gale?
 * to what extent did these trends reverse/abate/diminish/attenuate when oil prices crashed in mid-2014?
 * to what extent is diminished Suez traffic perceptible in the merchant marine/AIS data?
-* to what extent is the Hyundai and Maersk slowdown perceptible in the merchant marine/AIS data?
+* to what extent is the Hyundai, Hanjin, and Maersk slowdown perceptible in the merchant marine/AIS data?
 * to what extent does carrier coverage correlate with Gulf of Aden piracy?
 * to what extent does carrier coverage correlate with Straits of Malacca piracy?
 * to what extent is the shift from Obama to Trump perceptible in the carrier data?
