@@ -9,7 +9,7 @@
 * does carrier coverage correlate with the most important ISLs/SLOCs?
 * from an economic security perspective, how might we define the most important cargoes?
 * does carrier coverage correlate with the most important cargoes?
-* does carrier coverage correlate with any particular CAMEO codes?
+* does carrier coverage correlate with any particular [CAMEO codes](https://github.com/sieng146/thesis/blob/master/README.md#event-coding-from-the-conflict-and-mediation-event-observations-cameo-framework)?
   * if so, who were the key GDELT audiences in ASEAN region during the relevant reporting period?
 * beyond NATO, which blocs matter most in terms of carrier data?
 * to what extent are RCOH outages perceptible in the carrier deployment cycle?
