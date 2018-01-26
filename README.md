@@ -855,6 +855,8 @@ Alford, Jonathan. *Sea Power and Influence: Old Issues and New Challenges.* Lond
 
 Anderson, Ewan W. *Strategic Minerals: The Geopolitical Problems for the United States.* New York: Praeger, 1988.
 
+Branch, Jordan. *The Cartographic State: Maps, Territory and the Origins of Sovereignty.* Cambridge: Cambridge University Press, 2015.
+
 Brodie, Bernard. *A Guide to Naval Strategy.* Princeton, NJ: Princeton University Press, 1944.
 
 Brodie, Bernard. *Sea Power in the Machine Age.* Princeton, NJ: Princeton University Press, 1941.
