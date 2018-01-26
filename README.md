@@ -883,13 +883,15 @@ Lambeth, Benjamin S. *American Carrier Air Power at the Dawn of a New Century.* 
 
 Lambeth, Benjamin S. *Combat Pair: The Evolution of Air Force-Navy Integration in Strike Warfare.* Santa Monica, CA: RAND Corporation, 2006.
 
-[Leetaru, Kalev H. and Philip A. Schrodt. *GDELT: Global Data on Events, Language, and Tone, 1979-2012.*  Paper presented at the International Studies Association Annual Convention, San Francisco, CA: April 3, 2013.](http://data.gdeltproject.org/documentation/ISA.2013.GDELT.pdf)
+[Leetaru, Kalev H. and Philip A. Schrodt. "GDELT: Global Data on Events, Language, and Tone, 1979-2012," *Paper presented at the International Studies Association Annual Convention,* San Francisco, CA: April 3, 2013.](http://data.gdeltproject.org/documentation/ISA.2013.GDELT.pdf)
 
 Lord, Carnes. *Rebalancing the Force: Basing and Forward Presence in the Asia-Pacific.* Annapolis, MD: Naval Institute Press, 2014.
 
 McBride, William M. *Technological Change and the United States Navy, 1865-1945.* Baltimore, MD: Johns Hopkins University Press, 2000.
 
 Modelski, George. *Seapower in Global Politics: 1494-1993.* Seattle, WA: University of Washington Press, 1988.
+
+O'Brien, Sean. "Crisis Early Warning and Decision Support: Contemporary Approaches and Thoughts on Future Research," *International Studies Review* 12, no. 1 (2010): 87-104.
 
 Rowlands, Kevin. *21st Century Gorshkov: The Challenge of Seapower in the Modern Era.* Annapolis, MD: Naval Institute Press, 2017.
 
