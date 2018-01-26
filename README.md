@@ -156,6 +156,19 @@
 * Refrigerated Ships -- Fruit, Meat, Fish, Vegetables, Dairy Products, and Other Foods
 * ROROs -- Automobiles/Trucks/Tractors/Roll-on-Roll-off cargo
 
+## Ship Domain Discussion
+
+* Elisabeth M. Goodwin -- A Statistical Study of Ship Domains (1975)
+* Colin T. Stockel et al. -- Computer Simulation of Multi-Ship Encounters (1982)
+* T.G. Coldwell -- Marine Traffic Behavior in Restricted Waters (1983)
+* Roman Śmierzchalski and Zbigniew Michalewicz -- Modeling of Ship Trajectory in Collision Situations by an Evolutionary Algorithm (1998)
+* Cheng-Neng Hwang, Joe-Ming Yang, and Chung-Yen Chiang -- the Design of Fuzzy Collision-Avoidance Expert System Implemented by H-Autopilot (2001)
+* Katsuro Kijima and Yoshitaka Furukawa -- Automatic Collision Avoidance System Using the Concept of Blocking Area (2003)
+* Ning Wang, Xianyao Meng, Qingyang Xu, and Zuwen Wang -- A Unified Analytical Framework for Ship Domains (2009)
+* Kinzo Inoue -- Theory and Practice of Ship Handling (2012)
+* Gia HuyDinh and Nam-kyun Im -- The Combination of Analytical and Statistical Method to Define Polygonal Ship Domain and Reflect Human Experiences in Estimating Dangerous Area (2016)
+* Enmei Tu, Guanghao Zhang, Lily Rachmawati, Eshan Rajabally, and Guang-Bin Huang -- Exploiting AIS Data for Intelligent Maritime Navigation: A Comprehensive Survey (2016)
+
 ## Diplomatic Tension/Military Escalation Data 
 * Global Database of Events, Language, and Tone (GDELT)
 * Integrated Conflict Early Warning System (ICEWS)
