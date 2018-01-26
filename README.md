@@ -2,6 +2,16 @@
 
 ![media/ScreenShot2018-01-08.png](media/ScreenShot2018-01-08.png)
 
+![media/ScreenShot2018-01-11.png](media/ScreenShot2018-01-11.png)
+
+## Carrier Data
+
+### May 23, 2012 - November 14, 2013 ```**77 weeks**```
+
+### November 21, 2013 - November 24, 2016 ```**157 weeks**```
+
+### December 22, 2016 - Present ```**57+ weeks**```
+
 ## Literature Review
 
 Elleman, Bruce A., and Sarah C. M. Paine. *Naval Blockades and Seapower: Strategies and Counter-Strategies, 1805-2005.* London: Routledge, 2006. ```(annotation goes here)```
