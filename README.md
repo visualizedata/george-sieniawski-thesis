@@ -6,10 +6,10 @@
 * to what extent is homeporting/idleness the default state of the carrier fleet?
 * when carriers move, which activities predominate? antipiracy vs. routine SLOC patrol vs. power projection vs. humanitarian aid vs. other OCO?
 * from a national security/FONOPs perspective, how might we define the most important ISLs/SLOCs?
-* does carrier coverage correlate with the most important ISLs/SLOCs?
+* to what extent does carrier coverage correlate with the most important ISLs/SLOCs?
 * from an economic security perspective, how might we define the most important cargoes?
-* does carrier coverage correlate with the most important cargoes?
-* does carrier coverage correlate with any particular [CAMEO codes](https://github.com/sieng146/thesis/blob/master/README.md#event-coding-from-the-conflict-and-mediation-event-observations-cameo-framework)?
+* to what extent does carrier coverage correlate with the most important cargoes?
+* to what extent does carrier coverage correlate with any particular [CAMEO codes](https://github.com/sieng146/thesis/blob/master/README.md#event-coding-from-the-conflict-and-mediation-event-observations-cameo-framework)?
   * if so, who were the key GDELT audiences in ASEAN region during the relevant reporting period?
 * beyond NATO, which blocs matter most in terms of carrier data?
 * to what extent are RCOH outages perceptible in the carrier deployment cycle?
