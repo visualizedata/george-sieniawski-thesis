@@ -39,6 +39,34 @@
 
 ### ```157 week period``` from November 21, 2013 to November 24, 2016
 
+| ATLANTIC CARRIERS | HOME PORT | AS OF | NOTES:
+| ---: | :---: | :---: | :--- |
+| CVN 69 USS *Dwight D. Eisenhower* | Norfolk, VA | 11/23/2016 | Supporting maritime security operations/conducting theater security cooperation efforts in the U.S. Fifth Fleet Area of Responsibility (AOR) |
+| CVN 72 USS *Abraham Lincoln* | Norfolk, VA | 3/28/2013 | Undergoing a 3.5Y Refueling and Complex Overhaul (RCOH) in Newport News, VA |
+| CVN 73 USS *George Washington* | Norfolk, VA | 11/23/2016 | In home port |
+| CVN 75 USS *Harry S. Truman* | Norfolk, VA | 11/23/2016 | In home port |
+| CVN 77 USS *George H.W. Bush* | Norfolk, VA | 11/23/2016 | In home port |
+
+| PACIFIC CARRIERS | HOME PORT | AS OF | NOTES:
+| ---: | :---: | :---: | :--- |
+| CVN 68 USS *Nimitz* | Everett, WA | 11/23/2016 | Underway in the Pacific Ocean |
+| CVN 70 USS *Carl Vinson* | San Diego, CA | 11/23/2016 | Returned to home port |
+| CVN 71 USS *Theodore Roosevelt* | San Diego, CA | 11/23/2016 | In home port |
+| CVN 74 USS *John C. Stennis* | Kitsap-Bremerton, WA | 11/23/2016 | Underway in the Pacific Ocean |
+| CVN 76 USS *Ronald Reagan* | Yokosuka, Japan | 11/23/2016 | In home port |
+
+| BIG-DECK AMPHIBIOUS WARFARE SHIPS | HOME PORT | AS OF | NOTES:
+| ---: | :---: | :---: | :--- |
+| LHA 6 USS *America* | San Diego, CA | 11/23/2016 | Returned to home port |
+| LHD 1 USS *Wasp* | Norfolk, VA | 11/23/2016 | Supporting maritime security operations/conducting theater security cooperation efforts in the U.S. Fifth Fleet Area of Responsibility (AOR) |
+| LHD 2 USS *Essex* | San Diego, CA | 11/23/2016 | In home port |
+| LHD 3 USS *Kearsarge* | Norfolk, VA | 11/23/2016 | In home port |
+| LHD 4 USS *Boxer* | San Diego, CA | 11/23/2016 | In home port |
+| LHD 5 USS *Bataan* | Norfolk, VA | 11/23/2016 | In home port |
+| LHD 6 USS *Bonhomme Richard* | Sasebo, Japan | 11/23/2016 | In home port |
+| LHD 7 USS *Iwo Jima* | Mayport, FL | 11/23/2016 | Returned to home port |
+| LHD 8 USS *Makin Island* | San Diego, CA | 11/23/2016 | Underway in the Pacific Ocean |
+
 ### ```57+ week period``` from December 22, 2016 to Present
 
 ## Literature Review
