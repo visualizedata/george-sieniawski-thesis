@@ -834,20 +834,56 @@
 
 ![https://upload.wikimedia.org/wikipedia/commons/7/71/Aircraft_carrier_silhouettes_%28Warships_To-day%2C_1936%29.jpg](https://upload.wikimedia.org/wikipedia/commons/7/71/Aircraft_carrier_silhouettes_%28Warships_To-day%2C_1936%29.jpg)
 
-Source: Burgess, Malcolm William. *Warships To-day* London: Oxford University Press, 1936. ```Fig. 5 on p. 42```
+Source: Burgess, Malcolm William. *Warships To-day* London: Oxford University Press: 1936. ```Fig. 5 on p. 42```
 
 ## Literature Review
+
+Alford, Jonathan. *Sea Power and Influence: Old Issues and New Challenges.* London: International Institute for Strategic Studies, 1980.
+
+Anderson, Ewan W. *Strategic Minerals: The Geopolitical Problems for the United States.* New York: Praeger, 1988.
+
+Brodie, Bernard. *A Guide to Naval Strategy.* Princeton, NJ: Princeton University Press, 1944.
+
+Brodie, Bernard. *Sea Power in the Machine Age.* Princeton, NJ: Princeton University Press, 1941.
+
+Brzezinski, Zbigniew. *The Grand Chessboard: American Primacy and Its Geostrategic Imperatives.* New York: Basic Books, 1997.
+
+Dutton, Peter, Robert S. Ross and Øystein Tunsjø, eds. *Twenty-first Century Seapower: Cooperation and Conflict at Sea.* Abingdon: Routledge, 2013.
 
 Elleman, Bruce A., and Sarah C. M. Paine. *Naval Blockades and Seapower: Strategies and Counter-Strategies, 1805-2005.* London: Routledge, 2006.
 
 Friedman, Norman. *Seapower as Strategy: Navies and National Interests.* Annapolis, MD: Naval Institute Press, 2001.
 
+Graham, Euan. *Japan's Sea Lane Security, 1940-2004: A Matter of Life and Death?* Abingdon: Routledge, 2006.
+
+Gorshkov, Sergey G. *The Sea Power of the State.* Oxford: Pergamon Press, 1979.
+
 Haskew, Michael E. *Aircraft Carriers: The Illustrated History of the World's Most Important Warships.* Minneapolis, MN: Zenith Press, 2016.
 
-McBride, William M. *Technological change and the United States Navy, 1865-1945.* Baltimore, MD: Johns Hopkins University Press, 2000.
+Horowitz, Michael C. *The Diffusion of Military Power: Causes and Consequences for International Politics.* Princeton, NJ: Princeton University Press, 2010.
+
+Howe, Jonathan T. *Multicrises: Sea Power and Global Politics in the Missile Age.* Cambridge, MA: MIT Press, 1971.
+
+Koburger, Jr. Charles W. *Narrow Seas, Small Navies, and Fat Merchantmen.* New York: Praeger, 1990.
+
+Lambeth, Benjamin S. *American Carrier Air Power at the Dawn of a New Century.* Santa Monica, CA: RAND Corporation, 2006.
+
+Lambeth, Benjamin S. *Combat Pair: The Evolution of Air Force-Navy Integration in Strike Warfare.* Santa Monica, CA: RAND Corporation, 2006.
+
+Lord, Carnes. *Rebalancing the Force: Basing and Forward Presence in the Asia-Pacific.* Annapolis, MD: Naval Institute Press, 2014.
+
+McBride, William M. *Technological Change and the United States Navy, 1865-1945.* Baltimore, MD: Johns Hopkins University Press, 2000.
+
+Modelski, George. *Seapower in Global Politics: 1494-1993.* Seattle, WA: University of Washington Press, 1988.
+
+Rowlands, Kevin. *21st Century Gorshkov: The Challenge of Seapower in the Modern Era.* Annapolis, MD: Naval Institute Press, 2017.
+
+Samuels, Marwyn. *Contest for the South China Sea.* Abingdon: Taylor and Francis, 2013.
 
 Slater, David, and Peter James Taylor. *The American Century: Consensus and Coercion in the Projection of American Power.* Oxford: Blackwell, 1999.
 
 Stavridis, James. *Sea Power: The History and Geopolitics of the World's Oceans.* New York: Penguin Press, 2017.
 
 Till, Geoffrey. *Seapower: A Guide For the Twenty-First Century.* Hoboken, NJ: Taylor & Francis, 2009.
+
+Yardley, Roland F. *Increasing Aircraft Carrier Forward Presence : Changing the Length of the Maintenance Cycle.*  Santa Monica, CA: RAND Corporation, 2006.
