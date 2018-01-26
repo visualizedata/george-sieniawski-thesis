@@ -21,7 +21,7 @@
 * to what extent does carrier coverage correlate with Spratly Islands/China tensions?
 * to what extent does carrier coverage correlate with Taiwan/China tension?
 * to what extent does carrier coverage correlate with Brent and/or WTI?
-* to what extent is the "Pivot to the Pacific" perceptible in the carrier data?
+* to what extent is the ["Pivot to the Pacific"](https://fas.org/sgp/crs/natsec/R42448.pdf) perceptible in the carrier data?
 * from an energy security perspective, to what extent did domestic shale output reduce U.S. imports from Saudi Arabia?
 * from an energy security perspective, to what extent did domestic shale output drive Saudi Arabia to export to China?
 * to what extent did carrier coverage change during the North American shale gale?
