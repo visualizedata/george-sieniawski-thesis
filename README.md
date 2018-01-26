@@ -3,35 +3,36 @@
 ![media/ScreenShot2018-01-08.png](media/ScreenShot2018-01-08.png)
 
 ## Key Research Questions
-* to what extent is homeporting/idleness the default state of the carrier fleet?
-* when carriers move, which activities predominate? antipiracy vs. routine SLOC patrol vs. power projection vs. humanitarian aid vs. [OCO](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/budget/fy2018/oco.pdf)?
-* from a national security/[FONOPs](https://thediplomat.com/tag/fonops/) perspective, how might we define the most important ISLs/SLOCs?
-* to what extent does carrier coverage correlate with the most important ISLs/SLOCs?
-* from an economic security perspective, how might we define the most important cargoes?
-* to what extent does carrier coverage correlate with the most important cargoes?
-* to what extent does carrier coverage correlate with any particular [CAMEO codes](https://github.com/sieng146/thesis/blob/master/README.md#event-coding-from-the-conflict-and-mediation-event-observations-cameo-framework)?
+* to what extent is homeporting/standby the default state of the U.S. carrier fleet?
+* to what extent are RCOH outages perceptible in the U.S. carrier deployment cycle?
+* when U.S. carriers move, which activities predominate? antipiracy vs. routine SLOC patrol vs. power projection vs. humanitarian aid vs. [OCO](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/budget/fy2018/oco.pdf)?
+* from a national security/[FONOPs](https://thediplomat.com/tag/fonops/) perspective, how might we define the most important ISLs/SLOCs for U.S. importers?
+* to what extent do U.S. carrier deployments correlate with the most important ISLs/SLOCs?
+* from an economic security perspective, how might we define the most important cargoes for U.S. importers?
+* to what extent do U.S. carrier deployments correlate with the most important cargoes?
+* to what extent do U.S. carrier deployments correlate with/lag behind/serve as a leading indicator for any particular [CAMEO codes](https://github.com/sieng146/thesis/blob/master/README.md#event-coding-from-the-conflict-and-mediation-event-observations-cameo-framework)?
   * if so, who were the key GDELT audiences in ASEAN region during the relevant reporting period?
-* beyond NATO, which blocs matter most in terms of carrier data?
-* to what extent are RCOH outages perceptible in the carrier deployment cycle?
+* beyond NATO, which blocs matter most in terms of U.S. carrier coverage?
 * were there any significant incidents during the relevant reporting period? (e.g. MH-370 and ARA San Juan)
-* to what extent does carrier coverage correlate with [undersea communication cables](https://www.submarinecablemap.com/)?
-* to what extent does carrier coverage correlate with Russia/NATO tensions?
-* to what extent does carrier coverage correlate with tensions on the Korean peninsula?
-* to what extent does carrier coverage correlate with Iranian tensions?
-* to what extent does carrier coverage correlate with Spratly Islands/China tensions?
-* to what extent does carrier coverage correlate with Taiwan/China tension?
-* to what extent does carrier coverage correlate with [Brent](https://www.bloomberg.com/quote/BRENB:FP) and/or [WTI](https://www.bloomberg.com/quote/CL1:COM) futures?
-* to what extent is the ["Pivot to the Pacific"](https://fas.org/sgp/crs/natsec/R42448.pdf) perceptible in the carrier data?
+* to what extent do U.S. carrier deployments correlate with [undersea communication cables](https://www.submarinecablemap.com/)?
+* to what extent do U.S. carrier deployments correlate with Russia/NATO tensions?
+* to what extent do U.S. carrier deployments correlate with tensions on the Korean peninsula?
+* to what extent do U.S. carrier deployments correlate with Iranian tensions?
+* to what extent do U.S. carrier deployments correlate with Spratly Islands/China tensions?
+* to what extent do U.S. carrier deployments correlate with Taiwan/China tension?
+* to what extent do U.S. carrier deployments correlate with [Brent](https://www.bloomberg.com/quote/BRENB:FP) and/or [WTI](https://www.bloomberg.com/quote/CL1:COM) futures?
+* to what extent is the ["Pivot to the Pacific"](https://fas.org/sgp/crs/natsec/R42448.pdf) perceptible in the U.S. carrier deployment data?
 * from an energy security perspective, to what extent did domestic shale output reduce U.S. imports from Saudi Arabia?
 * from an energy security perspective, to what extent did domestic shale output drive Saudi Arabia to export to China?
-* to what extent did carrier coverage change during [the North American shale gale](https://www.eia.gov/oil_gas/rpd/shale_gas.pdf)?
+* to what extent is the Saudi export rotation from west to east (between 2010 and 2018) perceptible in the merchant marine/AIS data?
+* to what extent did U.S. carrier deployments change during [the North American shale gale](https://www.eia.gov/oil_gas/rpd/shale_gas.pdf)?
 * to what extent did these trends reverse/abate/diminish/attenuate when [oil prices crashed between 3Q14 and 1Q16](https://assets.weforum.org/editor/UtodTcM1KySmpnL0vPEHyeeRZVZxq8Ogguo96BNrTQw.png)?
 * to what extent is diminished Suez traffic perceptible in the merchant marine/AIS data?
 * to what extent is the Hyundai, Hanjin, and Maersk slowdown perceptible in the merchant marine/AIS data?
 * to what extent is the slow steaming phenomenon perceptible in the merchant marine/AIS data?
 * to what extent does carrier coverage correlate with [Gulf of Aden piracy](https://www.icc-ccs.org/piracy-reporting-centre/live-piracy-map)?
 * to what extent does carrier coverage correlate with [Straits of Malacca piracy](https://www.icc-ccs.org/piracy-reporting-centre/live-piracy-map)?
-* to what extent is the shift from Obama to Trump perceptible in the carrier data?
+* to what extent is the shift from Obama to Trump perceptible in the U.S. carrier data?
 
 ## Time Series Breakdown/Dimensional Analysis on 5,820 Week-by-Week Vessel Reports
 
