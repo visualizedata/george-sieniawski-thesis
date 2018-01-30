@@ -1,32 +1,10 @@
 # Striking Distance: Mapping U.S. Aircraft Carrier Deployments, 2012-2018
 
-| TOPIC | QUESTION | SIGNIFICANCE |
-| ---: | :---: | :--- |
-| I’m visualizing… | because I want to show… | in order to… |
-| **U.S. aircraft carrier movements** from 2012 to 2018 | **how defense planners define** and protect **the national interest** | **understand national security, energy security, freedom of navigation (FON), sea lines of communication (SLOCs), maritime security operations (MSOs), and humanitarian assistance and disaster response (HADR), in the Obama/Trump era** |
-
-| AUDIENCE |
-| :---: |
-| **Scholars of contemporary naval strategy, international relations (IR), security studies (SS), maritime history, and/or international political economy (IPE)** |
-| **theorizing about U.S. seapower, power projection, trade/commerce,** security as well as ```revisionist BRIC actors (e.g. China, India, and Russia), South China Sea (SCS) conflict, and pirates/spoilers on the high seas.``` |
-
-![media/CarrierJebelAli.jpg](media/CarrierJebelAli.jpg)
-
 ![media/ScreenShot2018-01-08.png](media/ScreenShot2018-01-08.png)
 
 ![media/ResearchSummary.png](media/ResearchSummary.png)
 
 ![media/MindMap.png](media/MindMap.png)
-
-![media/2014-gdelt-global-dashboard.png](media/2014-gdelt-global-dashboard.png)
-
-![media/MischiefReef.png](media/MischiefReef.png)
-
-![media/SouthernEntranceToSuezCanal.png](media/SouthernEntranceToSuezCanal.png)
-
-![media/ScreenShot2018-01-11.png](media/ScreenShot2018-01-11.png)
-
-![media/ScreenShot2018-01-30.png](media/ScreenShot2018-01-30.png)
 
 ## Key Research Questions
 * to what extent is [homeporting](https://fas.org/sgp/crs/weapons/R40248.pdf)/standby/ready status the default state of the U.S. carrier fleet? to what extent is actual deployment the exception?
