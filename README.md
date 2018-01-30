@@ -5,6 +5,10 @@
 | **I’m visualizing…** | **because I want to show…** | **in order to…** |
 | **U.S. aircraft carrier movements** from 2012 to 2018 | **how defense planners define and protect the national interest** | **understand national security, energy security, freedom of navigation (FON), and sea lines of communication (SLOCs) in the Obama/Trump era** |
 
+| AUDIENCE |
+| :---: |
+| Scholars of contemporary naval strategy, international relations (IR), security studies (SS), maritime history, and/or international political economy (IPE) theorizing about U.S. seapower, power projection, trade/commerce, security as well as revisionist BRIC actors (e.g. China, India, and Russia) and pirates/spoilers on the high seas. |
+
 ![media/CarrierJebelAli.jpg](media/CarrierJebelAli.jpg)
 
 ![media/ScreenShot2018-01-08.png](media/ScreenShot2018-01-08.png)
