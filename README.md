@@ -6,7 +6,7 @@
 
 ![media/MindMap.png](media/MindMap.png)
 
-![media/2014-gdelt-global-dashboard.png](2014-gdelt-global-dashboard.png)
+![media/2014-gdelt-global-dashboard.png](media/2014-gdelt-global-dashboard.png)
 
 ![media/MischiefReef.png](media/MischiefReef.png)
 
