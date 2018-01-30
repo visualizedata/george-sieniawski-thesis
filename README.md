@@ -2,8 +2,6 @@
 
 | TOPIC | RESEARCH QUESTION | SIGNIFICANCE |
 | ---: | :---: | :--- |
-
-
 | I’m visualizing… | because I want to show… | in order to… |
 | ---: | :---: | :--- |
 | U.S. aircraft carrier movements from 2012 to 2018 | how the defense planning/naval aviation community defines and protects the national interest | understand national security, energy security, freedom of navigation (FON), and sea lines of communication (SLOCs) in the Obama/Trump era |
