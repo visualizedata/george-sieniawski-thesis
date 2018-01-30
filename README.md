@@ -7,7 +7,7 @@
 
 | AUDIENCE |
 | :---: |
-| Scholars of contemporary naval strategy, international relations (IR), security studies (SS), maritime history, and/or international political economy (IPE) theorizing about U.S. seapower, power projection, trade/commerce, security as well as revisionist BRIC actors (e.g. China, India, and Russia) and pirates/spoilers on the high seas. |
+| **Scholars of contemporary naval strategy, international relations (IR), security studies (SS), maritime history, and/or international political economy (IPE) theorizing about U.S. seapower, power projection, trade/commerce,** security as well as revisionist BRIC actors (e.g. China, India, and Russia), South China Sea (SCS) conflict, and pirates/spoilers on the high seas. |
 
 ![media/CarrierJebelAli.jpg](media/CarrierJebelAli.jpg)
 
