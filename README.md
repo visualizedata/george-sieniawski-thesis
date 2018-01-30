@@ -1,6 +1,6 @@
 # Striking Distance: Mapping U.S. Aircraft Carrier Deployments, 2012-2018
 
-| TOPIC | RESEARCH QUESTION | SIGNIFICANCE |
+| TOPIC | QUESTION | SIGNIFICANCE |
 | ---: | :---: | :--- |
 | I’m visualizing… | because I want to show… | in order to… |
 | **U.S. aircraft carrier movements** from 2012 to 2018 | **how defense planners define** and protect **the national interest** | **understand national security, energy security, freedom of navigation (FON), sea lines of communication (SLOCs), maritime security operations (MSOs), and humanitarian assistance and disaster response (HADR), in the Obama/Trump era** |
