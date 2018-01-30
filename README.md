@@ -1,5 +1,7 @@
 # Striking Distance: Mapping U.S. Aircraft Carrier Deployments, 2012-2018
 
+![media/CarrierJebelAli.jpg](media/CarrierJebelAli.jpg)
+
 ![media/ScreenShot2018-01-08.png](media/ScreenShot2018-01-08.png)
 
 ![media/ResearchSummary.png](media/ResearchSummary.png)
