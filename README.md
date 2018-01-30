@@ -2,7 +2,7 @@
 
 | TOPIC | RESEARCH QUESTION | SIGNIFICANCE |
 | ---: | :---: | :--- |
-| ```I’m visualizing…``` | ```because I want to show…``` | ```in order to…``` |
+| I’m visualizing… | because I want to show… | in order to… |
 | **U.S. aircraft carrier movements** from 2012 to 2018 | **how defense planners define** and protect **the national interest** | **understand national security, energy security, freedom of navigation (FON), sea lines of communication (SLOCs), maritime security operations (MSOs), and humanitarian assistance and disaster response (HADR), in the Obama/Trump era** |
 
 | AUDIENCE |
