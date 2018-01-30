@@ -10,7 +10,9 @@
 
 ![media/SouthernEntranceToSuezCanal.png](media/SouthernEntranceToSuezCanal.png)
 
-![media/ScreenShot2018-01-11.png](ScreenShot2018-01-11.png)
+![media/ScreenShot2018-01-11.png](media/ScreenShot2018-01-11.png)
+
+![media/Screen Shot 2018-01-30 at 1.11.21 PM.png](media/Screen Shot 2018-01-30 at 1.11.21 PM.png)
 
 ## Key Research Questions
 * to what extent is [homeporting](https://fas.org/sgp/crs/weapons/R40248.pdf)/standby/ready status the default state of the U.S. carrier fleet? to what extent is actual deployment the exception?
