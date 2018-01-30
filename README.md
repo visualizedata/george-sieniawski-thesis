@@ -4,6 +4,8 @@
 
 ![media/ResearchSummary.png](media/ResearchSummary.png)
 
+![media/MindMap.png](media/MindMap.png)
+
 ## Key Research Questions
 * to what extent is [homeporting](https://fas.org/sgp/crs/weapons/R40248.pdf)/standby/ready status the default state of the U.S. carrier fleet? to what extent is actual deployment the exception?
 * to what extent are [RCOH outages](https://thumbnails-visually.netdna-ssl.com/rcoh--refueling-complex-overhaul_5148517a9d671.jpg) perceptible in the U.S. carrier deployment cycle?
