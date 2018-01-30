@@ -19,13 +19,13 @@
 * beyond NATO, which blocs matter most in terms of U.S. carrier coverage?
 * were there any significant incidents during the relevant reporting period? (e.g. MH-370 and ARA San Juan)
 * to what extent do U.S. carrier deployments correlate with [undersea communication cables](https://www.submarinecablemap.com/)?
-* to what extent do U.S. carrier deployments correlate with Russia/NATO tensions?
-* to what extent do U.S. carrier deployments correlate with tensions on the Korean peninsula?
-* to what extent do U.S. carrier deployments correlate with Iranian tensions?
-* to what extent do U.S. carrier deployments correlate with Spratly Islands/China tensions?
-* to what extent do U.S. carrier deployments correlate with Taiwan/China tension?
-* to what extent do U.S. carrier deployments correlate with [Brent](https://www.bloomberg.com/quote/BRENB:FP) and/or [WTI](https://www.bloomberg.com/quote/CL1:COM) futures?
-* to what extent is the ["Pivot to the Pacific"](https://fas.org/sgp/crs/natsec/R42448.pdf) perceptible in the U.S. carrier deployment data?
+* based on the [CAMEO/GDELT data,](https://github.com/sieng146/thesis/blob/master/README.md#event-coding-from-the-conflict-and-mediation-event-observations-cameo-framework) to what extent do U.S. carrier deployments correlate with Russia/NATO tensions?
+* based on the [CAMEO/GDELT data,](https://github.com/sieng146/thesis/blob/master/README.md#event-coding-from-the-conflict-and-mediation-event-observations-cameo-framework) to what extent do U.S. carrier deployments correlate with tensions on the Korean peninsula?
+* based on the [CAMEO/GDELT data,](https://github.com/sieng146/thesis/blob/master/README.md#event-coding-from-the-conflict-and-mediation-event-observations-cameo-framework) to what extent do U.S. carrier deployments correlate with Iranian tensions?
+* based on the [CAMEO/GDELT data,](https://github.com/sieng146/thesis/blob/master/README.md#event-coding-from-the-conflict-and-mediation-event-observations-cameo-framework) to what extent do U.S. carrier deployments correlate with Spratly Islands/China tensions?
+* based on the [CAMEO/GDELT data,](https://github.com/sieng146/thesis/blob/master/README.md#event-coding-from-the-conflict-and-mediation-event-observations-cameo-framework) to what extent do U.S. carrier deployments correlate with Taiwan/China tension?
+* based on the [CAMEO/GDELT data,](https://github.com/sieng146/thesis/blob/master/README.md#event-coding-from-the-conflict-and-mediation-event-observations-cameo-framework) to what extent do U.S. carrier deployments correlate with [Brent](https://www.bloomberg.com/quote/BRENB:FP) and/or [WTI](https://www.bloomberg.com/quote/CL1:COM) futures?
+* based on the [CAMEO/GDELT data,](https://github.com/sieng146/thesis/blob/master/README.md#event-coding-from-the-conflict-and-mediation-event-observations-cameo-framework) to what extent is the ["Pivot to the Pacific"](https://fas.org/sgp/crs/natsec/R42448.pdf) perceptible in the U.S. carrier deployment data?
 * from an energy security perspective, to what extent did domestic shale output reduce U.S. imports from Saudi Arabia?
 * from an energy security perspective, to what extent did domestic shale output drive Saudi Arabia to export to China?
 * to what extent is the Saudi export rotation from west to east (between 2010 and 2018) perceptible in the merchant marine/AIS data?
