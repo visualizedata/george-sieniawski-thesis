@@ -30,7 +30,7 @@ h3 {
   position: relative;
   height: 100%;
 }
-.cont__inner:hover .individualsection__bg:after {
+.cont__inner:hover .el__bg:after {
   opacity: 1;
 }
 
@@ -50,12 +50,12 @@ h3 {
 .el:not(.s--active) {
   cursor: pointer;
 }
-.individualsection__overflow {
+.el__overflow {
   overflow: hidden;
   position: relative;
   height: 100%;
 }
-.individualsection__inner {
+.el__inner {
   overflow: hidden;
   position: relative;
   height: 100%;
@@ -64,11 +64,11 @@ h3 {
   transition: transform 1s;
   transition: transform 1s, -webkit-transform 1s;
 }
-.cont.s--inactive .individualsection__inner {
+.cont.s--inactive .el__inner {
   -webkit-transform: translate3d(0, 100%, 0);
           transform: translate3d(0, 100%, 0);
 }
-.individualsection__bg {
+.el__bg {
   position: relative;
   width: calc(100vw - 140px);
   height: 100%;
@@ -78,7 +78,7 @@ h3 {
   transition: transform 0.6s 0.7s, -webkit-transform 0.6s 0.7s;
   will-change: transform;
 }
-.individualsection__bg:before {
+.el__bg:before {
   content: "";
   position: absolute;
   left: 0;
@@ -94,17 +94,17 @@ h3 {
   -webkit-transform: translate3d(0, 0, 0) scale(1);
           transform: translate3d(0, 0, 0) scale(1);
 }
-.cont.s--inactive .individualsection__bg:before {
+.cont.s--inactive .el__bg:before {
   -webkit-transform: translate3d(0, -100%, 0) scale(1.2);
           transform: translate3d(0, -100%, 0) scale(1.2);
 }
-.el.s--active .individualsection__bg:before {
+.el.s--active .el__bg:before {
   -webkit-transition: -webkit-transform 0.8s;
   transition: -webkit-transform 0.8s;
   transition: transform 0.8s;
   transition: transform 0.8s, -webkit-transform 0.8s;
 }
-.individualsection__bg:after {
+.el__bg:after {
   content: "";
   z-index: 1;
   position: absolute;
@@ -117,12 +117,12 @@ h3 {
   -webkit-transition: opacity 0.5s;
   transition: opacity 0.5s;
 }
-.cont.s--el-active .individualsection__bg:after {
+.cont.s--el-active .el__bg:after {
   -webkit-transition: opacity 0.5s 1.4s;
   transition: opacity 0.5s 1.4s;
   opacity: 1 !important;
 }
-.individualsection__preview-cont {
+.el__preview-cont {
   z-index: 2;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -141,25 +141,25 @@ h3 {
   -webkit-transition: all 0.3s 1.2s;
   transition: all 0.3s 1.2s;
 }
-.cont.s--inactive .individualsection__preview-cont {
+.cont.s--inactive .el__preview-cont {
   opacity: 0;
   -webkit-transform: translateY(10px);
           transform: translateY(10px);
 }
-.cont.s--el-active .individualsection__preview-cont {
+.cont.s--el-active .el__preview-cont {
   opacity: 0;
   -webkit-transform: translateY(30px);
           transform: translateY(30px);
   -webkit-transition: all 0.5s;
   transition: all 0.5s;
 }
-.individualsection__heading {
+.el__heading {
   color: #fff;
   text-align: center;
   text-transform: uppercase;
   font-size: 18px;
 }
-.individualsection__content {
+.el__content {
   z-index: -1;
   position: absolute;
   left: 0;
@@ -172,19 +172,19 @@ h3 {
   -webkit-transition: all 0.1s;
   transition: all 0.1s;
 }
-.el.s--active .individualsection__content {
+.el.s--active .el__content {
   z-index: 2;
   opacity: 1;
   pointer-events: auto;
   -webkit-transition: all 0.5s 1.4s;
   transition: all 0.5s 1.4s;
 }
-.individualsection__text {
+.el__text {
   text-transform: uppercase;
   font-size: 20px;
   color: #fff;
 }
-.individualsection__close-btn {
+.el__close-btn {
   z-index: -1;
   position: absolute;
   right: 10px;
@@ -197,14 +197,14 @@ h3 {
   transition: all 0s 0.45s;
   cursor: pointer;
 }
-.el.s--active .individualsection__close-btn {
+.el.s--active .el__close-btn {
   z-index: 5;
   opacity: 1;
   pointer-events: auto;
   -webkit-transition: all 0s 1.4s;
   transition: all 0s 1.4s;
 }
-.individualsection__close-btn:before, .individualsection__close-btn:after {
+.el__close-btn:before, .el__close-btn:after {
   content: "";
   position: absolute;
   left: 0;
@@ -217,30 +217,30 @@ h3 {
   -webkit-transition: opacity 0s;
   transition: opacity 0s;
 }
-.el.s--active .individualsection__close-btn:before, .el.s--active .individualsection__close-btn:after {
+.el.s--active .el__close-btn:before, .el.s--active .el__close-btn:after {
   opacity: 1;
 }
-.individualsection__close-btn:before {
+.el__close-btn:before {
   -webkit-transform: rotate(45deg) translateX(100%);
           transform: rotate(45deg) translateX(100%);
 }
-.el.s--active .individualsection__close-btn:before {
+.el.s--active .el__close-btn:before {
   -webkit-transition: all 0.3s 1.4s cubic-bezier(0.72, 0.09, 0.32, 1.57);
   transition: all 0.3s 1.4s cubic-bezier(0.72, 0.09, 0.32, 1.57);
   -webkit-transform: rotate(45deg) translateX(0);
           transform: rotate(45deg) translateX(0);
 }
-.individualsection__close-btn:after {
+.el__close-btn:after {
   -webkit-transform: rotate(-45deg) translateX(100%);
           transform: rotate(-45deg) translateX(100%);
 }
-.el.s--active .individualsection__close-btn:after {
+.el.s--active .el__close-btn:after {
   -webkit-transition: all 0.3s 1.55s cubic-bezier(0.72, 0.09, 0.32, 1.57);
   transition: all 0.3s 1.55s cubic-bezier(0.72, 0.09, 0.32, 1.57);
   -webkit-transform: rotate(-45deg) translateX(0);
           transform: rotate(-45deg) translateX(0);
 }
-.individualsection__index {
+.el__index {
   overflow: hidden;
   position: absolute;
   left: 0;
@@ -259,35 +259,35 @@ h3 {
   -webkit-transform: translate3d(0, 1vw, 0);
           transform: translate3d(0, 1vw, 0);
 }
-.el:hover .individualsection__index {
+.el:hover .el__index {
   -webkit-transform: translate3d(0, 0, 0);
           transform: translate3d(0, 0, 0);
 }
-.cont.s--el-active .individualsection__index {
+.cont.s--el-active .el__index {
   -webkit-transition: opacity 0.3s, -webkit-transform 0.5s;
   transition: opacity 0.3s, -webkit-transform 0.5s;
   transition: transform 0.5s, opacity 0.3s;
   transition: transform 0.5s, opacity 0.3s, -webkit-transform 0.5s;
   opacity: 0;
 }
-.individualsection__index-back, .individualsection__index-front {
+.el__index-back, .el__index-front {
   position: absolute;
   left: 0;
   bottom: 0;
   width: 100%;
 }
-.individualsection__index-back {
+.el__index-back {
   color: #2f3840;
   opacity: 0;
   -webkit-transition: opacity 0.25s 0.25s;
   transition: opacity 0.25s 0.25s;
 }
-.el:hover .individualsection__index-back {
+.el:hover .el__index-back {
   -webkit-transition: opacity 0.25s;
   transition: opacity 0.25s;
   opacity: 1;
 }
-.individualsection__index-overlay {
+.el__index-overlay {
   overflow: hidden;
   position: relative;
   -webkit-transform: translate3d(0, 100%, 0);
@@ -298,7 +298,7 @@ h3 {
   transition: transform 0.5s 0.1s, -webkit-transform 0.5s 0.1s;
   color: transparent;
 }
-.individualsection__index-overlay:before {
+.el__index-overlay:before {
   content: attr(data-index);
   position: absolute;
   left: 0;
@@ -313,11 +313,11 @@ h3 {
   transition: transform 0.5s 0.1s;
   transition: transform 0.5s 0.1s, -webkit-transform 0.5s 0.1s;
 }
-.el:hover .individualsection__index-overlay {
+.el:hover .el__index-overlay {
   -webkit-transform: translate3d(0, 0, 0);
           transform: translate3d(0, 0, 0);
 }
-.el:hover .individualsection__index-overlay:before {
+.el:hover .el__index-overlay:before {
   -webkit-transform: translate3d(0, 0, 0);
           transform: translate3d(0, 0, 0);
 }
@@ -336,15 +336,15 @@ h3 {
   transition: transform 0.95s, opacity 0.95s;
   transition: transform 0.95s, opacity 0.95s, -webkit-transform 0.95s;
 }
-.el:nth-child(1) .individualsection__inner {
+.el:nth-child(1) .el__inner {
   -webkit-transition-delay: 0s;
           transition-delay: 0s;
 }
-.el:nth-child(1) .individualsection__bg {
+.el:nth-child(1) .el__bg {
   -webkit-transform: translate3d(0%, 0, 0);
           transform: translate3d(0%, 0, 0);
 }
-.el:nth-child(1) .individualsection__bg:before {
+.el:nth-child(1) .el__bg:before {
   -webkit-transition-delay: 0s;
           transition-delay: 0s;
   background-image: url("https://raw.githubusercontent.com/sieng146/thesis/master/public/Cushing.jpg");
@@ -364,15 +364,15 @@ h3 {
   transition: transform 0.95s, opacity 0.95s;
   transition: transform 0.95s, opacity 0.95s, -webkit-transform 0.95s;
 }
-.el:nth-child(2) .individualsection__inner {
+.el:nth-child(2) .el__inner {
   -webkit-transition-delay: 0.1s;
           transition-delay: 0.1s;
 }
-.el:nth-child(2) .individualsection__bg {
+.el:nth-child(2) .el__bg {
   -webkit-transform: translate3d(-19.2%, 0, 0);
           transform: translate3d(-19.2%, 0, 0);
 }
-.el:nth-child(2) .individualsection__bg:before {
+.el:nth-child(2) .el__bg:before {
   -webkit-transition-delay: 0.1s;
           transition-delay: 0.1s;
   background-image: url("https://raw.githubusercontent.com/sieng146/thesis/master/public/CarrierTaskForce.jpg");
@@ -392,15 +392,15 @@ h3 {
   transition: transform 0.95s, opacity 0.95s;
   transition: transform 0.95s, opacity 0.95s, -webkit-transform 0.95s;
 }
-.el:nth-child(3) .individualsection__inner {
+.el:nth-child(3) .el__inner {
   -webkit-transition-delay: 0.2s;
           transition-delay: 0.2s;
 }
-.el:nth-child(3) .individualsection__bg {
+.el:nth-child(3) .el__bg {
   -webkit-transform: translate3d(-38.4%, 0, 0);
           transform: translate3d(-38.4%, 0, 0);
 }
-.el:nth-child(3) .individualsection__bg:before {
+.el:nth-child(3) .el__bg:before {
   -webkit-transition-delay: 0.2s;
           transition-delay: 0.2s;
   background-image: url("https://raw.githubusercontent.com/sieng146/thesis/master/public/F35CarrierOverflight.jpg");
@@ -420,15 +420,15 @@ h3 {
   transition: transform 0.95s, opacity 0.95s;
   transition: transform 0.95s, opacity 0.95s, -webkit-transform 0.95s;
 }
-.el:nth-child(4) .individualsection__inner {
+.el:nth-child(4) .el__inner {
   -webkit-transition-delay: 0.3s;
           transition-delay: 0.3s;
 }
-.el:nth-child(4) .individualsection__bg {
+.el:nth-child(4) .el__bg {
   -webkit-transform: translate3d(-57.6%, 0, 0);
           transform: translate3d(-57.6%, 0, 0);
 }
-.el:nth-child(4) .individualsection__bg:before {
+.el:nth-child(4) .el__bg:before {
   -webkit-transition-delay: 0.3s;
           transition-delay: 0.3s;
   background-image: url("https://raw.githubusercontent.com/sieng146/thesis/master/public/SouthChinaSea.jpg");
@@ -448,20 +448,20 @@ h3 {
   transition: transform 0.95s, opacity 0.95s;
   transition: transform 0.95s, opacity 0.95s, -webkit-transform 0.95s;
 }
-.el:nth-child(5) .individualsection__inner {
+.el:nth-child(5) .el__inner {
   -webkit-transition-delay: 0.4s;
           transition-delay: 0.4s;
 }
-.el:nth-child(5) .individualsection__bg {
+.el:nth-child(5) .el__bg {
   -webkit-transform: translate3d(-76.8%, 0, 0);
           transform: translate3d(-76.8%, 0, 0);
 }
-.el:nth-child(5) .individualsection__bg:before {
+.el:nth-child(5) .el__bg:before {
   -webkit-transition-delay: 0.4s;
           transition-delay: 0.4s;
   background-image: url("https://raw.githubusercontent.com/sieng146/thesis/master/public/SECDEFMattisAndJPYPMAbe.jpg");
 }
-.el:hover .individualsection__bg:after {
+.el:hover .el__bg:after {
   opacity: 0;
 }
 .el.s--active {
@@ -474,7 +474,7 @@ h3 {
   transition: transform 0.6s, width 0.7s 0.7s, z-index 0s;
   transition: transform 0.6s, width 0.7s 0.7s, z-index 0s, -webkit-transform 0.6s;
 }
-.el.s--active .individualsection__bg {
+.el.s--active .el__bg {
   -webkit-transform: translate3d(0, 0, 0);
           transform: translate3d(0, 0, 0);
   -webkit-transition: -webkit-transform 0.6s;
@@ -482,7 +482,7 @@ h3 {
   transition: transform 0.6s;
   transition: transform 0.6s, -webkit-transform 0.6s;
 }
-.el.s--active .individualsection__bg:before {
+.el.s--active .el__bg:before {
   -webkit-transition-delay: 0.6s;
           transition-delay: 0.6s;
   -webkit-transform: scale(1.1);
