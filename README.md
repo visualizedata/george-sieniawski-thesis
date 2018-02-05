@@ -1,4 +1,4 @@
-# Striking Distance: Mapping Carrier Movements, 2012-2018
+# Sea Lanes: Mapping Carrier Movements, 2012-2018
 
 ![media/ScreenShot2018-01-08.png](media/ScreenShot2018-01-08.png)
 
