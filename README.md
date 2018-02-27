@@ -32,7 +32,7 @@
     2.9	Maritime Security Operations (MSOs) and Humanitarian Assistance/Disaster Relief (HADR) 
     2.10	Major Diplomatic Crises, Bilateral Tensions, and Regional Flare-Ups from 2012 to 2018
     2.11	U.S. Response Patterns Under Presidents Obama/Trump, SecDefs Panetta/Hagel/Carter/Mattis,
-              and SecStates Clinton/Kerry/Tillerson
+            and SecStates Clinton/Kerry/Tillerson
 
 ### 3.0 - Modeling Movements at Sea
     3.1	World Trade/Global Shipping Data
