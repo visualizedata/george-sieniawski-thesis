@@ -4,10 +4,10 @@
 
 ## Table of Contents
 
-### Chapter One - Introduction
-    1.1     Caveats on Maps/Terminology, Non-Recognition of Disputed Territories/Sovereignty Claims
-    1.2     Maintaining Carrier Operational Security (OPSEC) in the Data/Avoiding Stavra-Type Issues
-    1.3     U.S. Legal/Statutory Requirement (10 U.S.C. § 5062) to Maintain Eleven Operational Carriers
+### Chapter One - Recent Challenges to the Carrier-Driven Pax Americana
+    1.1	Caveats on Maps/Terminology, Non-Recognition of Disputed Territories/Sovereignty Claims
+    1.2	Maintaining Carrier Operational Security (OPSEC) in the Data/Avoiding Stavra-Type Issues
+    1.3	U.S. Legal/Statutory Requirement (10 U.S.C. § 5062) to Maintain Eleven Operational Carriers
     1.4	Current State of the Navy’s Nuclear-Powered Aircraft Carrier Fleet
     1.5	Major Straits, Channels, Chokepoints, Redlines, Geopolitical Hot Spots and Separatist/Irredentist/Revanchist/Revisionist Spoiler Groups
     1.6	Russia’s Cold- and Warm-Water Bases and Strategy for Turkey/Iran
@@ -15,9 +15,9 @@
     1.8	Conflicts in the Maritime Southeast Asia (MSA)
     1.9	China’s One Belt, One Road (OBOR), Nine-Dash Line (NDL), and Maritime Silk Road (MSR)
 
-### Chapter Two - Theory
+### Chapter Two - Theories of Seapower
     2.1	Seablindness, Ninety Percent of Everything, and “The Outlaw Ocean”
-    2.2	Seapower Theorists from Mahan to Gorshkov
+    2.2	Naval Theorists from Mahan to Gorshkov
     2.3	Timeline of Aircraft Carrier Construction and Naval Aviation
     2.4	Superpowers, Supercarriers, and America’s Pacific Century
     2.5	Contemporary Carrier Strategy and Lessons Learned in Iraq and Afghanistan
@@ -28,7 +28,7 @@
     2.10	Major Diplomatic Crises, Bilateral Tensions, and Regional Flare-Ups from 2012 to 2018
     2.11	U.S. Response Patterns Under Presidents Obama/Trump, SecStates Clinton/Kerry/Tillerson, and SecDefs Panetta/Hagel/Carter/Mattis
 
-### Chapter Three - Methods
+### Chapter Three - Methods of Visualization
     3.1	Underlying Data Structure and Extract, Transform and Load (ETL) Process
     3.2	Mapping Sea Lines of Communication (SLOCs)
     3.3	Analyzing Diplomatic Tone, Escalation, and De-Escalation Using GDELT’s CAMEO Codes
