@@ -8,7 +8,7 @@
     0.1	Abstract
     0.2	Dedication and Acknowledgements
     0.3	Caveats on Map Labeling and Non-Recognition of Disputed Territories/Sovereignty Claims
-    0.4	Avoiding Stavra-Type Issues/Maintaining Carrier Operational Security (OPSEC)
+    0.4	Avoiding [Stavra-Type Issues](https://www.washingtonpost.com/world/a-map-showing-the-users-of-fitness-devices-lets-the-world-see-where-us-soldiers-are-and-what-they-are-doing/2018/01/28/86915662-0441-11e8-aa61-f3391373867e_story.html)/Maintaining Carrier Operational Security (OPSEC)
     
 ### 1.0 - Current Carrier Challenges
     1.1	U.S. Legal/Statutory Requirement (10 U.S.C. § 5062) to Maintain Eleven Operational Carriers
