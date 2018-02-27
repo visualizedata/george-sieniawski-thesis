@@ -7,7 +7,7 @@
 ### 0.0 - Front Matter/Prefatory Materials
     0.1	Abstract
     0.2	Dedication and Acknowledgements
-    0.3	Caveats on Maps/Terminology, Non-Recognition of Disputed Territories/Sovereignty Claims
+    0.3	Caveats on Map Labeling and Non-Recognition of Disputed Territories/Sovereignty Claims
     0.4	Maintaining Carrier Operational Security (OPSEC) in the Data/Avoiding Stavra-Type Issues
 
 ### 1.0 - Current Carrier Challenges
