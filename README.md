@@ -8,8 +8,8 @@
     0.1	Abstract
     0.2	Dedication and Acknowledgements
     0.3	Caveats on Map Labeling and Non-Recognition of Disputed Territories/Sovereignty Claims
-    0.4	Maintaining Carrier Operational Security (OPSEC) in the Data/Avoiding Stavra-Type Issues
-
+    0.4	Avoiding Stavra-Type Issues/Maintaining Carrier Operational Security (OPSEC)
+    
 ### 1.0 - Current Carrier Challenges
     1.1	U.S. Legal/Statutory Requirement (10 U.S.C. § 5062) to Maintain Eleven Operational Carriers
     1.2	State and Structure of the Navy’s Carrier Strike Groups (CSGs) and Amphibious Ready Groups (ARGs)
