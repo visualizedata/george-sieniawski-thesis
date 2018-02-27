@@ -35,7 +35,7 @@
     3.6	User Interface (UI), Geographic Information System (GIS), and Front End-Back End (FE/BE) Integration
 
 ### Chapter Four - Analysis and Conclusions
-    4.1	Living in a Ford, Nimitz, Queen Elizabeth, and Liaoning and Shandong World
+    4.1	Living in a Ford, Nimitz, Queen Elizabeth, Liaoning, and Shandong World
     4.2	Prevailing Patterns in the U.S. Carrier Data
     4.3	Shifting Claims to Fisheries, Natural Gas, and Sand in the South China Sea
     4.4	Anti-Access and Area Denial (A2AD) in ASEAN: Singapore, South Korea, Taiwan, Japan
