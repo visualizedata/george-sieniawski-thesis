@@ -12,7 +12,7 @@
     
 ### 1.0 - Current Carrier Challenges
     1.1	U.S. Legal/Statutory Requirement (10 U.S.C. § 5062) to Maintain Eleven Operational Carriers
-    1.2	State and Structure of the Navy’s Carrier Strike Groups (CSGs) and Amphibious Ready Groups (ARGs)
+    1.2	State of the Navy’s Carrier Strike Groups (CSGs) and Amphibious Ready Groups (ARGs)
     1.3	Pressure on the 7th Fleet in the Western Pacific Area of Responsibility (AOR)
     1.4	Major Straits, Channels, Chokepoints, Redlines, and Geopolitical Hot Spots
     1.5	Russia’s Cold- and Warm-Water Bases and Strategy for Turkey/Iran
