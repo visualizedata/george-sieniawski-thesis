@@ -4,7 +4,7 @@
 
 ## Table of Contents
 
-### Chapter One - Recent Challenges to the Carrier-Driven Pax Americana
+### Chapter One - Current Carrier Challenges
     1.1	Caveats on Maps/Terminology, Non-Recognition of Disputed Territories/Sovereignty Claims
     1.2	Maintaining Carrier Operational Security (OPSEC) in the Data/Avoiding Stavra-Type Issues
     1.3	U.S. Legal/Statutory Requirement (10 U.S.C. § 5062) to Maintain Eleven Operational Carriers
@@ -28,7 +28,7 @@
     2.10	Major Diplomatic Crises, Bilateral Tensions, and Regional Flare-Ups from 2012 to 2018
     2.11	U.S. Response Patterns Under Presidents Obama/Trump, SecStates Clinton/Kerry/Tillerson, and SecDefs Panetta/Hagel/Carter/Mattis
 
-### Chapter Three - Methods of Visualization
+### Chapter Three - Models and Methods
     3.1	Underlying Data Structure and Extract, Transform and Load (ETL) Process
     3.2	Mapping Sea Lines of Communication (SLOCs)
     3.3	Analyzing Diplomatic Tone, Escalation, and De-Escalation Using GDELT’s CAMEO Codes
