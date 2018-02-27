@@ -15,7 +15,7 @@
     1.2	State of the Navy’s Carrier Strike Groups (CSGs) and Amphibious Ready Groups (ARGs)
     1.3	Pressure on the 7th Fleet in the Western Pacific Area of Responsibility (AOR)
     1.4	Major Straits, Channels, Chokepoints, Redlines, and Geopolitical Hot Spots
-    1.5	Russia’s Cold- and Warm-Water Bases and Strategy for Turkey/Iran
+    1.5	Russia’s Cold- and Warm-Water Bases and Strategy for the Middle East
     1.6	Piracy in the Horn of Africa (HoA) and Strait of Malacca (SoM)
     1.7	Conflicts in the Maritime Southeast Asia (MSA)
     1.8	China’s One Belt, One Road (OBOR), Nine-Dash Line (NDL), and Maritime Silk Road (MSR)
