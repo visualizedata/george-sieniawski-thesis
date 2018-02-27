@@ -15,17 +15,17 @@
     1.8	China’s One Belt, One Road (OBOR), Nine-Dash Line (NDL), and Maritime Silk Road (MSR)
 
 ### Chapter Two - Theoretical Treatment
-       2.1	Seablindness, Ninety Percent of Everything, and “The Outlaw Ocean”
-       2.2	Seapower Theorists from Mahan to Gorshkov
-       2.3	Timeline of Aircraft Carrier Construction and Naval Aviation
-       2.4	Superpowers, Supercarriers, and America’s Pacific Century
-       2.5	Contemporary Carrier Strategy and Lessons Learned in Iraq and Afghanistan
-       2.6	U.S. Conversion from Nimitz-Class to Ford-Class Carriers and the U.K.’s New Queen Elizabeth-Class Fleet
-       2.7	Recent Data on Carrier Operating Costs: High Seas Deployment vs. In-Port/Vessel Husbanding
-       2.8	Case Study of the USS Carl Vinson: “Just Like San Francisco Airport But With One Short Runway, One Ramp, and One Gate”
-       2.9	Routine Patrols, U.S. Maritime Security Operations (MSOs), and Humanitarian Assistance and Disaster Relief (HA/DR) 
-       2.10	Major Diplomatic Crises, Bilateral Tensions, and Regional Flare-Ups from 2012 to 2018
-       2.11	U.S. Response Patterns Under Presidents Obama/Trump, SecStates Clinton/Kerry/Tillerson, and SecDefs Panetta/Hagel/Carter/Mattis
+    2.1	Seablindness, Ninety Percent of Everything, and “The Outlaw Ocean”
+    2.2	Seapower Theorists from Mahan to Gorshkov
+    2.3	Timeline of Aircraft Carrier Construction and Naval Aviation
+    2.4	Superpowers, Supercarriers, and America’s Pacific Century
+    2.5	Contemporary Carrier Strategy and Lessons Learned in Iraq and Afghanistan
+    2.6	U.S. Conversion from Nimitz-Class to Ford-Class Carriers and the U.K.’s New Queen Elizabeth-Class Fleet
+    2.7	Recent Data on Carrier Operating Costs: High Seas Deployment vs. In-Port/Vessel Husbanding
+    2.8	Case Study of the USS Carl Vinson: “Just Like San Francisco Airport But With One Short Runway, One Ramp, and One Gate”
+    2.9	Routine Patrols, U.S. Maritime Security Operations (MSOs), and Humanitarian Assistance and Disaster Relief (HA/DR) 
+    2.10	Major Diplomatic Crises, Bilateral Tensions, and Regional Flare-Ups from 2012 to 2018
+    2.11	U.S. Response Patterns Under Presidents Obama/Trump, SecStates Clinton/Kerry/Tillerson, and SecDefs Panetta/Hagel/Carter/Mattis
 
 ### Chapter Three - Methodology
     3.1	Underlying Data Structure and Extract, Transform and Load (ETL) Process
