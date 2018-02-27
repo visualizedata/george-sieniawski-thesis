@@ -28,7 +28,7 @@
 
 ### Chapter Three - Methodological Treatment
     3.1	Underlying Data Structure and Extract, Transform and Load (ETL) Process
-    3.2	Mapping International Sea Lanes (ISLs) and Sea Lines of Communication (SLOCs)
+    3.2	Mapping Sea Lines of Communication (SLOCs)
     3.3	Analyzing Diplomatic Tone, Escalation, and De-Escalation Using GDELT’s CAMEO Codes
     3.4	Measuring Carrier Movements and Freedom of Navigation Operations (FONOPs)
     3.5	Building the Unified Data Set in JavaScript Object Notation (JSON)
