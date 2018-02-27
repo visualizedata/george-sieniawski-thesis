@@ -29,9 +29,9 @@
     2.6	U.S. Conversion from Nimitz-Class to Ford-Class Carriers
     2.7	Recent Data on Carrier Operating Costs: High Seas Deployment vs. In-Port/Vessel Husbanding
     2.8	Case Study of the USS Carl Vinson: “Just Like San Francisco Airport But With One Short Runway”
-    2.9	Routine Patrols, Maritime Security Operations (MSOs), and Humanitarian Assistance and Disaster Relief (HA/DR) 
+    2.9	Routine Patrols, Maritime Security Operations (MSOs), and Humanitarian Assistance/Disaster Relief (HADR) 
     2.10	Major Diplomatic Crises, Bilateral Tensions, and Regional Flare-Ups from 2012 to 2018
-    2.11	U.S. Response Patterns Under Presidents Obama/Trump, SecStates Clinton/Kerry/Tillerson, and SecDefs Panetta/Hagel/Carter/Mattis
+    2.11	U.S. Response Patterns Under Presidents Obama/Trump and SecDefs Panetta/Hagel/Carter/Mattis
 
 ### 3.0 - Modeling Movements at Sea
     3.1	World Trade/Global Shipping Data
@@ -40,7 +40,7 @@
     3.4	Analyzing Diplomatic Tone, Escalation, and De-Escalation Using GDELT’s CAMEO Codes
     3.5	Measuring Carrier Deployments and Freedom of Navigation Operations (FONOPs)
     3.6	Building the Unified Data Set in JavaScript Object Notation (JSON)
-    3.7	User Interface (UI), Geographic Information System (GIS), and Front End-Back End (FE/BE) Integration
+    3.7	Planning the User Interface (UI) and Geographic Information System (GIS)
 
 ### 4.0 - Conclusions
     4.1	Living in a Ford, Nimitz, Queen Elizabeth, Liaoning, and Shandong World
