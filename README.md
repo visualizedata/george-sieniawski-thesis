@@ -32,7 +32,7 @@
     2.9	Maritime Security Operations (MSOs) and Humanitarian Assistance/Disaster Relief (HADR) 
     2.10	Major Diplomatic Crises, Bilateral Tensions, and Regional Flare-Ups from 2012 to 2018
     2.11	U.S. Response Patterns Under Presidents Obama/Trump, SecDefs Panetta/Hagel/Carter/Mattis,
-           and SecStates Clinton/Kerry/Tillerson
+              and SecStates Clinton/Kerry/Tillerson
 
 ### 3.0 - Modeling Movements at Sea
     3.1	World Trade/Global Shipping Data
@@ -55,7 +55,7 @@
             Manila (Philippines), and the Andaman/Nicobar Is. 
     4.9	Add-Ons: Lockheed’s F-35, Kratos’ XN-1, Boeing’s P-8 and MQ-25, and Northrop’s X-47B
     4.10	Flash Points: Latakia (Syria), Doraleh (Djibouti), Darwin (Australia), Assumption Is.
-             (Seychelles), Ramree Is./Cocos Is./Zadetkyi Kyun (Myanmar)
+            (Seychelles), Ramree Is./Cocos Is./Zadetkyi Kyun (Myanmar)
     4.11	Future Risks: China's PLA-N Carriers in the Pacific and Russia's Ice Cutters in the Arctic
 
 ### 5.0 - End Matter
