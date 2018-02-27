@@ -4,7 +4,7 @@
 
 ## Table of Contents
 
-### Chapter One - Front Matter
+### Chapter One - Introduction
     1.1     Caveats on Maps/Terminology, Non-Recognition of Disputed Territories/Sovereignty Claims
     1.2     Maintaining Carrier Operational Security (OPSEC) in the Data/Avoiding Stavra-Type Issues
     1.3     U.S. Legal/Statutory Requirement (10 U.S.C. § 5062) to Maintain Eleven Operational Carriers
@@ -36,7 +36,7 @@
     3.5	Building the Unified Data Set in JavaScript Object Notation (JSON)
     3.6	User Interface (UI), Geographic Information System (GIS), and Front End-Back End (FE/BE) Integration
 
-### Chapter Four - Exploratory Data Analysis (EDA) and Conclusions
+### Chapter Four - Exploratory Data Analysis (EDA) and Key Findings
     4.1	Living in a Ford, Nimitz, Queen Elizabeth, Liaoning, and Shandong World
     4.2	Prevailing Patterns in the U.S. Carrier Data
     4.3	Shifting Claims to Fisheries, Natural Gas, and Sand in the South China Sea
