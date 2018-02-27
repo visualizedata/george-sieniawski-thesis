@@ -7,7 +7,7 @@
 ### Chapter One - Front Matter
     1.1     Caveats on Maps/Terminology, Non-Recognition of Disputed Territories/Sovereignty Claims
     1.2     Maintaining Carrier Operational Security (OPSEC) in the Data/Avoiding Stavra-Type Issues
-    1.3     Introduction and the U.S. Legal/Statutory Requirement to Maintain Eleven (11) Operational Carriers Under 10 U.S.C. § 5062
+    1.3     U.S. Legal/Statutory Requirement (10 U.S.C. § 5062) to Maintain Eleven Operational Carriers
     1.4	Current State of the Navy’s Nuclear-Powered Aircraft Carrier Fleet
     1.5	Major Straits, Channels, Chokepoints, Redlines, Geopolitical Hot Spots and Separatist/Irredentist/Revanchist/Revisionist Spoiler Groups
     1.6	Russia’s Cold- and Warm-Water Bases and Strategy for Turkey/Iran
