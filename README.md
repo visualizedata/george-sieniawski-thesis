@@ -5,8 +5,8 @@
 ## Table of Contents
 
 ### Chapter One - Front Matter
-    1.1  Caveats on Maps/Terminology, Non-Recognition of Disputed Sovereignty Claims, and Operational Security (OPSEC)
-    1.2  Introduction and the U.S. Legal/Statutory Requirement to Maintain Eleven (11) Operational Carriers Under 10 U.S.C. § 5062
+    1.1     Caveats on Maps/Terminology, Non-Recognition of Disputed Sovereignty Claims, and Operational Security (OPSEC)
+    1.2     Introduction and the U.S. Legal/Statutory Requirement to Maintain Eleven (11) Operational Carriers Under 10 U.S.C. § 5062
     1.3	Current State of the Navy’s Nuclear-Powered Aircraft Carrier Fleet
     1.4	Major Straits, Channels, Chokepoints, Redlines, Geopolitical Hot Spots and Separatist/Irredentist/Revanchist/Revisionist Spoiler Groups
     1.5	Russia’s Cold- and Warm-Water Bases and Strategy for Turkey/Iran
