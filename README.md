@@ -29,9 +29,10 @@
     2.6	U.S. Conversion from Nimitz-Class to Ford-Class Carriers
     2.7	Recent Data on Carrier Operating Costs: High Seas Deployment vs. In-Port/Vessel Husbanding
     2.8	Case Study of the USS Carl Vinson: “Just Like San Francisco Airport But With One Short Runway”
-    2.9	Routine Patrols, Maritime Security Operations (MSOs), and Humanitarian Assistance/Disaster Relief (HADR) 
+    2.9	Maritime Security Operations (MSOs) and Humanitarian Assistance/Disaster Relief (HADR) 
     2.10	Major Diplomatic Crises, Bilateral Tensions, and Regional Flare-Ups from 2012 to 2018
-    2.11	U.S. Response Patterns Under Presidents Obama/Trump and SecDefs Panetta/Hagel/Carter/Mattis
+    2.11	U.S. Response Patterns Under Presidents Obama/Trump, SecDefs Panetta/Hagel/Carter/Mattis,
+    and SecStates Clinton/Kerry/Tillerson
 
 ### 3.0 - Modeling Movements at Sea
     3.1	World Trade/Global Shipping Data
@@ -50,9 +51,11 @@
     4.5	The Impact of U.S. Carrier Refueling and Complex Overhaul (RCOH) on Range/Preparedness
     4.6	The Evolution of Carrier-Based Humanitarian Assistance and Disaster Relief (HA/DR)	
     4.7	Energy Security, Globalized Commodity Supply Chains, and Contemporary Carrier Realpolitik
-    4.8	Opportunities: Souda Bay (Greece), Duqm (Oman), Agaléga (Mauritius), Singapore, Guam, Manila (Philippines), and the Andaman/Nicobar Is. 
+    4.8	Opportunities: Souda Bay (Greece), Duqm (Oman), Agaléga (Mauritius), Singapore, Guam, 
+    Manila (Philippines), and the Andaman/Nicobar Is. 
     4.9	Add-Ons: Lockheed’s F-35, Kratos’ XN-1, Boeing’s P-8 and MQ-25, and Northrop’s X-47B
-    4.10	Flash Points: Latakia (Syria), Doraleh (Djibouti), Darwin (Australia), Assumption Is. (Seychelles), Ramree Is./Cocos Is./Zadetkyi Kyun (Myanmar)
+    4.10	Flash Points: Latakia (Syria), Doraleh (Djibouti), Darwin (Australia), Assumption Is.
+    (Seychelles), Ramree Is./Cocos Is./Zadetkyi Kyun (Myanmar)
     4.11	Future Risks: China's PLA-N Carriers in the Pacific and Russia's Ice Cutters in the Arctic
 
 ### 5.0 - End Matter
