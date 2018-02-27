@@ -7,8 +7,8 @@
 ### Chapter One - Current Carrier Challenges
     1.1	Caveats on Maps/Terminology, Non-Recognition of Disputed Territories/Sovereignty Claims
     1.2	Maintaining Carrier Operational Security (OPSEC) in the Data/Avoiding Stavra-Type Issues
-    1.3	 U.S. Legal/Statutory Requirement (10 U.S.C. § 5062) to Maintain Eleven Operational Carriers
-    1.4 State and Structure of the Navy’s Carrier Strike Groups (CSGs) and Amphibious Ready Groups (ARGs)
+    1.3	U.S. Legal/Statutory Requirement (10 U.S.C. § 5062) to Maintain Eleven Operational Carriers
+    1.4	State and Structure of the Navy’s Carrier Strike Groups (CSGs) and Amphibious Ready Groups (ARGs)
     1.5	Pressure on the 7th Fleet in the Western Pacific Area of Responsibility (AOR)
     1.6	Major Straits, Channels, Chokepoints, Redlines, Geopolitical Hot Spots and Separatist/Irredentist/Revanchist/Revisionist Spoiler Groups
     1.7	Russia’s Cold- and Warm-Water Bases and Strategy for Turkey/Iran
@@ -31,7 +31,7 @@
 
 ### Chapter Three - Modeling Movements at Sea
     3.1	World Trade/Global Shipping Data
-    3.2 Underlying Data Structure and Extract, Transform and Load (ETL) Process
+    3.2	Underlying Data Structure and Extract, Transform and Load (ETL) Process
     3.3	Mapping Sea Lines of Communication (SLOCs)
     3.4	Analyzing Diplomatic Tone, Escalation, and De-Escalation Using GDELT’s CAMEO Codes
     3.5	Measuring Carrier Movements and Freedom of Navigation Operations (FONOPs)
