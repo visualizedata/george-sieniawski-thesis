@@ -5,52 +5,52 @@
 ## Table of Contents
 
 ### Chapter One - Front Matter
-  1.1  Caveats on Maps/Terminology, Non-Recognition of Disputed Sovereignty Claims, and Operational Security (OPSEC)
-  1.2  Introduction and the U.S. Legal/Statutory Requirement to Maintain Eleven (11) Operational Carriers Under 10 U.S.C. § 5062
-  1.3	Current State of the Navy’s Nuclear-Powered Aircraft Carrier Fleet
-  1.4	Major Straits, Channels, Chokepoints, Redlines, Geopolitical Hot Spots and Separatist/Irredentist/Revanchist/Revisionist Spoiler Groups
-  1.5	Russia’s Cold- and Warm-Water Bases and Strategy for Turkey/Iran
-  1.6	Piracy in the Horn of Africa (HoA) and Strait of Malacca (SoM)
-  1.7	Conflicts in the Maritime Southeast Asia (MSA)
-  1.8	China’s One Belt, One Road (OBOR), Nine-Dash Line (NDL), and Maritime Silk Road (MSR)
+    1.1  Caveats on Maps/Terminology, Non-Recognition of Disputed Sovereignty Claims, and Operational Security (OPSEC)
+    1.2  Introduction and the U.S. Legal/Statutory Requirement to Maintain Eleven (11) Operational Carriers Under 10 U.S.C. § 5062
+    1.3	Current State of the Navy’s Nuclear-Powered Aircraft Carrier Fleet
+    1.4	Major Straits, Channels, Chokepoints, Redlines, Geopolitical Hot Spots and Separatist/Irredentist/Revanchist/Revisionist Spoiler Groups
+    1.5	Russia’s Cold- and Warm-Water Bases and Strategy for Turkey/Iran
+    1.6	Piracy in the Horn of Africa (HoA) and Strait of Malacca (SoM)
+    1.7	Conflicts in the Maritime Southeast Asia (MSA)
+    1.8	China’s One Belt, One Road (OBOR), Nine-Dash Line (NDL), and Maritime Silk Road (MSR)
 
 ### Chapter Two - Theoretical Treatment
-  2.1	Seablindness, Ninety Percent of Everything, and “The Outlaw Ocean”
-  2.2	Seapower Theorists from Mahan to Gorshkov
-  2.3	Timeline of Aircraft Carrier Construction and Naval Aviation
-  2.4	Superpowers, Supercarriers, and America’s Pacific Century
-  2.5	Contemporary Carrier Strategy and Lessons Learned in Iraq and Afghanistan
-  2.6	U.S. Conversion from Nimitz-Class to Ford-Class Carriers and the U.K.’s New Queen Elizabeth-Class Fleet
-  2.7	Case Study of the USS Carl Vinson: “Just Like San Francisco Airport But With One Short Runway, One Ramp, and One Gate”
-  2.8	Routine Patrols, U.S. Maritime Security Operations (MSOs), and Humanitarian Assistance and Disaster Relief (HA/DR) 
-  2.9	Major Diplomatic Crises, Bilateral Tensions, and Regional Flare-Ups from 2012 to 2018
-  2.10	U.S. Response Patterns Under Presidents Obama/Trump, SecStates Clinton/Kerry/Tillerson, and SecDefs Panetta/Hagel/Carter/Mattis
+    2.1	Seablindness, Ninety Percent of Everything, and “The Outlaw Ocean”
+    2.2	Seapower Theorists from Mahan to Gorshkov
+    2.3	Timeline of Aircraft Carrier Construction and Naval Aviation
+    2.4	Superpowers, Supercarriers, and America’s Pacific Century
+    2.5	Contemporary Carrier Strategy and Lessons Learned in Iraq and Afghanistan
+    2.6	U.S. Conversion from Nimitz-Class to Ford-Class Carriers and the U.K.’s New Queen Elizabeth-Class Fleet
+    2.7	Case Study of the USS Carl Vinson: “Just Like San Francisco Airport But With One Short Runway, One Ramp, and One Gate”
+    2.8	Routine Patrols, U.S. Maritime Security Operations (MSOs), and Humanitarian Assistance and Disaster Relief (HA/DR) 
+    2.9	Major Diplomatic Crises, Bilateral Tensions, and Regional Flare-Ups from 2012 to 2018
+    2.10	U.S. Response Patterns Under Presidents Obama/Trump, SecStates Clinton/Kerry/Tillerson, and SecDefs Panetta/Hagel/Carter/Mattis
 
 ### Chapter Three - Methodological Treatment
-  3.1	Underlying Data Structure and Extract, Transform and Load (ETL) Process
-  3.2	Mapping International Sea Lanes (ISLs) and Sea Lines of Communication (SLOCs)
-  3.3	Analyzing Diplomatic Tone, Escalation, and De-Escalation Using GDELT’s CAMEO Codes
-  3.4	Measuring Carrier Movements and Freedom of Navigation Operations (FONOPs)
-  3.5	Building the Unified Data Set in JavaScript Object Notation (JSON)
-  3.6	User Interface (UI), Geographic Information System (GIS), and Front End-Back End (FE/BE) Integration
+    3.1	Underlying Data Structure and Extract, Transform and Load (ETL) Process
+    3.2	Mapping International Sea Lanes (ISLs) and Sea Lines of Communication (SLOCs)
+    3.3	Analyzing Diplomatic Tone, Escalation, and De-Escalation Using GDELT’s CAMEO Codes
+    3.4	Measuring Carrier Movements and Freedom of Navigation Operations (FONOPs)
+    3.5	Building the Unified Data Set in JavaScript Object Notation (JSON)
+    3.6	User Interface (UI), Geographic Information System (GIS), and Front End-Back End (FE/BE) Integration
 
 ### Chapter Four - Findings/Conclusions
-  4.1	Living in a Ford, Nimitz, Queen Elizabeth, and Liaoning and Shandong World
-  4.2	Prevailing Patterns in the U.S. Carrier Data
-  4.3	Shifting Claims to Fisheries, Natural Gas, and Sand in the South China Sea
-  4.4	Anti-Access and Area Denial (A2AD) in ASEAN: Singapore, South Korea, Taiwan, Japan
-  4.5	The Impact of U.S. Carrier Refueling and Complex Overhaul (RCOH) on Range/Preparedness
-  4.6	The Evolution of Carrier-Based Humanitarian Assistance and Disaster Relief (HA/DR)	
-  4.7	Energy Security, Globalized Commodity Supply Chains, and Contemporary Carrier Realpolitik
-  4.8	Opportunities: Souda Bay (Greece), Duqm (Oman), Agaléga (Mauritius), Singapore, Guam, Manila (Philippines), and the Andaman/Nicobar Is. 
-  4.9	Add-Ons: Lockheed’s F-35, Kratos’ XN-1 Laser Weapon System (LaWS), Boeing’s P-8 Poseidon and MQ-25, and Northrop’s X-47B
-  4.10	Flash Points: Latakia (Syria), Doraleh (Djibouti), Darwin (Australia), Assumption Is. (Seychelles), Ramree Is./Cocos Is./Zadetkyi Kyun (Myanmar)
-  4.11	Future Risks: PLA-N Carriers in the Pacific and Russian Ice Cutters in the Arctic
+    4.1	Living in a Ford, Nimitz, Queen Elizabeth, and Liaoning and Shandong World
+    4.2	Prevailing Patterns in the U.S. Carrier Data
+    4.3	Shifting Claims to Fisheries, Natural Gas, and Sand in the South China Sea
+    4.4	Anti-Access and Area Denial (A2AD) in ASEAN: Singapore, South Korea, Taiwan, Japan
+    4.5	The Impact of U.S. Carrier Refueling and Complex Overhaul (RCOH) on Range/Preparedness
+    4.6	The Evolution of Carrier-Based Humanitarian Assistance and Disaster Relief (HA/DR)	
+    4.7	Energy Security, Globalized Commodity Supply Chains, and Contemporary Carrier Realpolitik
+    4.8	Opportunities: Souda Bay (Greece), Duqm (Oman), Agaléga (Mauritius), Singapore, Guam, Manila (Philippines), and the Andaman/Nicobar Is. 
+    4.9	Add-Ons: Lockheed’s F-35, Kratos’ XN-1 Laser Weapon System (LaWS), Boeing’s P-8 Poseidon and MQ-25, and Northrop’s X-47B
+    4.10	Flash Points: Latakia (Syria), Doraleh (Djibouti), Darwin (Australia), Assumption Is. (Seychelles), Ramree Is./Cocos Is./Zadetkyi Kyun (Myanmar)
+    4.11	Future Risks: PLA-N Carriers in the Pacific and Russian Ice Cutters in the Arctic
 
 ### Chapter Five - End Matter
-  5.1	Notes
-  5.2	References
-  5.3	Appendix
+    5.1	Notes
+    5.2	References
+    5.3	Appendix
 
 ## Early Planning
 
