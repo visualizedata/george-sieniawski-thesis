@@ -8,12 +8,13 @@
     1.1	Caveats on Maps/Terminology, Non-Recognition of Disputed Territories/Sovereignty Claims
     1.2	Maintaining Carrier Operational Security (OPSEC) in the Data/Avoiding Stavra-Type Issues
     1.3	U.S. Legal/Statutory Requirement (10 U.S.C. § 5062) to Maintain Eleven Operational Carriers
-    1.4	Current State of the Navy’s Nuclear-Powered Aircraft Carrier Fleet
-    1.5	Major Straits, Channels, Chokepoints, Redlines, Geopolitical Hot Spots and Separatist/Irredentist/Revanchist/Revisionist Spoiler Groups
-    1.6	Russia’s Cold- and Warm-Water Bases and Strategy for Turkey/Iran
-    1.7	Piracy in the Horn of Africa (HoA) and Strait of Malacca (SoM)
-    1.8	Conflicts in the Maritime Southeast Asia (MSA)
-    1.9	China’s One Belt, One Road (OBOR), Nine-Dash Line (NDL), and Maritime Silk Road (MSR)
+    1.4 State and Structure of the Navy’s Carrier Strike Groups (CSGs) and Amphibious Ready Groups (ARGs)
+    1.5	Pressure on the 7th Fleet in the Western Pacific Area of Responsibility (AOR)
+    1.6	Major Straits, Channels, Chokepoints, Redlines, Geopolitical Hot Spots and Separatist/Irredentist/Revanchist/Revisionist Spoiler Groups
+    1.7	Russia’s Cold- and Warm-Water Bases and Strategy for Turkey/Iran
+    1.8	Piracy in the Horn of Africa (HoA) and Strait of Malacca (SoM)
+    1.9	Conflicts in the Maritime Southeast Asia (MSA)
+    1.10	China’s One Belt, One Road (OBOR), Nine-Dash Line (NDL), and Maritime Silk Road (MSR)
 
 ### Chapter Two - Theories of Seapower
     2.1	Seablindness, Ninety Percent of Everything, and “The Outlaw Ocean”
@@ -28,15 +29,16 @@
     2.10	Major Diplomatic Crises, Bilateral Tensions, and Regional Flare-Ups from 2012 to 2018
     2.11	U.S. Response Patterns Under Presidents Obama/Trump, SecStates Clinton/Kerry/Tillerson, and SecDefs Panetta/Hagel/Carter/Mattis
 
-### Chapter Three - Models and Methods
-    3.1	Underlying Data Structure and Extract, Transform and Load (ETL) Process
-    3.2	Mapping Sea Lines of Communication (SLOCs)
-    3.3	Analyzing Diplomatic Tone, Escalation, and De-Escalation Using GDELT’s CAMEO Codes
-    3.4	Measuring Carrier Movements and Freedom of Navigation Operations (FONOPs)
-    3.5	Building the Unified Data Set in JavaScript Object Notation (JSON)
-    3.6	User Interface (UI), Geographic Information System (GIS), and Front End-Back End (FE/BE) Integration
+### Chapter Three - Modeling Movements at Sea
+    3.1	World Trade/Global Shipping Data
+    3.2 Underlying Data Structure and Extract, Transform and Load (ETL) Process
+    3.3	Mapping Sea Lines of Communication (SLOCs)
+    3.4	Analyzing Diplomatic Tone, Escalation, and De-Escalation Using GDELT’s CAMEO Codes
+    3.5	Measuring Carrier Movements and Freedom of Navigation Operations (FONOPs)
+    3.6	Building the Unified Data Set in JavaScript Object Notation (JSON)
+    3.7	User Interface (UI), Geographic Information System (GIS), and Front End-Back End (FE/BE) Integration
 
-### Chapter Four - Exploratory Data Analysis (EDA) and Results
+### Chapter Four - Conclusions
     4.1	Living in a Ford, Nimitz, Queen Elizabeth, Liaoning, and Shandong World
     4.2	Prevailing Patterns in the U.S. Carrier Data
     4.3	Shifting Claims to Fisheries, Natural Gas, and Sand in the South China Sea
