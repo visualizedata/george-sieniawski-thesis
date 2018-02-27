@@ -5,14 +5,15 @@
 ## Table of Contents
 
 ### Chapter One - Front Matter
-    1.1     Caveats on Maps/Terminology, Non-Recognition of Disputed Sovereignty Claims, and Operational Security (OPSEC)
-    1.2     Introduction and the U.S. Legal/Statutory Requirement to Maintain Eleven (11) Operational Carriers Under 10 U.S.C. § 5062
-    1.3	Current State of the Navy’s Nuclear-Powered Aircraft Carrier Fleet
-    1.4	Major Straits, Channels, Chokepoints, Redlines, Geopolitical Hot Spots and Separatist/Irredentist/Revanchist/Revisionist Spoiler Groups
-    1.5	Russia’s Cold- and Warm-Water Bases and Strategy for Turkey/Iran
-    1.6	Piracy in the Horn of Africa (HoA) and Strait of Malacca (SoM)
-    1.7	Conflicts in the Maritime Southeast Asia (MSA)
-    1.8	China’s One Belt, One Road (OBOR), Nine-Dash Line (NDL), and Maritime Silk Road (MSR)
+    1.1     Caveats on Maps/Terminology, Non-Recognition of Disputed Territories/Sovereignty Claims
+    1.2     Maintaining Carrier Operational Security (OPSEC) in the Data/Avoiding Stavra-Type Issues
+    1.3     Introduction and the U.S. Legal/Statutory Requirement to Maintain Eleven (11) Operational Carriers Under 10 U.S.C. § 5062
+    1.4	Current State of the Navy’s Nuclear-Powered Aircraft Carrier Fleet
+    1.5	Major Straits, Channels, Chokepoints, Redlines, Geopolitical Hot Spots and Separatist/Irredentist/Revanchist/Revisionist Spoiler Groups
+    1.6	Russia’s Cold- and Warm-Water Bases and Strategy for Turkey/Iran
+    1.7	Piracy in the Horn of Africa (HoA) and Strait of Malacca (SoM)
+    1.8	Conflicts in the Maritime Southeast Asia (MSA)
+    1.9	China’s One Belt, One Road (OBOR), Nine-Dash Line (NDL), and Maritime Silk Road (MSR)
 
 ### Chapter Two - Theoretical Treatment
     2.1	Seablindness, Ninety Percent of Everything, and “The Outlaw Ocean”
