@@ -44,9 +44,9 @@
     4.6	The Evolution of Carrier-Based Humanitarian Assistance and Disaster Relief (HA/DR)	
     4.7	Energy Security, Globalized Commodity Supply Chains, and Contemporary Carrier Realpolitik
     4.8	Opportunities: Souda Bay (Greece), Duqm (Oman), Agaléga (Mauritius), Singapore, Guam, Manila (Philippines), and the Andaman/Nicobar Is. 
-    4.9	Add-Ons: Lockheed’s F-35, Kratos’ XN-1 Laser Weapon System (LaWS), Boeing’s P-8 Poseidon and MQ-25, and Northrop’s X-47B
+    4.9	Add-Ons: Lockheed’s F-35, Kratos’ XN-1, Boeing’s P-8 and MQ-25, and Northrop’s X-47B
     4.10	Flash Points: Latakia (Syria), Doraleh (Djibouti), Darwin (Australia), Assumption Is. (Seychelles), Ramree Is./Cocos Is./Zadetkyi Kyun (Myanmar)
-    4.11	Future Risks: PLA-N Carriers in the Pacific and Russian Ice Cutters in the Arctic
+    4.11	Future Risks: China's PLA-N Carriers in the Pacific and Russia's Ice Cutters in the Arctic
 
 ### Chapter Five - End Matter
     5.1	Notes
