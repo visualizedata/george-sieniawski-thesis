@@ -14,7 +14,7 @@
     1.1	U.S. Legal/Statutory Requirement (10 U.S.C. § 5062) to Maintain Eleven Operational Carriers
     1.2	State and Structure of the Navy’s Carrier Strike Groups (CSGs) and Amphibious Ready Groups (ARGs)
     1.3	Pressure on the 7th Fleet in the Western Pacific Area of Responsibility (AOR)
-    1.4	Major Straits, Channels, Chokepoints, Redlines, Geopolitical Hot Spots and Separatist/Irredentist/Revanchist/Revisionist Spoiler Groups
+    1.4	Major Straits, Channels, Chokepoints, Redlines, and Geopolitical Hot Spots
     1.5	Russia’s Cold- and Warm-Water Bases and Strategy for Turkey/Iran
     1.6	Piracy in the Horn of Africa (HoA) and Strait of Malacca (SoM)
     1.7	Conflicts in the Maritime Southeast Asia (MSA)
@@ -26,10 +26,10 @@
     2.3	Timeline of Aircraft Carrier Construction and Naval Aviation
     2.4	Superpowers, Supercarriers, and America’s Pacific Century
     2.5	Contemporary Carrier Strategy and Lessons Learned in Iraq and Afghanistan
-    2.6	U.S. Conversion from Nimitz-Class to Ford-Class Carriers and the U.K.’s New Queen Elizabeth-Class Fleet
+    2.6	U.S. Conversion from Nimitz-Class to Ford-Class Carriers
     2.7	Recent Data on Carrier Operating Costs: High Seas Deployment vs. In-Port/Vessel Husbanding
-    2.8	Case Study of the USS Carl Vinson: “Just Like San Francisco Airport But With One Short Runway, One Ramp, and One Gate”
-    2.9	Routine Patrols, U.S. Maritime Security Operations (MSOs), and Humanitarian Assistance and Disaster Relief (HA/DR) 
+    2.8	Case Study of the USS Carl Vinson: “Just Like San Francisco Airport But With One Short Runway”
+    2.9	Routine Patrols, Maritime Security Operations (MSOs), and Humanitarian Assistance and Disaster Relief (HA/DR) 
     2.10	Major Diplomatic Crises, Bilateral Tensions, and Regional Flare-Ups from 2012 to 2018
     2.11	U.S. Response Patterns Under Presidents Obama/Trump, SecStates Clinton/Kerry/Tillerson, and SecDefs Panetta/Hagel/Carter/Mattis
 
