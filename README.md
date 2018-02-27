@@ -36,7 +36,7 @@
     3.5	Building the Unified Data Set in JavaScript Object Notation (JSON)
     3.6	User Interface (UI), Geographic Information System (GIS), and Front End-Back End (FE/BE) Integration
 
-### Chapter Four - Exploratory Data Analysis (EDA) and Key Findings
+### Chapter Four - Exploratory Data Analysis (EDA) and Results
     4.1	Living in a Ford, Nimitz, Queen Elizabeth, Liaoning, and Shandong World
     4.2	Prevailing Patterns in the U.S. Carrier Data
     4.3	Shifting Claims to Fisheries, Natural Gas, and Sand in the South China Sea
