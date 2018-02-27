@@ -15,7 +15,7 @@
     1.8	Conflicts in the Maritime Southeast Asia (MSA)
     1.9	China’s One Belt, One Road (OBOR), Nine-Dash Line (NDL), and Maritime Silk Road (MSR)
 
-### Chapter Two - Theoretical Treatment
+### Chapter Two - Theory
     2.1	Seablindness, Ninety Percent of Everything, and “The Outlaw Ocean”
     2.2	Seapower Theorists from Mahan to Gorshkov
     2.3	Timeline of Aircraft Carrier Construction and Naval Aviation
@@ -28,7 +28,7 @@
     2.10	Major Diplomatic Crises, Bilateral Tensions, and Regional Flare-Ups from 2012 to 2018
     2.11	U.S. Response Patterns Under Presidents Obama/Trump, SecStates Clinton/Kerry/Tillerson, and SecDefs Panetta/Hagel/Carter/Mattis
 
-### Chapter Three - Methodology
+### Chapter Three - Data Methods
     3.1	Underlying Data Structure and Extract, Transform and Load (ETL) Process
     3.2	Mapping Sea Lines of Communication (SLOCs)
     3.3	Analyzing Diplomatic Tone, Escalation, and De-Escalation Using GDELT’s CAMEO Codes
@@ -36,7 +36,7 @@
     3.5	Building the Unified Data Set in JavaScript Object Notation (JSON)
     3.6	User Interface (UI), Geographic Information System (GIS), and Front End-Back End (FE/BE) Integration
 
-### Chapter Four - Analysis and Conclusions
+### Chapter Four - Conclusion/Analysis
     4.1	Living in a Ford, Nimitz, Queen Elizabeth, Liaoning, and Shandong World
     4.2	Prevailing Patterns in the U.S. Carrier Data
     4.3	Shifting Claims to Fisheries, Natural Gas, and Sand in the South China Sea
