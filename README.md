@@ -38,7 +38,7 @@
 	2.11 U.S. Response Patterns Under Presidents Obama/Trump, SecDefs Panetta/Hagel/Carter/Mattis,
          and SecStates Clinton/Kerry/Tillerson
 
-### 3.0 - Modeling Carrier Power Projection
+### 3.0 - Modeling Contemporary Thalassocracy and Carrier Power Projection
 	3.1 The 4Fs: Fuel, Food, Fiber, and Feedstocks
 	3.2 World Trade Patterns/Global Shipping Data
 	3.3 Recent Data on Carrier Operating Costs: Persian Gulf Deployment vs. In-Port/Vessel Husbanding
