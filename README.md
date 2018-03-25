@@ -36,7 +36,7 @@
 	2.9 Significant Actors in APAC/MENA/Eurasia
 	2.10 Major Diplomatic Crises, Bilateral Tensions, and Regional Flare-Ups from 2012 to 2018
 	2.11 U.S. Response Patterns Under Presidents Obama/Trump, SecDefs Panetta/Hagel/Carter/Mattis,
-          and SecStates Clinton/Kerry/Tillerson
+         and SecStates Clinton/Kerry/Tillerson
 
 ### 3.0 - Modeling Carrier Power Projection
 	3.1 The 4Fs: Fuel, Food, Fiber, and Feedstocks
