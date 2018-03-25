@@ -1,56 +1,65 @@
-# Sea Lanes: Mapping Carrier Movements, 2012-2018
+# Strength in Numbers: Mapping Carrier Movements, 2012-2018
 
 ![media/ScreenShot2018-01-08.png](media/ScreenShot2018-01-08.png)
 
 ## Table of Contents
 
 ### 0.0 - Front Matter/Prefatory Materials
-    0.1	Abstract
-    0.2	Dedication and Acknowledgements
-    0.3	Caveats on Map Labeling and Non-Recognition of Disputed Territories/Sovereignty Claims
-    0.4	Avoiding Stavra-Type Issues/Maintaining Carrier Operational Security (OPSEC)
+	0.1 Abstract
+	0.2 Dedication
+	0.3 Acknowledgements
+	0.4 Caveat on Maps
+	0.5 Note on Sources
+	0.6 Critical Perspectives and Theoretical Debt
+	0.7 Codicil on Maritime Safety (MARSAF)/Operational Security (OPSEC)/Incidents at Sea (InSea)
     
 ### 1.0 - Current Carrier Challenges
-    1.1	U.S. Legal/Statutory Requirement (10 U.S.C. § 5062) to Maintain Eleven Operational Carriers
-    1.2	State of the Navy’s Carrier Strike Groups (CSGs) and Amphibious Ready Groups (ARGs)
-    1.3	Pressure on the 7th Fleet in the Western Pacific Area of Responsibility (AOR)
-    1.4	Major Straits, Channels, Chokepoints, Redlines, and Geopolitical Hot Spots
-    1.5	Russia’s Cold- and Warm-Water Bases and Strategy for the Middle East
-    1.6	Piracy in the Horn of Africa (HoA) and Strait of Malacca (SoM)
-    1.7	Conflicts in the Maritime Southeast Asia (MSA)
-    1.8	China’s One Belt, One Road (OBOR), Nine-Dash Line (NDL), and Maritime Silk Road (MSR)
-
-### 2.0 - Theories of Seapower
-    2.1	Seablindness, Ninety Percent of Everything, and “The Outlaw Ocean”
-    2.2	Naval Theorists from Mahan to Gorshkov
-    2.3	Timeline of Aircraft Carrier Construction and Naval Aviation
-    2.4	Superpowers, Supercarriers, and America’s Pacific Century
-    2.5	Contemporary Carrier Strategy and Lessons Learned in Iraq and Afghanistan
-    2.6	U.S. Conversion from Nimitz-Class to Ford-Class Carriers
-    2.7	Case Study of the USS Carl Vinson: “Just Like San Francisco Airport But With One Short Runway”
-    2.8	Maritime Security Operations (MSOs) and Humanitarian Assistance/Disaster Relief (HADR) 
-    2.9	Major Diplomatic Crises, Bilateral Tensions, and Regional Flare-Ups from 2012 to 2018
-    2.10	U.S. Response Patterns Under Presidents Obama/Trump, SecDefs Panetta/Hagel/Carter/Mattis,
+	1.1 The Law on Carrier Numbers
+	1.2 Market Microstructure: Monopsony Meets Monopoly
+	1.3 State of the Navy’s CSGs and ARGs in 2018
+	1.4 Recent Pressures on the 3rd and 7th Fleets
+	1.5 Major Straits, Channels, Chokepoints, Redlines, and Geopolitical Hot Spots
+	1.6 Russia’s Cold- and Warm-Water Bases and Strategy for the Middle East
+	1.7 Piracy in the Horn of Africa (HoA) and Strait of Malacca (SoM)
+	1.8 Conflicts in the Maritime Southeast Asia (MSA)
+	1.9 China’s One Belt, One Road (OBOR), Nine-Dash Line (NDL), and Maritime Silk Road (MSR)
+    
+### 2.0 - Theory and Practice of Seapower
+	2.1 Seablindness, Ninety Percent of Everything, and “The Outlaw Ocean”
+	2.2 Naval Theorists from Mahan to Gorshkov
+	2.3 Timeline of Aircraft Carrier Construction and Naval Aviation
+	2.4 Superpowers, Supercarriers, and America’s Pacific Century
+	2.5 Contemporary Carrier Strategy/Lessons Learned in Iraq and Afghanistan
+	2.6 U.S. Conversion from Nimitz-Class to Ford-Class Carriers
+	2.7 Case Study of the USS Carl Vinson
+	2.8 Maritime Security Operations (MSOs) and Humanitarian Assistance/Disaster Relief (HADR)
+	2.9 Significant Actors in APAC/MENA/Eurasia
+	2.10 Major Diplomatic Crises, Bilateral Tensions, and Regional Flare-Ups from 2012 to 2018
+	2.11 U.S. Response Patterns Under Presidents Obama/Trump, SecDefs Panetta/Hagel/Carter/Mattis,
             and SecStates Clinton/Kerry/Tillerson
 
 ### 3.0 - Modeling Carrier Power Projection
-    3.1	World Trade Patterns/Global Shipping Data
-    3.2	Recent Data on Carrier Operating Costs: Persian Gulf Deployment vs. In-Port/Vessel Husbanding
-    3.3	Underlying Data Structure and Extract, Transform and Load (ETL) Process
-    3.4	Mapping Sea Lines of Communication (SLOCs)
-    3.5	Analyzing Diplomatic Tone, Escalation, and De-Escalation Using GDELT’s CAMEO Codes
-    3.6	Measuring Carrier Deployments and Freedom of Navigation Operations (FONOPs)
-    3.7	Building the Unified Data Set in JavaScript Object Notation (JSON)
-    3.8	Planning the User Interface (UI) and Geographic Information System (GIS)
+	3.1 The 4Fs: Fuel, Food, Fiber, and Feedstocks
+	3.2 World Trade Patterns/Global Shipping Data
+	3.3 Recent Data on Carrier Operating Costs: Persian Gulf Deployment vs. In-Port/Vessel Husbanding
+	3.4 Underlying Data Structure and Extract, Transform and Load (ETL) Process
+	3.5 Mapping Sea Lines of Communication (SLOCs)
+	3.6 Analyzing Diplomatic Tone, Escalation, and De-Escalation Using Global Database of Events, Language, and Tone (GDELT)’s Conflict and Mediation Event Observations (CAMEO) Framework
+	3.7 Measuring U.S. Carrier Deployments and Freedom of Navigation Operations (FONOPs)
+	3.8 Building the Unified Data Set in JavaScript Object Notation (JSON)
+	3.9 Parametrizing Ship Domains
+	3.10 Planning the User Interface (UI) and Geographic Information System (GIS)
+	3.11 Selecting Cartographic Projections and the Nautical Map Layout
+	3.12 Showing Seasonal Patterns and the Calendar Layout
 
 ### 4.0 - Conclusions
-    4.1	Living in a Ford, Nimitz, Queen Elizabeth, Liaoning, and Shandong World
-    4.2	Prevailing Patterns in the U.S. Carrier Data
-    4.3	Shifting Claims to Fisheries, Natural Gas, and Sand in the South China Sea
-    4.4	Anti-Access and Area Denial (A2AD) in ASEAN: Singapore, South Korea, Taiwan, Japan
-    4.5	The Impact of U.S. Carrier Refueling and Complex Overhaul (RCOH) on Range/Preparedness
-    4.6	The Evolution of Carrier-Based Humanitarian Assistance and Disaster Relief (HA/DR)	
-    4.7	Energy Security, Globalized Commodity Supply Chains, and Contemporary Carrier Realpolitik
+	4.1 Living in a Ford, Nimitz, Queen Elizabeth, Liaoning, and Shandong World
+	4.2 Prevailing Patterns in the U.S. Carrier Data
+	4.3 Shifting Claims to Fisheries, Natural Gas, and Sand in the South China Sea
+	4.4 Anti-Access and Area Denial (A2AD) in ASEAN: Singapore, South Korea, Taiwan, Japan
+	4.5 The Impact of U.S. Carrier Refueling and Complex Overhaul (RCOH) on Range/Preparedness
+	4.6 The Evolution of Carrier-Based Humanitarian Assistance and Disaster Relief (HA/DR)
+	4.7 Energy Security, Globalized Commodity Supply Chains, and Contemporary Carrier Realpolitik
     4.8	Opportunities: Souda Bay (Greece), Duqm (Oman), Agaléga (Mauritius), Singapore, Guam, 
             Manila (Philippines), and the Andaman/Nicobar Is. 
     4.9	Add-Ons: Lockheed’s F-35, Kratos’ XN-1, Boeing’s P-8 and MQ-25, and Northrop’s X-47B
