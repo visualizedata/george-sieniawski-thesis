@@ -23,7 +23,7 @@
 	1.7 Piracy in the Horn of Africa (HoA) and Strait of Malacca (SoM)
 	1.8 Conflicts in the Maritime Southeast Asia (MSA)
 	1.9 China’s People’s Liberation Army Navy (PLAN) Buildup
-    	1.10 China’s One Belt, One Road (OBOR), Nine-Dash Line (NDL), and Maritime Silk Road (MSR)
+	1.10 China’s One Belt, One Road (OBOR), Nine-Dash Line (NDL), and Maritime Silk Road (MSR)
 
 ### 2.0 - Theory and Practice of Seapower
 	2.1 Seablindness, Ninety Percent of Everything, and “The Outlaw Ocean”
