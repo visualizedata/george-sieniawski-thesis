@@ -66,7 +66,7 @@
 	4.9 Add-Ons: Lockheed’s F-35, Kratos’ XN-1, Boeing’s P-8 and MQ-25, and Northrop’s X-47B
 	4.10 Future Flash Points: Tartus/Latakia (Syria), Doraleh (Djibouti), Darwin (Australia),
          Assumption Is. (Seychelles), Ramree Is./Cocos Is./Zadetkyi Kyun Is. (Myanmar)
-    	4.11 Future Risks: China's PLA-N Carriers in the Pacific and Russia's Ice Cutters in the Arctic
+	4.11 Future Risks: China's PLA-N Carriers in the Pacific and Russia's Ice Cutters in the Arctic
 
 ### 5.0 - End Matter
 	5.1 Notes
