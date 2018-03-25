@@ -61,7 +61,7 @@
 	4.5 The Impact of U.S. Carrier Refueling and Complex Overhaul (RCOH) on Range/Preparedness
 	4.6 The Evolution of Carrier-Based Humanitarian Assistance and Disaster Relief (HA/DR)
 	4.7 Energy Security, Globalized Commodity Supply Chains, and Contemporary Carrier Realpolitik
-        4.8 Opportunities: Souda Bay (Greece), Duqm (Oman), Agaléga (Mauritius), Singapore, Guam, 
+	4.8 Opportunities: Souda Bay (Greece), Duqm (Oman), Agaléga (Mauritius), Singapore, Guam, 
             Manila (Philippines), and the Andaman/Nicobar Is. 
     	4.9 Add-Ons: Lockheed’s F-35, Kratos’ XN-1, Boeing’s P-8 and MQ-25, and Northrop’s X-47B
     	4.10 Future Flash Points: Tartus/Latakia (Syria), Doraleh (Djibouti), Darwin (Australia),
@@ -69,9 +69,9 @@
     	4.11 Future Risks: China's PLA-N Carriers in the Pacific and Russia's Ice Cutters in the Arctic
 
 ### 5.0 - End Matter
-    	5.1	Notes
-    	5.2	References
-    	5.3	Appendix
+	5.1 Notes
+	5.2 References
+	5.3 Appendix
 
 ## Early Planning
 
