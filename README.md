@@ -45,7 +45,7 @@
 	3.4 Underlying Data Structure and Extract, Transform and Load (ETL) Process
 	3.5 Mapping Sea Lines of Communication (SLOCs)
 	3.6 Analyzing Diplomatic Tone, Escalation, and De-Escalation Using Global Database of Events, 
-	   Language, and Tone (GDELT)’s Conflict and Mediation Event Observations (CAMEO) Framework
+	    Language, and Tone (GDELT)’s Conflict and Mediation Event Observations (CAMEO) Framework
 	3.7 Measuring U.S. Carrier Deployments and Freedom of Navigation Operations (FONOPs)
 	3.8 Building the Unified Data Set in JavaScript Object Notation (JSON)
 	3.9 Parametrizing Ship Domains
