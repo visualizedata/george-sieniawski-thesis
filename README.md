@@ -1,4 +1,4 @@
-# Strength in Numbers: Mapping Carrier Movements, 2012-2018
+# Strength in Numbers: Mapping U.S. Aircraft Carrier Diplomacy, 2012-2018
 
 ![media/ScreenShot2018-01-08.png](media/ScreenShot2018-01-08.png)
 
