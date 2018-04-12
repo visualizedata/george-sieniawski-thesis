@@ -112,14 +112,14 @@
 * to what extent does carrier coverage correlate with [Straits of Malacca piracy](https://www.icc-ccs.org/piracy-reporting-centre/live-piracy-map)?
 * to what extent is the shift from Obama to Trump perceptible in the U.S. carrier data?
 
-## Time Series Breakdown/Dimensional Analysis on 5,820 Week-by-Week Vessel Reports
+## Time Series Breakdown/Dimensional Analysis on 6,040 Week-by-Week Vessel Reports
 
 | 1 | 2 | 3 |
 |---:|:---:|:---|
 | May 23, 2012 - Nov. 14, 2013 | Nov. 21, 2013 - Nov. 24, 2016 | Dec. 22, 2016 - Present |
-| 77 | 157 | 57 |
+| 77 | 157 | 68 |
 | ×20 | ×20 | ×20 |
-| 1,540 | 3,140 | 1,140 |
+| 1,540 | 3,140 | 1,360 |
 
 ## Carrier Data
 
@@ -184,7 +184,7 @@
 | LHD 7 USS *Iwo Jima* | Mayport, FL | 11/23/2016 | Returned to home port |
 | LHD 8 USS *Makin Island* | San Diego, CA | 11/23/2016 | Underway in the Pacific Ocean |
 
-### Sample AIS data for the ```57+ week period``` from December 22, 2016 to Present
+### Sample AIS data for the ```68+ week period``` from December 22, 2016 to Present
 
 | CARRIER STRIKE GROUPS (CSGs) AT SEA | AMPHIBIOUS READY GROUPS (ARGs)/MARINE EXPEDITIONARY UNITS (MEU) AT SEA |
 | ---: | :--- |
