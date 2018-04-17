@@ -3,7 +3,7 @@ var width = 875,
     cellSize = 12; // cell size
     week_days = ['Sun','Mon','Tue','Wed','Thu','Fri','Sat']
     month = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec']
-	
+
 var day = d3.time.format("%w"),
     week = d3.time.format("%U"),
     percent = d3.format(".1%"),
@@ -28,7 +28,15 @@ svg.append("text")
     .style("text-anchor", "middle")
     .style('fill', 'white')
     .text(function(d) { return d; });
- 
+
+svg.append("text")
+        .attr("x", (width / 2))             
+        .attr("text-anchor", "middle")  
+        .style("font-size", "10px") 
+        .style("text-decoration", "underline")
+        .style('fill', 'red')
+        .text("CAVEAT: GDELT MOCKUP WITH PLACEHOLDER DATA");
+
 for (var i=0; i<7; i++)
 {    
 svg.append("text")
