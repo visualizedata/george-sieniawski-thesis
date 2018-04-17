@@ -26,6 +26,7 @@ var svg = d3.select(".calendar-map").selectAll("svg")
 svg.append("text")
     .attr("transform", "translate(-38," + cellSize * 3.5 + ")rotate(-90)")
     .style("text-anchor", "middle")
+    .style('fill', 'white')
     .text(function(d) { return d; });
  
 for (var i=0; i<7; i++)
@@ -34,7 +35,7 @@ svg.append("text")
     .attr("transform", "translate(-5," + cellSize*(i+1) + ")")
     .style("text-anchor", "end")
     .attr("dy", "-.25em")
-    .text(function(d) { return week_days[i]; }); 
+//    .text(function(d) { return week_days[i]; }); 
  }
 
 var rect = svg.selectAll(".day")
@@ -59,7 +60,7 @@ legend.append("text")
    .attr("class", function(d,i){ return month[i] })
    .style("text-anchor", "end")
    .attr("dy", "-.25em")
-   .text(function(d,i){ return month[i] });
+//   .text(function(d,i){ return month[i] });
    
 svg.selectAll(".month")
     .data(function(d) { return d3.time.months(new Date(d, 0, 1), new Date(d + 1, 0, 1)); })
