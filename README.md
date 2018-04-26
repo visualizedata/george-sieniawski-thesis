@@ -1,6 +1,6 @@
 ## Strength in Numbers: Mapping U.S. Aircraft Carrier Diplomacy, 2012-2018
 
-[!preview.jpg](preview.jpg)
+![preview.jpg](preview.jpg)
 
 Global seapower competition is intensifying. As China dredges up ≈3,200 acres of territory *ex nihilo* in the South China Sea and emplaces sea missiles astride the Philippine archipelago, and as Russia disperses its submarines more widely across the Mediterranean as it conducts simulated attack strafing runs against NATO vessels in the Baltic Sea, the Obama and Trump national security teams have faced increasingly intricate naval diplomacy and maritime security challenges in recent years. 
 
