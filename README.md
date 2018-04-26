@@ -6,6 +6,8 @@ Global seapower competition is intensifying. As China dredges up ≈3,200 acres 
 
 With these shifts in mind, this thesis examines the overall patterns in U.S. aircraft carrier movement worldwide from 2012 to 2018, querying diplomatic tension in the Global Database of Events, Language, and Tone (GDELT) under both the Obama and Trump administrations and comparing them to vessel movements as well as freedom of navigation operations (FONOPS). In addition, this thesis examines the geostrategic impact of Secretary of State Hillary Clinton’s diplomatic pivot to Asia in 2011 and Secretary of Defense Leon Panetta’s decision in 2012 to move 60% of the U.S. fleet to the Pacific, breaking with decades of a roughly even 50%-50% Atlantic-Pacific force posture.
 
+___
+
 ### Bibliography
 
 Alford, Jonathan. *Sea Power and Influence: Old Issues and New Challenges.* London: International Institute for Strategic Studies, 1980.
