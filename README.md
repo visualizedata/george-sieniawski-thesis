@@ -1,5 +1,7 @@
 ## Strength in Numbers: Mapping U.S. Aircraft Carrier Diplomacy, 2012-2018
 
+[!preview.jpg](preview.jpg)
+
 Global seapower competition is intensifying. As China dredges up ≈3,200 acres of territory *ex nihilo* in the South China Sea and emplaces sea missiles astride the Philippine archipelago, and as Russia disperses its submarines more widely across the Mediterranean as it conducts simulated attack strafing runs against NATO vessels in the Baltic Sea, the Obama and Trump national security teams have faced increasingly intricate naval diplomacy and maritime security challenges in recent years. 
 
 With these shifts in mind, this thesis examines the overall patterns in U.S. aircraft carrier movement worldwide from 2012 to 2018, querying diplomatic tension in the Global Database of Events, Language, and Tone (GDELT) under both the Obama and Trump administrations and comparing them to vessel movements as well as freedom of navigation operations (FONOPS). In addition, this thesis examines the geostrategic impact of Secretary of State Hillary Clinton’s diplomatic pivot to Asia in 2011 and Secretary of Defense Leon Panetta’s decision in 2012 to move 60% of the U.S. fleet to the Pacific, breaking with decades of a roughly even 50%-50% Atlantic-Pacific force posture.
