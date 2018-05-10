@@ -84,7 +84,7 @@ d3.csv("data.csv", function(error, csv) {
 	
   rect.filter(function(d) { return d in data; })
       .attr("fill", function(d) { return color(data[d]); })
-	  .attr("data-title", function(d) { return "Diplomatic Tensions: "+Math.round(data[d]*100)});   
+	  .attr("data-title", function(d) { return "Carrier Index: "+Math.round(data[d]*100)});   
 	$("rect").tooltip({container: 'body', html: true, placement:'top'}); 
 });
 
