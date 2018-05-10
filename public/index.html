@@ -1,130 +1,106 @@
-
 <!DOCTYPE html>
 <html lang="en" >
 <head>
 <meta charset="UTF-8">
-<title>Sea Lanes: Mapping Carrier Movements, 2012-2018</title>
-<link href="https://fonts.googleapis.com/css?family=Black+Ops+One" rel="stylesheet">
+<title>U.S. Naval Diplomacy, 2012-18</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<script src="https://d3js.org/d3.v3.min.js"></script>
+<script src="https://d3js.org/topojson.v1.min.js"></script>
+<script src="//code.jquery.com/jquery-1.10.2.js"></script>
+<link rel='stylesheet prefetch' href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css'>
+<link href="bootstrap.css" rel="stylesheet" /> 
+<link rel='stylesheet prefetch' href='https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css'>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.5/d3.min.js"></script>
+<link rel='stylesheet prefetch' href='https://fonts.googleapis.com/css?family=Roboto+Slab:100,300,400,700'>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.2.0/dist/leaflet.css" integrity="sha512-M2wvCLH6DSRazYeZRIm1JnYyh22purTM+FDB5CsyxtQJYeKq83arPe5wgbNmcFXGqiSH2XR8dT/fJISVA1r/zQ==" crossorigin=""/>
+<script src="https://unpkg.com/leaflet@1.2.0/dist/leaflet.js" integrity="sha512-lInM/apFSqyy1o6s89K4iQUKg6ppXEgsVxT35HbzUupEVRh2Eu9Wdl4tHj7dZO0s1uvplcYGmt3498TtHq+log==" crossorigin=""></script>
 <link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="css/greatarcs.css">
 </head>
 <body>
-  <h2>SEA LANES: MAPPING CARRIER MOVEMENTS, 2012-2018</h2>
-  <h3>AN INTERACTIVE M.S.D.V. THESIS IN FIVE SECTIONS WITH MAPS IN <a href="https://d3js.org/" target="_blank">D3,</a> <a href="http://www.leafletjs.com/" target="_blank">LEAFLET.JS,</a> AND <a href="https://www.mapbox.com/" target="_blank">MAPBOX.</a><br>
-<a href="https://sieng146.github.io/thesis/public/proof-of-concept-01.html" target="_blank">PROOF OF CONCEPT #1</a> AND <a href="https://sieng146.github.io/thesis/public/proof-of-concept-02.html" target="_blank">PROOF OF CONCEPT #2</a></h3>
-  <div class="cont s--inactive">
-  <div class="cont__inner">
-      <div class="el">
-      <div class="el__overflow">
-        <div class="el__inner">
-          <div class="el__bg"></div>
-          <div class="el__preview-cont">
-            <h2 class="el__heading">Energy Security, Globalized Supply Chains, and Realpolitik</h2>
-          </div>
-          <div class="el__content">
-            <div class="el__text">Energy Security, Globalized Supply Chains, and Realpolitik<br>
-            <br>"Suffer pirates and the commerce of the world must cease."<br>
-             -- Henry Newton, crown prosecutor in a 1696 admiralty trial in the U.K.</div>
-            <div class="el__close-btn"></div>
-          </div>
-        </div>
-      </div>
-      <div class="el__index">
-        <div class="el__index-back">1</div>
-        <div class="el__index-front">
-          <div class="el__index-overlay" data-index="1">1</div>
-        </div>
-      </div>
+<body data-spy="scroll" data-target="#navbar-example">
+<div class="wrapper" >
+    <nav class="nav__wrapper" id="navbar-example">
+      <ul class="nav">
+        <li role="presentation" class="active">
+          <a href="#section1">
+            <span class="nav__counter">01 </span>
+            <h3 class="nav__title">Introduction</h3>
+            <p class="nav__body">To explore the U.S. aircraft carrier data for 2012-2012, scroll down to change sections, or click on a number. <font size="7">&#x2b07;</font><br>
+            </p>
+          </a>
+        </li>
+        <li role="presentation">
+          <a href="#section2">
+            <span class="nav__counter">02</span>
+            <h3 class="nav__title">Key Routes</h3>
+            <p class="nav__body"><i>"Suffer pirates and the commerce of the world must cease."</i><br><br>-- Henry Newton, crown prosecutor in a 1696 admiralty trial in the U.K.</p>
+          </a>
+        </li>
+        <li role="presentation">
+          <a href="#section3">
+            <span class="nav__counter">03</span>
+            <h3 class="nav__title">U.S. Naval Activity</h3>
+            <p class="nav__body"><i>"When word of a crisis breaks out in Washington, it's no accident that the first question that comes to everyone's lips is: 'Where's the nearest carrier?'"</i><br><br>-- Pres. Bill Clinton, on board USS <i>Theodore Roosevelt</i>, March 12, 1993</p>
+          </a>
+        </li>
+        <li role="presentation">
+          <a href="#section4">
+            <span class="nav__counter">04</span>
+            <h3 class="nav__title">Crossing Suez</h3>
+            <p class="nav__body"><i>"[T]he problems which we face are so vast and so interrelated that any attempt even to state them compels one to think in terms of five continents and seven seas."</i><br><br>-- Pres. Franklin D. Roosevelt, January 21, 1941</p>
+          </a>
+        </li>
+        <li role="presentation">
+          <a href="#section5">
+            <span class="nav__counter">05</span>
+            <h3 class="nav__title">The Mediterranean</h3>
+            <p class="nav__body"><i>"The Mediterranean is both a cross-roads and frontier. The Mediterranean is the point of contact between dissimilar worlds."<br><br>-- T. Rathbone</i></p>
+          </a>
+        </li>
+        <li role="presentation">
+          <a href="#section6">
+            <span class="nav__counter">06</span>
+            <h3 class="nav__title">The South China Sea</h3>
+            <p class="nav__body"><i>"The construction of artificial islands in the South China Sea plus the increased capability of the long-range ship attack missiles by China shift, but do not fully reverse, the balance of power in Asia."<br><br>-- Adm. James G. Stavridis (USN), 2017</i></p>
+          </a>
+        </li>
+                <li role="presentation">
+          <a href="#section7">
+            <span class="nav__counter">07</span>
+            <h3 class="nav__title">Conclusions</h3>
+            <p class="nav__body"><i>"The construction of artificial islands in the South China Sea plus the increased capability of the long-range ship attack missiles by China shift, but do not fully reverse, the balance of power in Asia."<br><br>-- Adm. James G. Stavridis (USN), 2017</i></p>
+          </a>
+        </li>
+      </ul>
+    </nav>
+    <section class="section section1" id="section1">
+<p><strong><font size="7">Strength in Numbers: Mapping U.S. Naval Diplomacy, 2012-2018</font></strong><br>
+    <br><br>Global seapower competition is intensifying. As China dredges up ≈3,200 acres of territory <i>ex nihilo</i> in the South China Sea and emplaces sea missiles astride the Philippine archipelago, and as Russia disperses its submarines more widely across the Mediterranean as it conducts simulated attack strafing runs against NATO vessels in the Baltic Sea, the Obama and Trump national security teams have faced increasingly intricate naval diplomacy and maritime security challenges in recent years.<br><br>With these shifts in mind, this thesis examines the overall patterns in U.S. naval diplomacy worldwide from 2012 to 2018, querying diplomatic tension in the Global Database of Events, Language, and Tone (GDELT) under both the Obama and Trump administrations and comparing them to vessel movements as well as freedom of navigation operations (FONOPS). In addition, this thesis examines the geostrategic impact of Secretary of State Hillary Clinton’s diplomatic pivot to Asia in 2011 and Secretary of Defense Leon Panetta’s decision in 2012 to move 60% of the U.S. fleet to the Pacific, breaking with decades of a roughly even 50%-50% Atlantic-Pacific force posture.</p></section>
+    <section class="section section2" id="section2">
+    <div class="greatarcs"></div>
+<script type="text/javascript" src="greatarcs.js"></script>
+    </section>
+    <section class="section section3" id="section3">
+<div class="calendar-map"></div>
+<script type="text/javascript" src="calendarmap.js"></script>
+</section>
+    <section class="section section4" id="section4">
+<iframe width="100%" height="100%" src="https://www.youtube-nocookie.com/embed/px_J0khskz8?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    </section>
+    <section class="section section5" id="section5">
+<p><strong><font size="7">Increased Mediterranean Presence</font></strong><br><br>
+In recent year, U.S. carrier activity in the Mediterranean has intensified, with more pronounced presence east of Suez (near Europe) than west, in the Middle East. With Russia dispersing its submarines more widely across the Mediterranean, the U.S. National Defense Strategy rightly recognizes that “inter-state strategic competition, not terrorism, is now the primary concern in U.S. national security,” and thus, the Truman Carrier Strike Group (CSG) is spending more time in the western Mediterranean.</p></section>
+    <section class="section section6" id="section6">
+<p><strong><font size="7">7 U.S. FONOPs in 6 years</font></strong><br><br>
+According to Adm. Philip Davidson -- the U.S. Pacific Commander -- “China is now capable of controlling the South China Sea in all scenarios short of war with the United States.” In order to avoid that high-stakes scenario in Oceania, the U.S., Australia, and other regional allies in the ASEAN region have been conducting freedom of navigation operations (FONOPs) in and around the South China Sea, asserting the right for all ships to sail through the region.</p></section>
+        <section class="section section7" id="section7">
+<p><strong><font size="7">Pivot to the Pacific</font></strong><br><br>
+60-40 instead of 50-50.</p></section>
     </div>
-    <div class="el">
-      <div class="el__overflow">
-        <div class="el__inner">
-          <div class="el__bg"></div>
-          <div class="el__preview-cont">
-            <h2 class="el__heading">Seapower Theorists and Strategists from Plato to NATO</h2>
-          </div>
-          <div class="el__content">
-            <div class="el__text">Seapower Theorists and Strategists from Plato to NATO<br>
-            <br>"[T]he problems which we face are so vast and so interrelated that any attempt even to state them compels one to think in terms of five continents and seven seas."<br>
-            -- Franklin D. Roosevelt, January 21, 1941</div>
-            <div class="el__close-btn"></div>
-          </div>
-        </div>
-      </div>
-      <div class="el__index">
-        <div class="el__index-back">2</div>
-        <div class="el__index-front">
-          <div class="el__index-overlay" data-index="2">2</div>
-        </div>
-      </div>
-    </div>
-    <div class="el">
-      <div class="el__overflow">
-        <div class="el__inner">
-          <div class="el__bg"></div>
-          <div class="el__preview-cont">
-            <h2 class="el__heading">Timeline of Carrier Construction and Naval Aviation</h2>
-          </div>
-          <div class="el__content">
-            <div class="el__text">Timeline of Carrier Construction and Naval Aviation<br>
-            <br>"An airplane-carrying vessel is indispensable. . . . It will be flat, as wide as possible without jeopardizing the nautical lines of the hull, and it will look like a landing field."<br>
-            -- Cl&#233;ment Ader, 1909</div>
-            <div class="el__close-btn"></div>
-          </div>
-        </div>
-      </div>
-      <div class="el__index">
-        <div class="el__index-back">3</div>
-        <div class="el__index-front">
-          <div class="el__index-overlay" data-index="3">3</div>
-        </div>
-      </div>
-    </div>
-    <div class="el">
-      <div class="el__overflow">
-        <div class="el__inner">
-          <div class="el__bg"></div>
-          <div class="el__preview-cont">
-            <h2 class="el__heading">Chokepoints, Sea Lanes, Redlines, Hot Spots, and Flareups</h2>
-          </div>
-          <div class="el__content">
-            <div class="el__text">Chokepoints, Sea Lanes, Redlines, Hot Spots, and Flareups<br>
-            <br>"The construction of artificial islands in the South China Sea plus the increased capability of the long-range ship attack missiles by China shift, but do not fully reverse, the balance of power in Asia, especially given the strength of U.S. allies such as Japan and South Korea."<br>
-            -- Adm. James G. Stavridis (USN), 2017</div>
-            <div class="el__close-btn"></div>
-          </div>
-        </div>
-      </div>
-      <div class="el__index">
-        <div class="el__index-back">4</div>
-        <div class="el__index-front">
-          <div class="el__index-overlay" data-index="4">4</div>
-        </div>
-      </div>
-    </div>
-    <div class="el">
-      <div class="el__overflow">
-        <div class="el__inner">
-          <div class="el__bg"></div>
-          <div class="el__preview-cont">
-            <h2 class="el__heading">Superpowers, Supercarriers, and America's Pacific Century</h2>
-          </div>
-          <div class="el__content">
-            <div class="el__text">Superpowers, Supercarriers, and America's Pacific Century<br>
-            <br>"As in chess, American global planners must think several moves ahead, anticipating possible countermoves."<br>
-            -- Zbigniew Brzezinski, 1997</div>
-            <div class="el__close-btn"></div>
-          </div>
-        </div>
-      </div>
-      <div class="el__index">
-        <div class="el__index-back">5</div>
-        <div class="el__index-front">
-          <div class="el__index-overlay" data-index="5">5</div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
+</body>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
+<script src='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js'></script>
 <script  src="js/index.js"></script>
 </body>
 </html>
