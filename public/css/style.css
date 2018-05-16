@@ -123,6 +123,9 @@ section:nth-child(9) {
       -ms-flex-pack: end;
           justify-content: flex-end;
 }
+.carousel-inner > .item > img {
+    margin: 0 auto;
+}
 .carousel-caption {
     top: 0;
     bottom: auto;
