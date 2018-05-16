@@ -98,9 +98,14 @@ section:nth-child(9) {
 }
 
 #section8 {
+	padding:0;
   overflow-wrap: break-word;
   color: white;
   text-shadow: 2px 2px 4px #000000;
+}
+
+#section9 {
+  padding:0;
 }
 
 #map {
