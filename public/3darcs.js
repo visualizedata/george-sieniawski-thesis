@@ -3,7 +3,7 @@ d3.select(window)
     .on("mouseup", mouseup);
 
 var width = window.innerWidth,
-    height = window.innerHeight;
+    height = 1.5*window.innerHeight;
 
 var proj = d3.geo.orthographic()
     .translate([width / 2, height / 2])
